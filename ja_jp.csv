@@ -162,11 +162,7 @@
                     ","
                         ルールを選択して保存すると、複数のクーポンコードを生成することができます
                     "
-"
-                        Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
-                    ","
-                        ロゴはHTMLドキュメントのみです。 もし空の場合はデフォルトが使われます<br />(jpeg, gif, png)
-                    "
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","ロゴはHTMLドキュメントのみです。 もし空の場合はデフォルトが使われます<br />(jpeg, gif, png)"
 "
                         Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
                     ","
@@ -201,11 +197,7 @@
                     ","
                         使用可能数はログインしている顧客にのみ適用されます。
                     "
-"
-                        Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
-                    ","
-                        あなたのデフォルトロゴがPDFとHTMLドキュメントに使われます<br />(jpeg, tiff, png) もしPDF画層が見づらいものであれば大きいファイルサイズの画像を使って下さい
-                    "
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","あなたのデフォルトロゴがPDFとHTMLドキュメントに使われます<br />(jpeg, tiff, png) もしPDF文書の画像が見づらいものであれば大きいファイルサイズの画像を使って下さい"
 "
                     <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -266,11 +258,7 @@
                                             PayPal広告プログラムによって顧客の追加購入が促され、顧客の購入量を15％以上増加させることが示されています。
                                             <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細をご覧ください</a>。
                 "
-"
-                    Please note that these settings apply to individual items in the cart, not to the entire cart.
-                ","
-                    これらの設定はカート内の個別の商品に適用されてカート全体に適用されないことをご注意ください。
-                "
+"Please note that these settings apply to individual items in the cart, not to the entire cart.","これらの設定はカート内の個別の商品に適用されてカート全体に適用されないことをご注意ください。"
 "
                     See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
@@ -645,7 +633,7 @@ ASCII,ASCII
 "About the calendar",カレンダーについて
 "Accept Payment",支払受付
 "Accept Rate",受け入れ率
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","あなたのMagentoストアでクレジットカード/デビットカードとPayPalを受け入れます。<br/>セットアップや月額料金はなく、顧客は購入手続きを完了するために別サイトに移動する必要はありません。
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","あなたのMagentoストアでクレジットカード/デビットカードとPayPalがご利用いただけます。<br/>初期費用や月額料金はなく、別画面に移動することなく支払手続きが行なえます。"
 "Accept or Deny Payment",支払いを受諾または拒否"
 "Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","あなたのサイトに顧客を保つPCI準拠のチェックアウトで支払いを受け入れます。 （<u>エクスプレスチェックアウトを含む</u>）"
 "Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","あなたのサイトに顧客を保つPCI準拠のチェックアウトで支払いを受け入れます。 （<u>エクスプレスチェックアウトを含む</u>）"
@@ -807,7 +795,7 @@ Add,追加
 "Add Your Review",レビューを追加
 "Add \Exception","\Exception 追加"
 "Add after",追加後
-"Add another payment method to your existing solution or as a stand-alone option.",既に存在する処理法に別の支払方法を追加するかスタンドアローンオプションとしてください。
+"Add another payment method to your existing solution or as a stand-alone option.","他の支払い方法と同列または独立したオプションとして支払い方法を提供できます。"
 "Add configurable attributes to the current Attribute Set","構成可能な属性を現在の属性セットに追加する"
 "Add or remove gift cards","ギフトカードの追加または削除"
 "Add configurable attributes to the current Attribute Set (""%1"")","設定可能な属性を現在の属性セット (""%1"")に追加"
@@ -1757,8 +1745,8 @@ Checkout,レジに進む
 "Choose an Option...",オプションを選択してください...
 "Choose existing Attribute Set",属性セットを選択
 "Choose existing category.",既存のカテゴリを選択してください。
-"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","顧客IPが注文、請求書、送料、クレジットメモに記されているか選んで下さい
-Choose...,選択してください..."
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","購入者のIPアドレスを注文/請求/配送/返金の各データに表示してよいか指定してください。"
+"Choose...","選択してください..."
 Circle,白丸
 "Circular-reference in theme inheritance detected for ""%1"""," ""%1""のテーマ継承にサーキュラーリファレンスを検知しました"
 City,市区町村
@@ -2113,7 +2101,7 @@ Credit,クレジット
 "Credit memo for your %store_name order","%store_nameオーダーのクレジットメモ"
 "Credit memo has not been canceled.",クレジットメモはキャンセルされていません。
 "Critical System Messages",クリティカルなシステムメッセージ
-Cron,クロン
+Cron,定時処理
 "Cron (Scheduled Tasks)","Cron（スケジュールされたタスク）"
 "Cron Expression",Cron式
 "Cron Schedules List",Cronスケジュール一覧
@@ -2761,7 +2749,7 @@ Email,メール
 "Email Sent from Gift Card Account Management",ギフトカードアカウント管理から送信されたメール
 "Email Template",メールテンプレート
 "Email Templates",メールテンプレート
-"Email Text Length Limit",Wメールのテキストの長さの最大数
+"Email Text Length Limit",メール本文の最大文字数
 "Email Verification",電子メールの確認
 "Email address",Eメールアドレス
 "Email address impact. The customer uses a free email provider, or the email address is risky","電子メールアドレスの影響。顧客が無料の電子メールプロバイダを使用している、または電子メールアドレスが危険です。"
@@ -2806,7 +2794,7 @@ Enable,有効
 "Enable Charts",グラフを有効にする
 "Enable Contact Us",お問い合わせを有効にする
 "Enable Content Experiments",コンテント試験有効化
-"Enable Cron",Cron有効化
+"Enable Cron",定時処理有効化
 "Enable Cross Border Trade",越境取引課税計算を有効にする
 "Enable Customer Segment Functionality",顧客セグメント機能を有効にする
 "Enable Elasticsearch HTTP Auth",エラスティックサーチHTTP認証を有効にする
@@ -4253,7 +4241,7 @@ Matched,一致
 "Matched five-digit ZIP only (no Address)","5桁ZIPのみ (住所なし)"
 "Matched whole nine-didgit ZIP (no Address)","全ての９桁ZIP合致 (住所なし)"
 "Max Characters",最大文字数
-"Max Emails Allowed to be Sent",許可された送信された最大のメール数
+"Max Emails Allowed to be Sent",送信可能なメールの最大件数
 "Max Invitations Allowed to be Sent at One Time",一度に送信できる招待メールの件数
 "Max Number of Password Reset Requests",パスワードリセットリクエストの送信回数
 "Max Products Sent in 1 Hour",1時間あたりの最大送信件数
@@ -6404,7 +6392,7 @@ Samples,サンプル
 "Sandbox API Key",サンドボックスAPIキー
 "Sandbox API Password",サンドボックスAPIのパスワード
 "Sandbox Client-side Encryption Key",サンドボックスクライアント側の暗号化キー
-"Sandbox Mode",保護モード
+"Sandbox Mode",テストモード
 Save,保存
 "Save & Activate","保存 & アクティベーション"
 "Save & Close","保存 & 終了"
@@ -7917,7 +7905,7 @@ To,終了
 "To landing page (302 Found)","ランディングページへ (302 Found)"
 "To login form (302 Found)","ログインフォームへ (302 Found)"
 "To see product price, add this item to your cart. You can always remove it later.",商品の価格を確認するためにカートに入れてください。カートから削除することはいつでも可能です。
-"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","ストアでVAT番号表示するには、 Show VAT Number on Storefront オプションをYesに設定。"
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","ストアでVAT番号表示するには、 ""VAT番号をストアで表示"" オプションをYesに設定してください。"
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","サイトにサインインしてパスワードを設定するには、 <a href=""%create_password_url"">リンク</a>をクリックしてください:"
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにサインインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:"
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","プロモーションを利用するには、<a href=""%account_url"">%store_name</a>でサインインする必要があります"
@@ -9605,3 +9593,19 @@ yes,はい
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","すべての項目は完全なURLの形式かつ末尾が'/'のものが許可されています。 例: https://example.com/magento/"
 "May start with {{unsecure_base_url}} placeholder.","プレースホルダ {{unsecure_base_url}} で始まる文字列を指定してください。"
 "I.e. redirect from http://example.com/store/ to http://www.example.com/store/","例: http://example.com/store から http://example.com/store/ にリダイレクトします"
+"Success Page","ご注文ありがとうございました"
+"Import/Export Tax Rates","税率のインポート/エクスポート"
+"Braintree Settlement",Braintree決済
+"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","{{secure_base_url}} または {{unsecure_base_url}} で始まる文字列を指定してください。"
+"Enter https protocol to use Secure URLs on Storefront.","ストアフロントでセキュアURLを使用する"
+"Enter https protocol to use Secure URLs in Admin.","管理画面でセキュアURLを使用する"
+"<strong style=""color:red"">Warning</strong>:  Do not set to """No"". User security could be compromised.","<strong style=""color:red"">注意</strong>: "No" にしないでください。セキュリティ性が低下します。"
+"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","基本通貨はすべての決済トランザクションで使用されます。 基本通貨の適用範囲は、カタログ価格スコープで定義されています (""カタログ"" > ""価格"" > ""カタログ価格スコープ"")。"
+"Changing can take some time due to processing whole catalog.","変更がすべての商品に適用されるまでしばらく時間がかかります。"
+"Account will be unlocked after provided time.","アカウントは指定した時間の経過後にロック解除されます。"
+"10 by default. Max - 10000","標準は10です。最大件数は10,000です。"
+"255 by default","標準は255文字です。"
+"Improves dashboard performance but provides non-realtime data.","ダッシュボードの表示速度が向上しますが、データはリアルタイムではなくなります。"
+"<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">警告!</strong> MAPを有効にすると、すべての価格ルール適用後の価格がフロントエンドで表示されなくなります。"
+"Display Billing Address On","請求先住所の表示場所"
+"Payment Page","決済画面"
