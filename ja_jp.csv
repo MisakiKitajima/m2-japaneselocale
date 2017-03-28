@@ -4304,8 +4304,8 @@ Maximum,最大
 "Maximum value",最大値
 "Maximum zip code length is 9.",郵便番号の最大桁数は9桁です。
 "Maximum: %1","最大: %1"
-"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","空白か{{secure_base_url}か{{unsecure_base_url}}プレイスホルダーで始まっているか"
-"May be empty or start with {{unsecure_base_url}} placeholder.","空白か{{unsecure_base_url}}プレイスホルダーで始まっているか"
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","空白か{{secure_base_url}か{{unsecure_base_url}}プレースホルダで始まっているか"
+"May be empty or start with {{unsecure_base_url}} placeholder.","空白か{{unsecure_base_url}}プレースホルダで始まっているか"
 "Media (.avi, .flv, .swf)","メディアファイル(.avi, .flv, .swf)"
 "Media Gallery",メディアギャラリー
 "Media Gallery converter should be an instance of EntryConverterInterface.","メディアギャラリーコンバーターはEntryConverterInterfaceのインスタンスでなければなりません。"
@@ -7056,8 +7056,8 @@ Specified,特定の
 "Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","マーチャントのPayPalアカウントでの注文有効期間がなんであるか指定します。PayPalでの設定と同じでなければなりません。"
 "Specify Banners",バナーを指定
 "Specify Types",種別を指定
-"Specify URL or {{base_url}} placeholder.","URLか {{base_url}} のプレイスホルダーを指定してください"
-"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","URLか {{base_url}}か{{unsecure_base_url}} のプレイスホルダーを指定してください"
+"Specify URL or {{base_url}} placeholder.","URLか {{base_url}} のプレースホルダを指定してください"
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","URLか {{base_url}}か{{unsecure_base_url}} のプレースホルダを指定してください"
 "Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","URLかプレースホルダーで始まるパスを指定して下さい: %1, そして""/""で終了してください。"
 "Specify a fully qualified URL.",完全に用件を満たしたURLを指定してください
 "Specify backend host for config file generation. If field is empty default value localhost will be saved.","コンフィグファイルの世代のためのバックエンドホストを指定してください。もしフィールドが空白ならデフォルト値のローカルホストが保存されます。"
@@ -7329,7 +7329,7 @@ Text,テキスト
 "Text outside of attribute",属性外のテキスト
 "Thank you for confirming your %store_name account.","%store_name accountをご確認ありがとうございます。"
 "Thank you for registering with",登録ありがとうございます
-"Thank you for registering with %1."," %1 を登録していただきありがとうございます"
+"Thank you for registering with %1."," %1 でのご登録ありがとうございます。"
 "Thank you for subscribing to our newsletter.",ニュースレターの購読ありがとうございます。
 "Thank you for your order from %store_name.",%store_nameからの注文ありがとうございます。
 "Thank you for your purchase!",ご購入ありがとうございました！
@@ -8332,7 +8332,7 @@ Url,Url
 "Use your reward points; %1 are available.","ポイントを使用する; %1 が利用可能です。"
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders","{{name}}と{{description}}を商品名と商品詳細プレースホルダーとして使う"
 "Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","{{name}} を商品名として使うあるいは {{sku}}を商品SKUプレースホルダーとして使う"
-"Use {{name}} as Product Name placeholder","{{name}} を商品名プレイスホルダーとして使用する"
+"Use {{name}} as Product Name placeholder","{{name}} を商品名プレースホルダとして使用する"
 Used,使用済
 "Used for Sorting in Product Listing",商品リスト表示の並べ替え順で使用する
 "Used in Product Listing",商品リスト表示で使用する
@@ -9336,11 +9336,11 @@ Yes/No,Yes/No
 "Your current session is terminated by another user of this account.",現在のセッションは、このアカウントの別のユーザーによって終了されます。
 "Your invitation is not valid. Please contact us at %1.","あなたの招待状は無効です。 %1 にご連絡ください。"
 "Your invitation is not valid. Please create an account.","あなたの招待コードは不正です。 アカウントを作成できません。"
-"Your order # is: <span>%1</span>.","あなたの注文 # は: <span>%1</span>."
+"Your order # is: <span>%1</span>.","お客様のご注文番号は <span>%1</span> です。"
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","あなたの注文#%increment_idはステータス<strong>%order_status</strong>で更新されました。"
 "Your order number is: ","注文番号: "
-"Your order number is: %1.","あなたの注文番号は: %1."
-"Your order numbers are: ","あなたの注文番号は: "
+"Your order number is: %1.","お客様のご注文番号は: %1."
+"Your order numbers are: ","お客様のご注文番号は: "
 "Your password confirmation must match your password.",パスワード確認は合致しなければなりません。
 "Your password has expired; please contact your administrator.","パスワードが期限切れ; 管理者に連絡してください。"
 "Your password must be at least %1 characters.","パスワードは少なくとも%1キャラクターでなくてはなりません。"
@@ -9599,3 +9599,9 @@ yes,はい
 100,100
 123,123
 200,200
+"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","セミコロン(;)で区切って入力してください。先頭にセミコロンを入力すると、空白値のオプションとみなされます。"
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">注意!</strong> ストアコードをURLに使用する場合、外部サービスとの連携のような幾つかのケースで期待通りの動作にならない可能性があります（例：PayPalなど）。"
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","すべての項目は完全なURLの形式かつ末尾が'/'のものが許可されています。 例: http://example.com/magento/"
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","すべての項目は完全なURLの形式かつ末尾が'/'のものが許可されています。 例: https://example.com/magento/"
+"May start with {{unsecure_base_url}} placeholder.","プレースホルダ {{unsecure_base_url}} で始まる文字列を指定してください。"
+"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","例: http://example.com/store から http://example.com/store/ にリダイレクトします"
