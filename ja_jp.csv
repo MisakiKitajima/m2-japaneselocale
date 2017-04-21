@@ -352,9 +352,9 @@ Message,メッセージ
 "%1 = %2","%1 = %2"
 "%1 An empty value is allowed as well.","%1 空の値も使うことが出来ます。"
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 ""%2""属性に基づくカート価格ルールは無効化されました。"
-"%1 Item","%1 注文"
-"%1 Item(s)","%1 アイテム"
-"%1 Items","%1 注文"
+"%1 Item","%1 件"
+"%1 Item(s)","%1 件"
+"%1 Items","%1 件"
 "%1 RMA (s) have been closed.","%1 RMA 閉じられました"
 "%1 RMA(s) cannot be closed","%1 RMA　閉じることができません"
 "%1 Review(s)","%1 レビュー"
@@ -400,8 +400,8 @@ Message,メッセージ
 "%1 has been updated in your Wish List.","%1 はあなたのほしい物リストでアップデートされました。"
 "%1 has reached a quantity of %2.","%1 は %2 の量に達しました"
 "%1 index is locked by another reindex process. Skipping.","%1インデックスは別の再インデックスプロセスによってロックされています。スキップします。"
-"%1 indexer(s) are in ""Update by Schedule"" mode.","%1 インデクサー は""Update by Schedule""モードです。"
-"%1 indexer(s) are in ""Update on Save"" mode.","%1iインデクサーは""Update on Save""モードです。"
+"%1 indexer(s) are in ""Update by Schedule"" mode.","%1 件のインデクサーは""Update by Schedule""モードです。"
+"%1 indexer(s) are in ""Update on Save"" mode.","%1 件のインデクサーは""Update on Save""モードです。"
 "%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.","これらのメールアドレスに対して顧客アカウントが既に存在するため、%1個の招待状が送信されませんでした。"
 "%1 is available to buy in increments of %2","%1は%2の数量づつ購入が可能です"
 "%1 is not a correct comparison method.","%1は正しい比較手段ではありません。"
@@ -3956,8 +3956,8 @@ Item,商品
 "Item qty declaration error",商品量宣言エラー
 "Item totals are not set for the rule.",商品合計はルールのために設定されていない
 Items,アイテム
-"Items %1 to %2 of %3 total","%1 から %2 のアイテムの %3 合計"
-"Items %1-%2 of %3","%3の商品%1-%2"
+"Items %1 to %2 of %3 total","合計 %3 件中の %1 件目から %2 件目を表示中"
+"Items %1-%2 of %3","%3 件中 %1 件目から %2 件目"
 "Items Invoiced",請求済個数
 "Items Ordered",注文済商品
 "Items Quantity",商品点数
@@ -9609,3 +9609,4 @@ yes,はい
 "<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">警告!</strong> MAPを有効にすると、すべての価格ルール適用後の価格がフロントエンドで表示されなくなります。"
 "Display Billing Address On","請求先住所の表示場所"
 "Payment Page","決済画面"
+"Please enter the same value again.","同じ値を入力してください。"
