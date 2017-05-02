@@ -293,10 +293,10 @@
 Actions,アクション
 Message,メッセージ
 "Use HTTPS to Get Feed","フィードの取得にHTTPSを使用する"
-"""%1"" cannot contain more than %2 lines.","""%1"" は %2 ライン以上を含むことができません"
-"""%1"" contains non-alphabetic characters.","""%1""はアルファベットでないキャラクターを含んでいます"
-"""%1"" contains non-alphabetic or non-numeric characters.","""%1""はアルファベットでも数字でもない字を含んでいます"
-"""%1"" contains non-numeric characters.","""%1""は数字でないキャラクターを含んでいます"
+"""%1"" cannot contain more than %2 lines.","""%1"" は %2 行以上にまたがることができません"
+"""%1"" contains non-alphabetic characters.","""%1""はアルファベットでない文字を含んでいます"
+"""%1"" contains non-alphabetic or non-numeric characters.","""%1""はアルファベットでも数字でもない文字を含んでいます"
+"""%1"" contains non-numeric characters.","""%1""は数字でない文字を含んでいます"
 """%1"" coupon code is not valid.","""%1""クーポンコードは有効ではありません"
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1""クーポンコードが適用されませんでした。選択された商品にディスカウントを適用しないでください。 "
 """%1"" does not fit the entered date format.","""%1""は入力された日付のフォーマットに合致しません"
@@ -622,8 +622,8 @@ ASCII,ASCII
 "AVS result code",AVSリザルトコード
 "AVS zip",AVS郵便番号
 "Abandoned Cart",放置されたカート
-"Abandoned Carts",無効になったショッピングカート
-"Abandoned carts",無効になったショッピングカート
+"Abandoned Carts",期限切れショッピングカート
+"Abandoned carts",期限切れショッピングカート
 "Ability for buyer to purchase without PayPal account.",PayPalアカウントなしで購入者に購入を行わせる
 "About Us",我々について
 "About Your Invoice",あなたのお支払について
@@ -1278,8 +1278,8 @@ Average,平均
 "Average (Approved)","平均 (承認済み)"
 "Average Customer Rating",平均評価
 "Average Customer Rating:",平均評価:
-"Average Order",平均的オーダー
-"Average Sale",平均売上
+"Average Order",平均注文金額
+"Average Sale",平均売上額
 Back,戻る
 "Back to Billing Agreements",支払合意に戻る
 "Back to Billing Information",請求先情報に戻る
@@ -1973,7 +1973,7 @@ Copyright,コピーライト
 "Could not locate schema: '%1' at '%2'","スキーマを見つけることが出来ませんでした: '%1' の '%2'"
 "Could not move category",カテゴリを移動できませんでした
 "Could not ping search engine: %1","検索エンジンにpingできませんでした: %1"
-"Could not read config file",コンフィグファイルが読めません
+"Could not read config file",設定ファイルが読めません
 "Could not rebuild index for empty products array","空の製品配列があるため、インデックスを再構築できませんでした"
 "Could not remove custom option",カスタムオプションを削除できませんでした
 "Could not remove item from quote",商品をクオートから削除出来ませんでした
@@ -2481,7 +2481,7 @@ Design,デザイン
 "Design Rule",デザインルール
 "Design Section",デザインセクション
 "Design Theme",デザインテーマ
-"Design config must have area and store.",デザインコンフィグはエリアとストアがなくてはなりません
+"Design config must have area and store.",デザイン設定はエリアとストアがなくてはなりません
 "Design params must be set before calling this method",このメソッドを呼ぶ前にデザインパラメーターは設定されてなければならない
 "Destination Type",対象種別
 "Destination file is not writable",保存先ファイルに書き込み権限がありません
@@ -3996,7 +3996,7 @@ Large,ラージ
 "Last 7 Days",直近7日
 "Last Activity",最近の行動
 "Last Added Items",最後に追加した商品
-"Last Correlation ID",前回の相関ID
+"Last Correlation ID",最近の相関ID
 "Last Credit Memo Created Date",直近のクレジットメモ作成日
 "Last Date Subscribed",最終購読日
 "Last Date Unsubscribed",最終購読解除日
@@ -4007,15 +4007,15 @@ Large,ラージ
 "Last Name",姓
 "Last Name is a required field.",姓は必須項目です。
 "Last Notified",最終通知日
-"Last Occurrence",前回の発生
+"Last Occurrence",最近の発生
 "Last Ordered Items",最終注文商品
-"Last Orders",前回の注文
+"Last Orders",最近の注文
 "Last Outcome",最後の実行結果
 "Last Review",最新のレビュー
-"Last Run",前回の実行
-"Last Search Terms",前回の検索
-"Last Sent",前回の送信
-"Last Transaction ID","前回のトランザクション ID"
+"Last Run",最近の実行
+"Last Search Terms",最近の検索キーワード
+"Last Sent",最終送信日時
+"Last Transaction ID","最終トランザクション ID"
 "Last Update",最終更新
 "Last login",最終ログイン
 "Last ordered items (%1)","最後に注文した商品(%1)"
@@ -4865,7 +4865,7 @@ Operation,処理
 "Operation allowed only in HTTPS",オペレーションはHTTPSでのみ許可されています
 "Operation do not allow to move a parent category to any of children category",オペレーションは親カテゴリをどの子カテゴリに移動させることを許可しません
 "Operation name:","操作名:"
-Operations,オペレーター
+Operations,オペレーション
 Operator,オペレーター
 "Option Title",オプションのタイトル
 "Option Title:",オプションのタイトル:
@@ -5324,8 +5324,8 @@ Physical,物理的
 "Please correct the scheduled operation type.",スケジュールされた操作の種類を修正してください。
 "Please correct the scope.",スコープを修正してください。
 "Please correct the server type.",サーバーの種類を修正してください。
-"Please correct the tab configuration and try again.",タブのコンフィグレーションを修正してから再度お試しください
-"Please correct the tab configuration and try again. Tab Id should be not empty","タブの構成を修正して、もう一度お試しください。タブIDは空ではないべきです"
+"Please correct the tab configuration and try again.",タブの設定を修正してから再度お試しください
+"Please correct the tab configuration and try again. Tab Id should be not empty","タブの構成を修正して、もう一度お試しください。タブIDを指定してください"
 "Please correct the target currency.",ターゲットの通貨を修正してください
 "Please correct the timezone.",タイムゾーンを修正してください。
 "Please correct the transaction ID and try again.",トランザクションIDを修正して再度試して下さい
@@ -5600,10 +5600,10 @@ Physical,物理的
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","このフィールドには文字(a-z), 数字(0-9) あるいはアンダースコア (_)のみをお使いください。スペースや他の文字は許可されていません"
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.",半角英数字またはスペースを使用してください。
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","このフィールドには(a-z あるいは A-Z), 数字(0-9) あるいは空白のみお使いください"
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","このフィールドには文字(a-z あるいは A-Z), 数字(0-9) あるいはアンダースコア (_)のみをお使いください, そして最初のキャラクターは文字でなければなりません"
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","このフィールドには文字(a-z あるいは A-Z), 数字(0-9) あるいはアンダースコア (_)のみをお使いください。また、最初の1文字は文字でなければなりません。"
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","文字 (a-z あるいは A-Z), 数字 (0-9) or アンダースコア (_) のみファイル名には使ってください。 空白や他の文字は使えません。"
 "Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","このフィールドには文字(a-z あるいは A-Z), 数字(0-9) あるいはアンダースコア (_)と ""#""のみをお使いください"
-"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","このフィールドには文字(a-z), 数字(0-9) あるいはアンダースコア (_)のみをお使いください, そして最初のキャラクターは文字でなければなりません"
+"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","このフィールドには文字(a-z), 数字(0-9) あるいはアンダースコア (_)のみをお使いください。また、最初の1文字は文字でなければなりません。"
 "Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","SRC属性のタグSCRIPTを使用するか、適切な内容でJavaScriptを文書に含めるようにしてください。"
 "Please use the following link to create an account and view the deals:",アカウントを作成して取引を表示するには、次のリンクを使用してください:
 "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","日付の形式は右の通りです: dd/mm/yyyy. （例： 17/03/2006 は 2006年3月17日）。"
@@ -6200,7 +6200,7 @@ Requested,リクエスト済
 Required,必須
 "Required Fields",必須フィールド
 "Required PayPal Settings",必須PayPal設定
-"Required for negotiated rates; 6-character UPS","ネゴシエイトレートに必須; 6キャラクター UPS"
+"Required for negotiated rates; 6-character UPS","レートの計算に必須; 6文字 UPS"
 "Required to display a banner",バナー表示必須
 Reset,リセット
 "Reset Filter",リセット
@@ -6349,7 +6349,7 @@ RuntimeException,RuntimeException
 "SFTP Credentials",SFTP証明書
 SKU,SKU
 "SKU for product %1 has been changed to %2.","商品%1 のSKUは%2に変更されました。"
-"SKU length should be %1 characters maximum.","SKUの値の長さは最大 %1 キャラクターでなければなりません。"
+"SKU length should be %1 characters maximum.","SKUの値の長さは最大 %1 文字でなければなりません。"
 "SKU number",SKU番号
 "SKU: ","SKU: "
 "SKU: Ascending","SKU: 上昇"
@@ -7589,7 +7589,7 @@ Text,テキスト
 "The rollback file does not exist.",ロールバックファイルは存在しません。
 "The root shopping cart condition should have a days value of 0 or greater.",ルートショッピングカートの状態は、0以上の日数を持つ必要があります。
 "The root wish list condition should have a days value of 1 or greater.",ルートほしい物リスト条件は、1以上の日数の値を持つ必要があります。
-"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","送信者名 ""%1"" は無効です。キャラクターとスペースのみ使用してください。"
+"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","送信者名 ""%1"" は無効です。文字とスペースのみ使用してください。"
 "The shipment contains product SKU ""%1"" that is not part of the original order.","出荷には元の注文の一部ではない製品SKU ""％1""が含まれています。"
 "The shipment has been created.",配送伝票を作成しました。
 "The shipping module is not available.",配送モジュールは利用できません
@@ -7606,7 +7606,7 @@ Text,テキスト
 "The static files cache has been cleaned.",静的ファイルcacheが消去されました。
 "The stock item for Product in option is not valid.",オプション商品の在庫数が不正です。
 "The stock item for Product is not valid.",商品の在庫数が不正です。
-"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","ストアコードは文字 (a-z), 数字 (0-9) かアンダースコア (_)を含んでいなければなりません、そして最初のキャラクターは文字でなければなりません。"
+"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","ストアコードは文字 (a-z), 数字 (0-9) かアンダースコア (_)を含んでいなければなりません、そして最初の1文字は文字でなければなりません。"
 "The store credit payment has been removed from shopping cart.",ストアクレジットをカートから削除しました。
 "The store does not exist",店舗がありません。
 "The storefront label is not defined.",ストアフロントラベルが未定義です
@@ -8847,7 +8847,7 @@ Website,ウェブサイト
 "Website Payments Pro Hosted Solution","Websites Hosted Solution"
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solutionとチェックアウト"
 "Website Root",ルートコンテンツ
-"Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","ウェブサイトコードは文字 (a-z), 数字 (0-9) かアンダースコア (_)を含んでいなければなりません、そして最初のキャラクターは文字でなければなりません。"
+"Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","ウェブサイトコードは文字 (a-z), 数字 (0-9) かアンダースコア (_)を含んでいなければなりません、そして最初の1文字は文字でなければなりません。"
 "Website with the same code",同じコードのウェブサイトです
 Websites,ウェブサイト
 "Websites List",ウェブサイトリスト
@@ -9330,14 +9330,14 @@ Yes/No,Yes/No
 "Your order numbers are: ","お客様のご注文番号は: "
 "Your password confirmation must match your password.",パスワード確認は合致しなければなりません。
 "Your password has expired; please contact your administrator.","パスワードが期限切れ; 管理者に連絡してください。"
-"Your password must be at least %1 characters.","パスワードは少なくとも%1キャラクターでなくてはなりません。"
-"Your password must include both numeric and alphabetic characters.",パスワードは数字とアルファベットのキャラクターを含んでなければなりません。
+"Your password must be at least %1 characters.","パスワードは少なくとも%1 文字でなくてはなりません。"
+"Your password must include both numeric and alphabetic characters.",パスワードは半角英数字を含んでなければなりません。
 "Your password reset link has expired.",パスワード再発行リンクが有効期限切れです。
 "Your payment has been declined. Please try again.",支払が拒否されました。再度お試しください。
 "Your payment has been successfully processed by our shop system.",お支払いはショップシステムで正常に処理されました。
 "Your return request has been updated. Please see below.","返品依頼が更新されました。 下記を参照してください。"
 "Your reward point was successfully applied",ポイントが正常に適用されました
-"Your search query can't be longer than %1, so we shortened your query.","検索クエリは%1より長くできませんのでクエリを短くしました。"
+"Your search query can't be longer than %1, so we shortened your query.","検索クエリは%1より長くできません。長すぎる文字は切り詰められました。"
 "Your search returned no results.",検索しましたが何もヒットしませんでした。
 "Your session has expired",セッションが期限切れです
 "Your shipping confirmation is below. Thank you again for your business.",配送確認は以下です。お買い上げありがとうございました。
@@ -9391,7 +9391,7 @@ critical,重要
 "customer group",顧客グループ
 "database ""%1""","データベース ""%1"""
 "db object does not implement \Magento\Framework\DB\Adapter\AdapterInterface","db object は \Magento\Framework\DB\Adapter\AdapterInterface を実装しません"
-"db object is not set in config","db object はコンフィグで設定されていません"
+"db object is not set in config","db object が正しく設定されていません"
 "dbModel read resource does not implement \Magento\Framework\DB\Adapter\AdapterInterface","dbModel 読み込みソースは \Magento\Framework\DB\Adapter\AdapterInterface を実装しません。"
 description,説明
 "does not contain",含まない
