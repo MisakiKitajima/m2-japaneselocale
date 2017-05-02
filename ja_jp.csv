@@ -3528,7 +3528,7 @@ IP-Address,"IPアドレス"
 "IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""返金済み"". マーチャントにより返金が告知されました。 返金額%1についての登録済み告知。 トランザクション ID: ""%2"". クレジットメモは作成されていません。オフラインクレジットメモを作成してください。"
 "IPN (Instant Payment Notification) Only","IPN (Instant Payment Notification) のみ"
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved."," ','で句切られたIPアクセスリストはコンフィグファイル世代のためにVarnishコンフィギュレーションを切り離すことが出来ます。もしフィールドが空白ならデフォルト値のローカルホストが保存されます。"
+                            If field is empty default value localhost will be saved."," ','で区切ってIPアドレスを指定すると、キャッシュをパージできるホストとしてVarnishの設定ファイルに自動的に追加されます。もしフィールドが空白ならデフォルト値のローカルホストが保存されます。"
 Id,Id
 "Id field of product link is required",IDフィールドのプロダクトリンクは必須です。
 "Id required",Id必須
@@ -6847,7 +6847,7 @@ Shuffle,シャッフル
 "Site Map",サイトマップ
 Sitemap,サイトマップ
 "Sitemap File Limits",サイトマップファイル制限
-"Sitemap Generation Warnings",サイトマップ世代警報
+"Sitemap Generation Warnings",サイトマップ生成警報
 "Sitemap Information",サイトマップ情報
 "Sitemap generate Warnings",サイトマップが警告を生成する
 Size,サイズ
@@ -7013,7 +7013,7 @@ Sort,ソート
 "Sort order must be a positive integer.",ソート順は性の数字でなければなりません
 "Source Data",ソースデータ
 "Source Model",ソースモデル
-"Source class ""%1"" for ""%2"" generation does not exist.","""%2""世代のためのソースクラスは存在しません。"
+"Source class ""%1"" for ""%2"" generation does not exist.","""%2""生成のためのソースクラスは存在しません。"
 "Source file coping failed",ソースファイルコピー失敗
 "Source model ""%1"" not found for attribute ""%2""","属性""%2""のためのソースモデル ""%1""は見つかりませんでした"
 "Special Expires On: %1","特価期限: %1"
@@ -7048,9 +7048,8 @@ Specified,特定の
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","URLか {{base_url}}か{{unsecure_base_url}} のプレースホルダを指定してください"
 "Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","URLかプレースホルダーで始まるパスを指定して下さい: %1, そして""/""で終了してください。"
 "Specify a fully qualified URL.",完全に用件を満たしたURLを指定してください
-"Specify backend host for config file generation. If field is empty default value localhost will be saved.","コンフィグファイルの世代のためのバックエンドホストを指定してください。もしフィールドが空白ならデフォルト値のローカルホストが保存されます。"
-"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","コンフィグファイルの
-世代のためのバックエンドポートを指定してください。もしフィールドが空白ならデフォルト値の8080が保存されます。"
+"Specify backend host for config file generation. If field is empty default value localhost will be saved.","設定ファイルを作成する場合はバックエンドホストのIPを指定してください。もしフィールドが空白ならデフォルト値のローカルホストが保存されます。"
+"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","設定ファイルを作成する場合はバックエンドホストのポート番号を指定してください。もしフィールドが空白ならデフォルト値の8080が保存されます。"
 "Specify the product's options.",製品のオプションを指定します。
 Split,分割
 Sprintline,スプリントライン
@@ -9610,3 +9609,8 @@ yes,はい
 "Display Billing Address On","請求先住所の表示場所"
 "Payment Page","決済画面"
 "Please enter the same value again.","同じ値を入力してください。"
+"Are you sure you want to delete this category?","このカテゴリを削除してもよろしいですか?"
+"Please specify the quantity of product(s)",商品の個数を指定してください。
+"Please select one of the options.","オプションを1つ選択してください。"
+"Please enter a valid month (1-12).","正しい月の値(1-12)を入力してください。"
+"Please enter a valid full date.","正しい日付を入力してください。"
