@@ -2930,7 +2930,7 @@ Error:,"エラー:"
 "Escape HTML Entities",HTMLエンティティをエスケープ
 "Estimate Shipping and Tax",送料と税金の計算
 "Estimate Tax",税見積もり
-"Estimated Total",推定合計
+"Estimated Total",ご購入予定金額
 Europack,ユーロパック
 "Europe First Priority",ヨーロッパ速達
 "European Union Countries",EU加盟国
@@ -9614,3 +9614,9 @@ yes,はい
 "Please select one of the options.","オプションを1つ選択してください。"
 "Please enter a valid month (1-12).","正しい月の値(1-12)を入力してください。"
 "Please enter a valid full date.","正しい日付を入力してください。"
+"Configurable Product","コンフィグ商品"
+"Simple Product","シンプル商品"
+"Grouped Product","グループ商品"
+"Bundle Product","セット商品"
+"Virtual Product","仮想商品"
+"Downloadable Product","ダウンロード商品"
