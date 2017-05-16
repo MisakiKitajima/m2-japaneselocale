@@ -365,9 +365,9 @@ Message,メッセージ
 "%1 already exists.",%1は既に存在します。"
 "%1 and above","%1 と以上"
 "%1 and greater","%1 とそれ以上"
-"%1 cache type(s) disabled.","%1 件のcacheが無効になりました。"
-"%1 cache type(s) enabled.","%1 件のcacheが有効になりました。"
-"%1 cache type(s) refreshed.","%1 件のcacheを更新しました。"
+"%1 cache type(s) disabled.","%1 件のキャッシュを無効にしました。"
+"%1 cache type(s) enabled.","%1 件のキャッシュを有効にしました。"
+"%1 cache type(s) refreshed.","%1 件のキャッシュを更新しました。"
 "%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 クラスは \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface　を実装していません"
 "%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 クラスは \Magento\Payment\Model\MethodInterface を設定できません"
 "%1 coupon(s) have been generated.","%1 クーポンが作成されました"
@@ -530,7 +530,7 @@ Message,メッセージ
 "6 Hours","6時間"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML
                     Output cache.
-                ","設定されていなければデフォルトで86400。 すぐに更新するには、ブロックHTMLアウトプットcacheをクリアしてください。
+                ","設定されていなければデフォルトで86400。 すぐに更新するには、ブロックHTML出力キャッシュをクリアしてください。
                 "
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","設定されていない場合86400がデフォルトです。今すぐ更新するには、ブロックHTMLアウトプットキャッシュをクリアしてください。"
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">領収書を印刷</a>"
@@ -1029,15 +1029,15 @@ Amounts,売上高
 "An error occurred during mass deletion of system reports. Please review log and try again.","システムレポートの一括削除中にエラーが発生しました。ログを確認してもう一度お試しください。"
 "An error occurred on the server. Please try to place the order again.","サーバーでエラーが発生しました。もう一度注文してください。"
 "An error occurred validating the nonce",nonce認証中にエラーが発生しました
-"An error occurred while clearing the JavaScript/CSS cache.","JavaScript/CSS cacheの消去中に問題が発生しました。"
-"An error occurred while clearing the image cache.",画像cacheの消去中に問題が発生しました
+"An error occurred while clearing the JavaScript/CSS cache.","JavaScript/CSS キャッシュの消去中に問題が発生しました。"
+"An error occurred while clearing the image cache.",画像・キャッシュの消去中に問題が発生しました
 "An error occurred while creating shipping label.",配送ラベルの作成中にエラーが発生しました。
 "An error occurred while deleting the system report. Please review log and try again.","システムレポートの削除中にエラーが発生しました。ログを確認してもう一度お試しください。"
 "An error occurred while deleting this role.",このロールを削除中にエラーが発生しました。
-"An error occurred while disabling cache.",cache無効化中に問題が発生しました。
-"An error occurred while enabling cache.",cache有効化中に問題が発生しました。
+"An error occurred while disabling cache.",キャッシュの無効化中に問題が発生しました。
+"An error occurred while enabling cache.",キャッシュの有効化中に問題が発生しました。
 "An error occurred while loading this tax rate.",この税レートをロード中にエラーが発生しました
-"An error occurred while refreshing cache.",cacheリフレッシュ中に問題が発生しました。
+"An error occurred while refreshing cache.",キャッシュのリフレッシュ中に問題が発生しました。
 "An error occurred while saving account.",アカウント保存中に問題が発生しました。
 "An error occurred while saving backup",バックアップの保存中にエラーが発生しました
 "An error occurred while saving this role.",このロールを保存中にエラーが発生しました。
@@ -3167,7 +3167,7 @@ Flush,フラッシュ
 "Flush Catalog Images Cache",カタログ画像キャッシュ更新
 "Flush JavaScript/CSS Cache",JavaScript/CSSキャッシュ更新
 "Flush Magento Cache",Magentoのキャッシュをクリアする
-"Flush Static Files Cache",静的ファイルcache削除
+"Flush Static Files Cache",静的ファイルキャッシュ削除
 "Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","購読解除するにはこのリンクを辿って下さい<!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>"
 "Following Error(s) has been occurred during importing process:","インポートプロセス中に以下のエラーが発生しました:"
 Font,フォント
@@ -4388,7 +4388,7 @@ Model,モデル
 "Model collection resource name is not defined.",モデル収集リソース名が定義されていません。
 "Model unused",未使用モデル
 Modified,更新日
-"Modify your search.",検索を変更してください。
+"Modify your search.",検索条件を変更してお試しください。
 "Module js","モジュール js"
 "Module layout label",モジュールレイアウトラベル
 "Module layout title",モジュールレイアウトタイトル
@@ -7032,7 +7032,7 @@ Specified,特定の
 "Specified Banner Types",特定のバナー種別
 "Specified Banners",特定のバナー
 "Specified Page",特定のページ
-"Specified cache type(s) don't exist: %1","指定されたcacheタイプは存在しません： %1"
+"Specified cache type(s) don't exist: %1","指定されたキャッシュタイプは存在しません： %1"
 "Specified consumer ""%consumer"" is not declared.","指定されたコンシューマ  ""%consumer"" は宣言されていません。"
 "Specified rule does not allow auto generated coupons",指定のルールは自動生成のクーポンを許可しません
 "Specified rule does not allow automatic coupon generation",指定のルールは自動のクーポンの生成を許可しません。
@@ -7385,7 +7385,7 @@ Text,テキスト
 "The behavior token for %1 is invalid.","%1のビヘイビアトークンは無効です。"
 "The billing agreement ""%1"" has been canceled.",",支払契約 ""%1"" はキャンセルされました。"
 "The billing agreement ""%1"" has been created.","支払契約 ""%1"" が作成されました。"
-"The cache storage may contain additional data. Are you sure that you want to flush it?","cacheストレージは追加情報を含んでいるかもしれません。本当に削除しますか？"
+"The cache storage may contain additional data. Are you sure that you want to flush it?","キャッシュストレージは追加情報を含んでいるかもしれません。本当に削除しますか？"
 "The capture action is not available.",キャプチャアクションは無効です
 "The card has a balance of %balance and can be used at ","カードは %balance の残高を有しで使用することができ"
 "The card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.","カードには %balance の残高があり、<a href=""%store_url"">%store_name</a>で使用できます。"
@@ -7603,7 +7603,7 @@ Text,テキスト
 "The specified image adapter cannot be used because of: %1","指定されたイメージアダプタは以下の理由で使用できません： %1"
 "The specified vehicle identification number (VIN) is invalid.","指定の vehicle identification number (VIN) は無効です"
 "The start date can't follow the end date.",開始日は終了日の後にはできません。
-"The static files cache has been cleaned.",静的ファイルcacheが消去されました。
+"The static files cache has been cleaned.",静的ファイルキャッシュが消去されました。
 "The stock item for Product in option is not valid.",オプション商品の在庫数が不正です。
 "The stock item for Product is not valid.",商品の在庫数が不正です。
 "The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","ストアコードは文字 (a-z), 数字 (0-9) かアンダースコア (_)を含んでいなければなりません、そして最初の1文字は文字でなければなりません。"
@@ -8121,7 +8121,7 @@ USPS,USPS
 "Unable to send the cookie. Size of '%name' is %size bytes.","cookieが送れませんでした。 '%name'のサイズは%sizeバイトです。"
 "Unable to update the alert subscription.",購読状況を更新できません。
 "Unable to validate ftp account",ftpアカウントを認証できません
-"Unable to write file into directory product/cache. Access forbidden.","ディレクトリproduct / cacheにファイルを書き込めません。 アクセスは禁止されています。"
+"Unable to write file into directory product/cache. Access forbidden.","ディレクトリ product/cache にファイルを書き込めません。 アクセスは禁止されています。"
 Unassign,未割り当て
 "Unassigned Attributes",未割り当ての属性
 Unconfirmed,未確認
@@ -8570,7 +8570,7 @@ Warning,警告
 "We can't find an attribute to delete.",削除する属性が見つかりません。
 "We can't find an email template to delete.",Eメールテンプレートで削除するものがみつかりません
 "We can't find an item with this ID.",このIDの商品は見つかりません。
-"We can't find any items matching these search criteria.",これらの検索クライテリアにマッチするアイテムが見つかりません
+"We can't find any items matching these search criteria.",検索条件に一致する商品が見つかりませんでした。
 "We can't find file.",ファイルが見つかりません
 "We can't find products matching the selection.",選択にマッチする商品が見つかりません。
 "We can't find records for this period.",この期間の記録が見つかりません。
@@ -9110,7 +9110,7 @@ Yes/No,Yes/No
 "You entered an invalid hostname: ""%1""","無効なホスト名を入力しました: ""%1"""
 "You entered an invalid type: ""%1"".","無効なホスト名  ""%1"" を入力しました"
 "You entered incorrect data. Please try again.",無効なデータが入力されました。再度お試しください
-"You flushed the cache storage.",cacheストレージをフラッシュしました。
+"You flushed the cache storage.",キャッシュストレージをフラッシュしました。
 "You have %1 new system message","%1の新規メッセージがあります"
 "You have %1 new system messages","%1の新規メッセージがあります"
 "You have %points_balance points that may be used in our store:","私たちの店で使用できる %points_balance ポイントがあります:"
@@ -9178,7 +9178,7 @@ Yes/No,Yes/No
 "You need more permissions to view this item.",このアイテムを表示するにはさらに権限が必要です。
 "You need to choose options for your item.",商品のためにオプションを選択しなければなりません。
 "You need to enter sender data.",送信者データを入力する必要があります。
-"You need to refresh the cache.",cacheを更新する必要があります
+"You need to refresh the cache.",キャッシュを更新する必要があります
 "You need to set at least one condition for this rule to work.",このルールを機能させるには、少なくとも1つの条件を設定する必要があります。
 "You need to specify a customer ID group.",顧客IDグループを指定する必要があります。
 "You notified customer about creditmemo #%1.","クレジットメモについて顧客に連絡しました #%1."
@@ -9620,3 +9620,5 @@ yes,はい
 "Bundle Product","セット商品"
 "Virtual Product","仮想商品"
 "Downloadable Product","ダウンロード商品"
+"Columns","列"
+"Configuration","設定"
