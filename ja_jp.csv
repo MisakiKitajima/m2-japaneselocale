@@ -355,8 +355,8 @@ Message,メッセージ
 "%1 Item","%1 件"
 "%1 Item(s)","%1 件"
 "%1 Items","%1 件"
-"%1 RMA (s) have been closed.","%1 RMA 閉じられました"
-"%1 RMA(s) cannot be closed","%1 RMA　閉じることができません"
+"%1 RMA (s) have been closed.","%1 RMAはクローズされました"
+"%1 RMA(s) cannot be closed","%1 RMAはクローズできません。"
 "%1 Review(s)","%1 レビュー"
 "%1 Reward points","%1 ポイント"
 "%1 Reward points (%2)","%1 ポイント (%2)"
@@ -457,7 +457,7 @@ Message,メッセージ
 "&copy; Magento Commerce Inc., %1","&copy; Magento Commerce Inc., %1"
 ','
 "'%1' file extension is not supported","'%1'ファイル拡張子はサポートされていません"
-"'%1' is not a directory.","'%1' はディレクトリーではありません。"
+"'%1' is not a directory.","'%1' はディレクトリではありません。"
 "'%1' is not readable file.","'%1' のファイルは読み込み不可能です。"
 "'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","'%value%' はDNSホストネームのようですが渡されたピューニーノーテーションは解読できません。"
 "'%value%' does not look like a valid local network name.","'%value%'は有効なローカルネットワーク名ではありません"
@@ -526,7 +526,7 @@ Message,メッセージ
 "3D Secure Verification","3Dセキュア認証"
 "3D Secure Verification Settings","3Dセキュア認証設定"
 "5 minutes","5 分"
-"503 Service Unavailable","503サービスを利用できません"
+"503 Service Unavailable","503 サービスを利用できません"
 "6 Hours","6時間"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML
                     Output cache.
@@ -1110,7 +1110,7 @@ Archive,アーカイブ
 "Are you sure ?",本当によろしいですか？
 "Are you sure that you want to log out all other sessions?",他のすべてのセッションをログアウトしてもよろしいですか？
 "Are you sure that you want to strip all tags?",タグを全て除去してもよろしいですか？
-"Are you sure to assign selected customers to new group?",本当に選択した顧客を新しいグループにアサインしますか？
+"Are you sure to assign selected customers to new group?",本当に選択した顧客を新しいグループに割り当てますか？
 "Are you sure to delete selected customers?",本当に選択した顧客を削除しますか？
 "Are you sure to unsubscribe selected customers from newsletter?",本当に選択した顧客のニュースレターの購読を解除しますか？
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","本当に ""${ $.$data.title }"" レコードを削除しますか？"
@@ -2500,7 +2500,7 @@ Direct,ダイレクト
 "Direct Payment API",直払いAPI
 Direction,方向
 "Directory ""%1"" cannot be created %2","ディレクトリ ""%1"" は作成できません %2"
-"Directory %1 is not under storage root path.","ディレクトリー %1 はストレージルートパスの下にありません。"
+"Directory %1 is not under storage root path.","ディレクトリ %1 はストレージルートパスの下にありません。"
 "Directory %s should have writable & readable permissions","ディレクトリ%sには書き込みと読み込み権限が必要です"
 "Directory separator ""\ is prohibited in fixture declaration.""","ディレクトリセパレーター""\ はフィクスチャー宣言内では禁止されています。"""
 Disable,無効
@@ -3105,8 +3105,8 @@ File,ファイル
 "File already exists",ファイルは既に存在します
 "File can not be saved to the destination folder.",ファイルを保存先フォルダに保存することはできません。
 "File cannot be read %1","ファイルが読めません %1"
-"File directory '%1' is not readable.","ファイルディレクトリー '%1' 読み込み可能ではありません。"
-"File directory '%1' is not writable.","ファイルディレクトリー '%1' 書き込み可能ではありません。"
+"File directory '%1' is not readable.","ファイルディレクトリ '%1' 読み込み可能ではありません。"
+"File directory '%1' is not writable.","ファイルディレクトリ '%1' 書き込み可能ではありません。"
 "File does not exist",ファイルは存在しません
 "File extensions allowed: .csv","許可されるファイル拡張子: .csv"
 "File handler unreachable",ファイルハンドラーが不通です
@@ -4154,7 +4154,7 @@ Magento,Magento
 "Magento Connect","Magento Connect"
 "Magento Marketplace",Magentoマーケットプレイス
 "Magento Web API",MagentoウェブAPI
-"Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magentoは小売業やブランドがベストな顧客体験を得られるようにするために急成長エコシステムの技術パートナーを持っています。彼らはeコマース、検索、eメールマーケティング、支払、詐欺行為、適正化、分析、履行その他のエキスパートとして認知されています。 Magentoパートナーディレクトリーにて我々の信頼あるパートナーの一覧をご覧ください。"
+"Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magentoは小売業やブランドがベストな顧客体験を得られるようにするために急成長エコシステムの技術パートナーを持っています。彼らはeコマース、検索、eメールマーケティング、支払、詐欺行為、適正化、分析、履行その他のエキスパートとして認知されています。 Magentoパートナーディレクトリにて我々の信頼あるパートナーの一覧をご覧ください。"
 "Magento root directory",Magentoルートディレクトリ
 Magento_Ui/js/dynamic-rows/record,Magento_Ui/js/dynamic-rows/record
 "Mail Sending Settings",メール送信設定
