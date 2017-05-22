@@ -847,8 +847,8 @@ Address,住所
 "Address Verification System Response",住所確認システムレスポンス
 "Address is empty.",住所は空です。
 Addresses,住所
-"Adjust final price to discount value",値引額に最終価格を調整
-"Adjust final price to this percentage",この割引率に最終価格を調整
+"Adjust final price to discount value",指定額へ値引
+"Adjust final price to this percentage",商品の価格を指定した割合へ値引
 "Adjustment Fee",調整料
 "Adjustment Refund",払戻調整
 Admin,管理者
@@ -1085,8 +1085,8 @@ Apply,適用
 "Apply Tax On",税を適用する価格
 "Apply Tax To FPT",FPTに税を適用
 "Apply To",適用先
-"Apply as fixed amount",固定価格として適用
-"Apply as percentage of original",割引前価格からの割引率として適用
+"Apply as fixed amount",定額を割引
+"Apply as percentage of original",商品の価格を指定した割合で値引
 "Apply custom Shipping Policy",カスタム配送ポリシーを適用
 "Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","もし""ディスカウント後に税を適用""が選択されるとストア税に基づいて計算された税が価格にディスカウントが適用されます"
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","結果を得るためにフィルタを適用します。最初の100レコードのみがグリッドに表示されますが、レポートのフルバージョンを.csv形式でダウンロードすることができます。"
@@ -4388,7 +4388,7 @@ Model,モデル
 "Model collection resource name is not defined.",モデル収集リソース名が定義されていません。
 "Model unused",未使用モデル
 Modified,更新日
-"Modify your search.",検索条件を変更してお試しください。
+"Modify your search.",検索を変更してください。
 "Module js","モジュール js"
 "Module layout label",モジュールレイアウトラベル
 "Module layout title",モジュールレイアウトタイトル
@@ -6653,8 +6653,8 @@ Set,セット
 "Set Items' Status to be In Stock When Order is Cancelled",注文がキャンセルされたときにはセット商品の状態を在庫ありにする
 "Set Order Status to Suspected Fraud for CVV",CVVの注文疑惑を疑わしい詐欺に設定する
 "Set Order Status to Suspected Fraud for Postcode AVS",郵便番号AVSの疑わしい詐欺に注文ステータスを設定する
-"Set Product as New",新しい商品として設定する
-"Set Product as New From",商品を新しいものから設定する
+"Set Product as New",新着表示
+"Set Product as New From",新着表示開始日
 "Set Return-Path",Return-Pathを設定する
 "Set a New Password",新規パスワードセット
 "Set as Default",標準にする
@@ -8570,7 +8570,7 @@ Warning,警告
 "We can't find an attribute to delete.",削除する属性が見つかりません。
 "We can't find an email template to delete.",Eメールテンプレートで削除するものがみつかりません
 "We can't find an item with this ID.",このIDの商品は見つかりません。
-"We can't find any items matching these search criteria.",検索条件に一致する商品が見つかりませんでした。
+"We can't find any items matching these search criteria.",これらの検索クライテリアにマッチするアイテムが見つかりません
 "We can't find file.",ファイルが見つかりません
 "We can't find products matching the selection.",選択にマッチする商品が見つかりません。
 "We can't find records for this period.",この期間の記録が見つかりません。
