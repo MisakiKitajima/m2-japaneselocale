@@ -564,7 +564,7 @@ Message,メッセージ
 "A fieldset with the same code alredy exists.","同じコードを持つフィールドセットはすでに存在します。"
 "A group with the same name already exists.","同じ名前のグループが既に存在しています。"
 "A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","グループ化された製品は、グループとして提示される複数のスタンドアロン製品で構成されています。 1つの製品のバリエーションを提供することも、シーズンやテーマ別にグループ化してコーディネートされたセットを作成することもできます。各製品は個別に、またはグループの一部として購入することができます。"
-"A hold action is not available.","保留は有効ではありません"
+"A hold action is not available.","保留はご利用いただけません。"
 "A joined field with this alias is already declared.","このエイリアスの結合フィールドは常に宣言されています"
 "A joint field with this alias (%1) is already declared.","このエイリアス (%1) の結合フィールドは常に宣言されています"
 "A letter with further instructions will be sent to your email.","更なる指示がEメールで送られます。"
@@ -592,11 +592,11 @@ Message,メッセージ
 "A total of %1 record(s) have been enabled.","合計 %1 レコードが有効化されました。"
 "A total of %1 record(s) have been marked as Read.","合計%1件のレコードが既読になりました"
 "A total of %1 record(s) have been updated.","合計 %1 レコードがアップデートされました。"
-"A total of %1 record(s) were deleted.","合計 %1のレコードが削除されました"
+"A total of %1 record(s) were deleted.","合計 %1のレコードが削除されました。"
 "A total of %1 record(s) were updated.","合計 %1 のレコードがアップデートされました。"
 "A total of %1 synonym group(s) have been deleted.","合計％1の同義語グループが削除されました。"
 "A user with the same user name or email already exists.","同じユーザーネームかEメールアドレスをお持ちのユーザーが既に存在します。"
-"A wrong PayPal Express Checkout Token is specified.","誤ったPayPalエクスプレスチェックアウトトークンが指摘されました。"
+"A wrong PayPal Express Checkout Token is specified.","誤ったPayPalエクスプレスチェックアウトトークンが指定されました。"
 "ACH Deposit (Hold for Dispute or Other Investigation)","ACH振り込み(異議申し立てのため保留か他の調査)"
 "ACH Deposit (Reversal)",ACH振り込み(破棄)
 "ACH Funding for Funds Recovery from Account Balance","ACHアカウント残高からのファンド回復のためのACHファンディング"
@@ -625,7 +625,7 @@ ASCII,ASCII
 "Abandoned Carts",期限切れショッピングカート
 "Abandoned carts",期限切れショッピングカート
 "Ability for buyer to purchase without PayPal account.",PayPalアカウントなしで購入者に購入を行わせる
-"About Us",我々について
+"About Us",会社概要
 "About Your Invoice",あなたのお支払について
 "About Your Order",ご注文について
 "About Your Refund",あなたのご返金について
