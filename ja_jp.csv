@@ -9622,3 +9622,5 @@ yes,はい
 "Downloadable Product","ダウンロード商品"
 "Columns","列"
 "Configuration","設定"
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","パスワードは最低 %1文字で入力してください。先頭と最後の半角スペースは無視されます。"
+"Minimum of different classes of characters in password is 3. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","パスワードには最低でも 3種類の文字を含めてください。文字の種類は次のとおりです: 大文字,小文字, 数字, 記号"
