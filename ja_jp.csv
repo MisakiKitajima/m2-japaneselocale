@@ -2129,7 +2129,7 @@ Currency,通貨
 "Current Month Starts",現在の月から開始
 "Current Password",現在のパスワード
 "Current Status: %1<br/>","現在のステータス: %1<br/>"
-"Current User Identity Verification",現在のユーザー証明認証
+"Current User Identity Verification",ログイン中ユーザーの正当性確認
 "Current Variations",現在のバリエーション
 "Current exchange rates:",現在の換算レート:
 "Current implementation not supported this type (%1) of backup.","現在の実装はこのタイプ(%1)のバックアップはサポートされていません。 "
