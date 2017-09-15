@@ -4440,7 +4440,7 @@ Move,移動
 "My Wish List Link",自分のほしい物リストのリンク
 "My Wish Lists",マイほしい物リスト
 "My Wish Lists Link",マイほしい物リストリンク
-"My billing and shipping address are the same",請求先住所と配送先住所は同じです
+"My billing and shipping address are the same",お届け先住所と同じ住所を使用する
 "My event special",私のイベント特集
 "My special attribute",私の特別な属性
 "MySQL Message Queue Cleanup","MySQL Message Queueクリーンアップ"
@@ -4921,7 +4921,7 @@ Order,注文
 "Order Item Status to Enable Downloads",ダウンロード可能になる注文ステータス
 "Order Quantity",注文数量
 "Order Review",ご注文の確認
-"Order Shipments",注文を配送する
+"Order Shipments",配送情報
 "Order Shipping Address",お届け先住所
 "Order State",注文ステート
 "Order Status",注文ステータス
@@ -9624,3 +9624,8 @@ yes,はい
 "Configuration","設定"
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","パスワードは最低 %1文字で入力してください。先頭と最後の半角スペースは無視されます。"
 "Minimum of different classes of characters in password is 3. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","パスワードには最低でも 3種類の文字を含めてください。文字の種類は次のとおりです: 大文字,小文字, 数字, 記号"
+"Are you sure you would like to remove this item from the shopping cart?","この商品をカートから削除してもよろしいですか?"
+"Track All Shipments","全ての配送状況を追跡"
+"Delete %1","%1 を削除"
+"Are you sure you wan\'t to delete a %1 record?","%1 を削除しても良いですか?"
+"First-Class Package Service - Retail","ファーストクラスパッケージサービス - リテール"
