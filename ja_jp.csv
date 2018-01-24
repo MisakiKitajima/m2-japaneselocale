@@ -325,7 +325,7 @@ Message,メッセージ
 """Cap Reward Points Balance"" should be either a positive number or left empty.","""キャップポイント残高"" は正の数または空のままにする必要があります。"
 """Creditmemo Document Validation Error(s):\n"" .","""クレジットメモのドキュメント検証エラー:\n""。"
 """Email"" is not a valid email address.","""Eメール""は有効なeメールアドレスではありません。"
-"""Invoice Document Validation Error(s):\n"" .","""請求書伝票の検証エラー:\n"" 。"
+"""Invoice Document Validation Error(s):\n"" .","""領収書伝票の検証エラー:\n"" 。"
 """Minimum Reward Points Balance"" should be either a positive number or left empty.","""最低ポイント残高""は正数または空白のいずれかでなければなりません。"
 """Minimum Reward Points Balance"" should be less or equal to ""Cap Reward Points Balance"".","""ポイント最小残高"" は ""ポイント上限残高"" 以下でなければなりません。"
 """Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""New Relicアカウントが必要ですか？ <a href=""http://www.newrelic.com/magento"" target=""_blank"">ここをクリックしてください"
@@ -486,7 +486,7 @@ Message,メッセージ
 "-- No Theme --","-- テーマなし --"
 "-- None --","-- なし --"
 "-- Please Select --","-- 選択してください --"
-"-- Please Select Billing Agreement--","-- 支払合意を選択してください--"
+"-- Please Select Billing Agreement--","-- 支払契約を選択してください--"
 "-- Please Select a Category --","-- カテゴリを選択してください --"
 "-- Please select --","-- 選択してください --"
 "-- Select --","--選択してください--"
@@ -1046,7 +1046,7 @@ Amounts,売上高
 "An error occurred. The email template can not be opened for preview.","エラーが発生しました。 メールテンプレートはプレビューのために開くことができません"
 "An error was encountered while performing delete operation.",削除操作の実行中にエラーが発生しました。
 "An inactive store view cannot be saved as default store view",非アクティブなストアビューをデフォルトのストアビューとして保存することはできません"
-"An invoice cannot be created when an order has a status of %1","オーダーのステータスが %1 の場合、請求書を作成することはできません"
+"An invoice cannot be created when an order has a status of %1","オーダーのステータスが %1 の場合、領収書を作成することはできません"
 "An item object is not specified.",商品オブジェクトが指定されていません
 "An item option with code %1 already exists.","商品オプションのコード %1 はすでに存在します。"
 "An unspecified error occurred. Please contact us for assistance.","エラーが発生しました。管理者にお問い合わせください。"
@@ -1165,7 +1165,7 @@ Archive,アーカイブ
 "Are you sure you want to revoke the user's tokens?",ユーザーのトークンを本当に破棄しますか？
 "Are you sure you want to send a Shipment email to customer?",本当に発送メールを顧客に送りますか？
 "Are you sure you want to send a credit memo email to customer?",本当にクレジットメモEメールを顧客に送りますか？
-"Are you sure you want to send an invoice email to customer?",本当に請求書Eメールを顧客に送りますか？
+"Are you sure you want to send an invoice email to customer?",本当に領収書Eメールを顧客に送りますか？
 "Are you sure you want to send an order email to customer?",本当に注文メールを顧客に送信しますか？
 "Are you sure you want to strip tags?",本当にタグを外しますか？
 "Are you sure you want to void the payment?",決済データを取り消してもかまいませんか？
@@ -1281,8 +1281,8 @@ Average,平均
 "Average Order",平均注文金額
 "Average Sale",平均売上額
 Back,戻る
-"Back to Billing Agreements",支払合意に戻る
-"Back to Billing Information",請求先情報に戻る
+"Back to Billing Agreements",支払契約に戻る
+"Back to Billing Information",購入者情報に戻る
 "Back to Category",カテゴリに戻る
 "Back to Invitations",招待に戻る
 "Back to Main Product Info",商品メイン情報に戻る
@@ -1370,25 +1370,25 @@ BeagleScore,ビーグルスコア
 Bestsellers,ベストセラー
 "Bestsellers Report",ベストセラーレポート
 "Big Image",拡大画像
-"Bill-to Name",請求先名
+"Bill-to Name",購入者名
 Billing,請求
-"Billing Address",請求先住所
-"Billing Address:",請求先:
-"Billing Address: ",配送先住所:
-"Billing Agreement",支払合意
-"Billing Agreement # ","支払合意 # "
+"Billing Address",購入者住所
+"Billing Address:",購入者住所:
+"Billing Address: ",購入者住所:
+"Billing Agreement",支払契約
+"Billing Agreement # ","支払契約 # "
 "Billing Agreement # %1","支払契約 # %1"
 "Billing Agreement #%1","支払契約 #%1"
 "Billing Agreement Signup",支払契約サインアップ
 "Billing Agreement View",支払契約一覧
 "Billing Agreements",支払契約
 "Billing Firstname",支払人の名
-"Billing Info",請求情報
-"Billing Information",請求先情報
-"Billing Information - %1","請求先情報 - %1"
-"Billing Last Name",請求先姓
+"Billing Info",購入者情報
+"Billing Information",購入者情報
+"Billing Information - %1","購入者情報 - %1"
+"Billing Last Name",購入者姓
 "Billing Lastname",支払人の姓
-"Billing ZIP Code",請求先郵便番号
+"Billing ZIP Code",購入者郵便番号
 Binary,バイナリ
 Block,ブロック
 "Block %1 throws exception and cannot be rendered.","ブロック %1 例外を出しますし描写できません。"
@@ -1552,7 +1552,7 @@ Cancelled,キャンセル済
 "Cannot delete option with id: %1","以下のidのオプションを削除できません: %1"
 "Cannot delete sample with id %1","Cannot delete sample with id %1"
 "Cannot delete variations from product: %1","商品からバリエーションを削除できません: %1"
-"Cannot do shipment for the order separately from invoice.",請求書と別に配送伝票を作成できません。
+"Cannot do shipment for the order separately from invoice.",領収書と別に配送伝票を作成できません。
 "Cannot do shipment for the order.",配送伝票を作成できません。
 "Cannot edit integrations created via config file.","%1のIDを持つサンプルを削除できません。"
 "Cannot execute multiple queries",複数のクエリを実行できません
@@ -1691,7 +1691,7 @@ Change,変更
 "Change Email and Password",メールアドレスとパスワードを変更する
 "Change Encryption Key",暗号化キーを変更
 "Change Password",パスワード変更
-"Change Shipping Address",配送先住所変更
+"Change Shipping Address",お届け先住所変更
 "Change Status",ステータス変更
 "Change indexer mode",インデクサーモードを変更する
 "Change shipping method.",配送方法を変更します。
@@ -1909,7 +1909,7 @@ Contents,内容
 Continue,続ける
 "Continue Processing",処理継続中
 "Continue Shopping",お買い物を続ける
-"Continue to Billing Information",ご請求先情報へ
+"Continue to Billing Information",ご購入者情報へ
 "Continue to PayPal",PayPalに進む
 "Continue to Worldpay",ワールドペイへ進む
 Conversion,変換
@@ -1980,7 +1980,7 @@ Copyright,コピーライト
 "Could not save",保存できません
 "Could not save a Creditmemo, see error log for details","クレジットメモを保存できませんでした。詳細はエラーログを参照してください"
 "Could not save a shipment, see error log for details","出荷データを保管できませんでした。詳細はエラーログを参照してください。"
-"Could not save an invoice, see error log for details","請求書を保存できませんでした。詳細はエラーログを参照してください"
+"Could not save an invoice, see error log for details","領収書を保存できませんでした。詳細はエラーログを参照してください"
 "Could not save category: %1","カテゴリは保存できませんでした: %1"
 "Could not save child: ""%1""","childを保存できませんでした: ""%1"""
 "Could not save credit memo",クレジットメモを保存できませんでした
@@ -2017,7 +2017,7 @@ Coupons,クーポン
 Coupons/Discounts,"クーポン/ディスカウント"
 Create,作成
 "Create Backup",バックアップ作成
-"Create Billing Address",請求先住所を作成
+"Create Billing Address",購入者住所を作成
 "Create Category",カテゴリ作成
 "Create Configurations",設定を作成
 "Create Customer",顧客を作成する
@@ -2328,7 +2328,7 @@ Default,標準
 "Default ""What's This"" Text Message","標準の ""これは何ですか"" メッセージ"
 "Default Address",標準住所
 "Default Addresses",標準住所
-"Default Billing",標準の請求先
+"Default Billing",標準の購入者
 "Default Billing Address",標準ご連絡先住所
 "Default Config",標準の設定
 "Default Content",標準コンテンツ
@@ -2364,7 +2364,7 @@ Default,標準
 "Default Rule Label for All Store Views",全てのストアビューに対する標準クーポン名
 "Default Sample Title",標準サンプルタイトル
 "Default Shipping",標準の配送方法
-"Default Shipping Address",標準配送先住所
+"Default Shipping Address",標準お届け先住所
 "Default State",標準の都道府県
 "Default Status",標準ステータス
 "Default Store",標準の店舗
@@ -2642,7 +2642,7 @@ Edit,編集
 "Edit Attribute Set Name",属性セット名を編集
 "Edit Automated Email Reminder Rules",自動リマインダールールを編集
 "Edit Banner",バナー編集
-"Edit Billing Address",請求先住所を編集
+"Edit Billing Address",購入者住所を編集
 "Edit Block",ブロックを編集
 "Edit Cart Price Rules",カートの価格ルールの編集
 "Edit Catalog Event",カタログイベントを編集
@@ -2694,8 +2694,8 @@ Edit,編集
 "Edit Search '%1'","検索編集 '%1'"
 "Edit Segment",セグメント編集
 "Edit Segment '%1'","セグメントの編集 '%1'"
-"Edit Shipping Address",配送先を編集
-"Edit Shopping Cart",","ショッピングカート編集"
+"Edit Shipping Address",お届け先を編集
+"Edit Shopping Cart","ショッピングカート編集"
 "Edit Sitemap",サイトマップ編集
 "Edit Store",店舗を編集
 "Edit Store Design Change",ストアデザインの変更を編集
@@ -2964,7 +2964,7 @@ Exception,例外
 "Exception message.",例外メッセージ
 "Exception occurred during order load",注文読込中にエクセプションが発生しました
 Exception.,例外。
-"Excessive address change. The customer changed the billing address two or more times in the last six months","過度のアドレス変更。過去6か月間に請求先住所が2回以上変更されました"
+"Excessive address change. The customer changed the billing address two or more times in the last six months","過度のアドレス変更。過去6か月間に購入者住所が2回以上変更されました"
 "Excessive name changes. The customer changed the name two or more times in the last six months","過度の名前変更。顧客は過去6ヶ月間に2回以上名前を変更しました"
 "Excl. Tax",税抜
 "Excl. tax:",税抜き:
@@ -3135,7 +3135,7 @@ Filters,検索結果を絞る
 "Finished At",完了
 First,最初
 "First Day of Week",週の始まり
-"First Invoice Created Date",初回請求書作成日
+"First Invoice Created Date",初回領収書作成日
 "First Name",名
 "First Name is a required field.",名前は必須項目です。
 "First Overnight",翌日早朝配達
@@ -3301,7 +3301,7 @@ Generate,生成
 "Generation Settings",生成設定
 "Generic Pages",一般ページ
 "Generic service exception %1","ジェネリックサービスエクセプション %1"
-"Geolocation inconsistencies. The customer’s email domain, phone number, billing address, shipping address, or IP address is suspicious","ジオロケーションの不一致。顧客の電子メールドメイン、電話番号、請求先住所、配送先住所、またはIPアドレスが疑わしいです"
+"Geolocation inconsistencies. The customer’s email domain, phone number, billing address, shipping address, or IP address is suspicious","ジオロケーションの不一致。顧客の電子メールドメイン、電話番号、購入者住所、お届け先住所、またはIPアドレスが疑わしいです"
 "Get Credentials from PayPal",PayPalから証明書を受け取る
 "Get Customer",顧客獲得
 "Get Feed",フィードを取得
@@ -3359,7 +3359,7 @@ Gift,ギフト
 "Gift Options for ","ギフトオプション "
 "Gift Options for Individual Items",個別商品に対するギフトオプション
 "Gift Options for the Entire Order",全体の注文に対するギフトオプション
-"Gift Order. The street address, city, state, or country of the billing and shipping addresses do not correlate","ギフト注文。請求先住所と配送先住所の住所、市町村、州または国の間には相関がありません"
+"Gift Order. The street address, city, state, or country of the billing and shipping addresses do not correlate","ギフト注文。購入者住所とお届け先住所の住所、市町村、州または国の間には相関がありません"
 "Gift Receipt",ギフトレシート
 "Gift Registry",ギフトレジストリ
 "Gift Registry Details",ギフトレジストリの詳細
@@ -3560,15 +3560,15 @@ Identifier,識別子
 "If not specified, Default Country from General Config will be used",指定されてなければ、一般設定のデフォルトの国が使われます
 "If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","[はい]に設定すると、複数のコンピュータから同じアカウントにログインできます。デフォルト設定はセキュリティを向上させます。"
 "If the Current Frame Position does not cover Utmost Pages, will render Link to Current Position plus/minus this Value",現在のフレーム位置がページの大半をカバーしていない場合は、現在の位置から自動計算したリンクを表示します
-"If the invoice was created offline, try creating an offline credit memo.",もし請求書がオフラインで作成されたのであれば、クレジットメモをオフラインで作成してみてください
+"If the invoice was created offline, try creating an offline credit memo.",もし領収書がオフラインで作成されたのであれば、クレジットメモをオフラインで作成してみてください
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","カスタム親カテゴリがない場合は、デフォルト親カテゴリを使用してください。 カテゴリはいつでも<a href=""%1"" target=""_blank"">Products &gt; Categories</a>にて再割り当てできます。"
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","カスタム親カテゴリがない場合、デフォルトの親カテゴリを使用してください。 <a href=""%1"" target=""_blank"">Products >カテゴリにていつでもカテゴリを再度アサインできます。</a>."
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","%1と関連するアカウントがあれば、あなたのパスワードをリセットするためのリンクが添付されたEメールが届きます。"
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","このオプションが有効化されると、顧客はPayPalのウェブサイトにて配送住所と配送方法を変更できます。実環境ではHTTPSプロトコルを通してのみ可能です。"
 "If this value is empty, the node or page name will be used.","この値が空の場合、ノードまたはページ名が使用されます。"
-"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は,<a href=""%1"">ここをクリック</a>して正しいVAT計算のために請求先住所を入力してください。"
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は,<a href=""%1"">ここをクリック</a>して正しいVAT計算のために購入者住所を入力してください。"
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は、 <a href=""%1"">ここをクリック</a>して正しいVAT計算のために送り先住所を入力してください。"
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は,<a href=""%1"">ここ</a>をクリックして正しいVAT計算のために請求先住所を入力してください。"
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は,<a href=""%1"">ここ</a>をクリックして正しいVAT計算のために購入者住所を入力してください。"
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は、 <a href=""%1"">ここ</a>をクリックして正しいVAT計算のために送り先住所を入力してください。"
 "If you believe it is the right one you can ignore this notice.","ご入力された内容が正しい場合は、このメッセージを無視してください。"
 "If you believe this is an error, please contact us at %1","エラーであれば、%1で我々に連絡願います。"
@@ -3732,7 +3732,7 @@ Integrations,インテグレーション
 "International First",国際速達
 "International Ground",国際陸送
 "International Priority",国際優先便
-"Internet inconsistencies. The IP address  nd email domain are not consistent with the billing address","インターネットの不一致。 IPアドレスと電子メールドメインが請求先住所と一致しません"
+"Internet inconsistencies. The IP address  nd email domain are not consistent with the billing address","インターネットの不一致。 IPアドレスと電子メールドメインが購入者住所と一致しません"
 Intersection,乗算
 Interval,インターバル
 "Interval Division Limit",ステップ分割制限数
@@ -3903,33 +3903,33 @@ Invitee,被招待者
 "Invitee Information",被招待者情報
 "Inviter Information",招待者情報
 Invoice,請求
-"Invoice #",請求書番号
-"Invoice # ",請求書番号
+"Invoice #",領収書番号
+"Invoice # ",領収書番号
 "Invoice #%1 comment added","領収書 #%1 コメント追加されました"
 "Invoice #%1 created","領収書 #%1 作成されました"
-"Invoice #%1 | %2 | %4 (%3)","請求書 #%1 | %2 | %4 (%3)"
+"Invoice #%1 | %2 | %4 (%3)","領収書 #%1 | %2 | %4 (%3)"
 "Invoice Comment Email Sender",請求コメントEメール送信者
-"Invoice Comment Email Template",請求書コメントメールテンプレート
+"Invoice Comment Email Template",領収書コメントメールテンプレート
 "Invoice Comment Email Template for Guest",ゲスト用の注文コメントメールテンプレート
-"Invoice Comments",請求書コメント
+"Invoice Comments",領収書コメント
 "Invoice Date",請求日
-"Invoice Email Sender",請求書メール送信者
-"Invoice Email Template",請求書メールテンプレート
-"Invoice Email Template for Guest",ゲスト用の請求書メールテンプレート
-"Invoice History",請求書履歴
-"Invoice ID",請求書ID
+"Invoice Email Sender",領収書メール送信者
+"Invoice Email Template",領収書メールテンプレート
+"Invoice Email Template for Guest",ゲスト用の領収書メールテンプレート
+"Invoice History",領収書履歴
+"Invoice ID",領収書ID
 "Invoice Report",インボイスレポート
-"Invoice Totals",請求書合計
-"Invoice and Packing Slip Design",請求書と納品書のデザイン
+"Invoice Totals",領収書合計
+"Invoice and Packing Slip Design",領収書と納品書のデザイン
 "Invoice and Ship",請求と配送
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","請求書と送付タイプの幾つかがこの注文ではマッチしません。送付は請求書を作成後のみに作成することができます"
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","領収書と送付タイプの幾つかがこの注文ではマッチしません。送付は領収書を作成後のみに作成することができます"
 "Invoice canceling error",領収書キャンセルエラー
 "Invoice capturing error",領収書キャプチャリングエラー
-"Invoice for your %store_name order","%store_nameオーダーの請求書"
-"Invoice voiding error",請求書無効化エラー
+"Invoice for your %store_name order","%store_nameオーダーの領収書"
+"Invoice voiding error",領収書無効化エラー
 Invoiced,請求済
 "Invoiced Orders",インボイス注文
-Invoices,請求書
+Invoices,領収書
 "Is Active",有効
 "Is Closed",クローズ済
 "Is Default",標準
@@ -3940,8 +3940,8 @@ Invoices,請求書
 "Is this downloadable Product?",これはダウンロード商品ですか？
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","この値をストアビュー毎""デビットかクレジットカード""にセットすることをおすすめします。"
 "It is recommended to set this value to ""PayPal"" per store views.","ストアのビューごとにこの値を ""PayPal"" に設定することをお勧めします。"
-"It's a default billing address.",標準の請求先
-"It's a default shipping address.",標準の配送先
+"It's a default billing address.",標準のご購入者住所
+"It's a default shipping address.",標準のお届け先住所
 "It's time to <a href=""%1"">change your password</a>."," <a href=""%1"">パスワードを変更</a>する時期です。"
 "It's time to change your password.",パスワードを変更する時期です。
 Item,商品
@@ -4001,7 +4001,7 @@ Large,ラージ
 "Last Date Subscribed",最終購読日
 "Last Date Unsubscribed",最終購読解除日
 "Last Generated",最終作成日
-"Last Invoice Created Date",直近の請求書作成日
+"Last Invoice Created Date",直近の領収書作成日
 "Last Logged In (%1):","前回ログイン(%1):"
 "Last Logged In:","最終ログイン日:"
 "Last Name",姓
@@ -4215,7 +4215,7 @@ Manage,管理
 Manual,手動
 Manually,手動
 "Mark as Read",既読にする
-"Marked as suspect. The billing or shipping address is similar to an address previously marked as suspect","疑わしいとマークされています。請求または配送先住所は、以前に疑わしいとマークされた住所と似ています"
+"Marked as suspect. The billing or shipping address is similar to an address previously marked as suspect","疑わしいとマークされています。請求またはお届け先住所は、以前に疑わしいとマークされた住所と似ています"
 Marketing,マーケティング
 "Mask for Meta Description",メタ詳細のマスク
 "Mask for Meta Keywords",メタキーワードのためのマスク
@@ -4495,7 +4495,7 @@ New,新規
 "New Attribute Set Name",新しい属性セット名
 "New Backup",新しいバックアップ
 "New Banner",新規バナー
-"New Billing Agreement",新しい支払合意
+"New Billing Agreement",新しい支払契約
 "New Block",新規ブロック
 "New Cart Price Rule",新しいクーポン
 "New Catalog Price Rule",新しいカタログ価格ルール
@@ -4524,9 +4524,9 @@ New,新規
 "New Group",新規グループ
 "New Integration",新しいインテグレーション
 "New Invitations",新規招待
-"New Invoice",新しい請求書
-"New Invoice and Shipment for Order #%1","注文のための新しい請求書と送料 #%1"
-"New Invoice for Order #%1","注文 #%1 のための新しい請求書"
+"New Invoice",新しい領収書
+"New Invoice and Shipment for Order #%1","注文のための新しい領収書と送料 #%1"
+"New Invoice for Order #%1","注文 #%1 のための新しい領収書"
 "New Key",新しいキー
 "New Layout",新しいレイアウト
 "New Memo",新規メモ
@@ -4914,10 +4914,10 @@ Order,注文
 "Order History",注文履歴
 "Order ID","注文 ID"
 "Order Id is required for creditmemo document",クレジットメモ文書には注文IDが必要です
-"Order Id is required for invoice document",請求書文書には受注IDが必要です
+"Order Id is required for invoice document",領収書文書には受注IDが必要です
 "Order Id is required for shipment document",出荷伝票に注文IDが必要です
 "Order Information",注文情報
-"Order Invoices",注文請求書
+"Order Invoices",注文領収書
 "Order Item Status to Enable Downloads",ダウンロード可能になる注文ステータス
 "Order Quantity",注文数量
 "Order Review",ご注文の確認
@@ -4995,7 +4995,7 @@ Owner,所有者
 PAK,PAK
 "PDF Credit Memos",PDFクレジットメモ
 "PDF Creditmemos",PDFクレジットメモ
-"PDF Invoices",PDF請求書
+"PDF Invoices",PDF領収書
 "PDF Print-outs",PDF印刷物
 "PDF Shipments",PDF配送
 "PHP SOAP extension is required.","PHP SOAPエクステンションが必要です。"
@@ -5257,7 +5257,7 @@ Physical,物理的
 "Please assign the current hierarchy to one or more destinations.",現在の階層を1つまたは複数の宛先に割り当ててください。
 "Please assign this entity to a store view.",この属性をストアビューに割り当ててください。
 "Please assign this item to a store view.",このアイテムをストアビューに割り当ててください。
-"Please check billing address information.",ご請求先住所を確認してください。
+"Please check billing address information.",ご購入者住所を確認してください。
 "Please check shipping address information.",お届先住所を確認してください。
 "Please check shipping addresses information.",お届先住所を確認してください。
 "Please check the billing address information. %1","支払住所情報を確認してください %1"
@@ -5578,7 +5578,7 @@ Physical,物理的
 "Please specify product link(s).",商品リンクを指定してください。
 "Please specify product option(s).",商品オプションを指定してください。
 "Please specify product's required option(s).",製品の必須オプションを指定してください。
-"Please specify shipping methods for all addresses.",すべての配送先に配送方法を指定してください。
+"Please specify shipping methods for all addresses.",すべてのお届け先に配送方法を指定してください。
 "Please specify the admin custom URL.",管理画面のURLを指定してください。
 "Please specify the correct Import Service.",正しいインポートサービスを指定してください
 "Please specify the correct account and try again.",正しいアカウントを指定して再度お試し下さい。
@@ -5667,12 +5667,12 @@ Price:,価格:
 "Price: Low to high",価格：低いから高い
 Print,印刷
 "Print All",すべて印刷
-"Print All Invoices",全ての請求書を印刷する
+"Print All Invoices",全ての領収書を印刷する
 "Print All Refunds",すべての返金を印刷
 "Print All Shipments",すべての配送を印刷
 "Print Credit Memos",クレジットメモ印刷
-"Print Invoice",請求書を印刷する
-"Print Invoices",請求書印刷
+"Print Invoice",領収書を印刷する
+"Print Invoices",領収書印刷
 "Print Order",注文印刷
 "Print Order # %1","注文印刷 # %1"
 "Print Packing Slips",配送伝票を印刷
@@ -6365,7 +6365,7 @@ Sales,セールス
 "Sales Discount",値引
 "Sales Emails",セールスメール
 "Sales Emails Section",販売メールセクション
-"Sales Invoices",請求書
+"Sales Invoices",領収書
 "Sales Items",販売商品
 "Sales Order Status",注文ステータス
 "Sales Orders",注文
@@ -6381,7 +6381,7 @@ Sales,セールス
 "Sales Subtotal",売上サブトータル
 "Sales Tax",消費税
 "Sales Total",合計
-"Same As Billing Address",請求先と同じ
+"Same As Billing Address",購入者と同じ
 "Same as Inviter",招待者と同じ
 "Same day",同日
 Sample,サンプル
@@ -6599,10 +6599,10 @@ Send,送信
 "Send Gift Receipt",ギフトレシートを送信
 "Send Invitation",招待メールを送信
 "Send Invitations",招待メールを送信
-"Send Invoice Comment Email Copy To",請求書コメントメールのコピー送信先
-"Send Invoice Comments Email Copy Method",請求書コメントコピーメール送信方法
-"Send Invoice Email Copy Method",請求書コピーメール送信方法
-"Send Invoice Email Copy To",請求書メールのコピー送信先
+"Send Invoice Comment Email Copy To",領収書コメントメールのコピー送信先
+"Send Invoice Comments Email Copy Method",領収書コメントコピーメール送信方法
+"Send Invoice Email Copy Method",領収書コピーメール送信方法
+"Send Invoice Email Copy To",領収書メールのコピー送信先
 "Send Order Comment Email Copy To",注文コメントメールのコピー送信先
 "Send Order Comments Email Copy Method",注文コメントコピーメール送信方法
 "Send Order Email",注文電子メールを送信する
@@ -6687,15 +6687,15 @@ Ship,配送
 "Ship Date",発送日
 "Ship From",配送元
 "Ship Here",この住所にお届け
-"Ship To",配送先
-"Ship To:",配送先:
+"Ship To",お届け先
+"Ship To:",お届け先:
 "Ship to Applicable Countries",利用可能な国にのみ配送する
 "Ship to Multiple Addresses",複数の住所へ送る
 "Ship to Recipient Address",受信者住所に配送する
 "Ship to Specific Countries",特定の国にのみ配送する
 "Ship to registrant's address",登録者の住所に配送
 "Ship to the recipient's address.",受取人の住所に発送してください。
-"Ship to:",配送先:
+"Ship to:",お届け先:
 "Ship-to Name",送り先名
 Shipment,配送
 "Shipment #",配送番号
@@ -6729,9 +6729,9 @@ Shipping,配送
 "Shipping (Incl. Tax)","配送料 (税込)"
 "Shipping Address",お届け先住所
 "Shipping Address:",お届け先住所:
-"Shipping Address: ",配送先住所:
+"Shipping Address: ",お届け先住所:
 "Shipping Amount",配送料金
-"Shipping Country",配送先の国
+"Shipping Country",お届け先の国
 "Shipping Excl. Tax (%1)","税抜き送料 (%1)"
 "Shipping Incl. Tax (%1)","税込み送料 (%1)"
 "Shipping Info",送付情報
@@ -6745,7 +6745,7 @@ Shipping,配送
 "Shipping Policy",配送ポリシー
 "Shipping Policy Parameters",配送ポリシーパラメーター
 "Shipping Policy Parameters Section",出荷ポリシーパラメータセクション
-"Shipping Postcode",配送先郵便番号
+"Shipping Postcode",お届け先郵便番号
 "Shipping Price",配送料
 "Shipping Prices",配送料金
 "Shipping Refund",配送払戻
@@ -6753,8 +6753,8 @@ Shipping,配送
 "Shipping Report",発送レポート
 "Shipping Settings",配送設定
 "Shipping Settings Section",出荷設定セクション
-"Shipping State/Province",配送先の県/地方
-"Shipping To",配送先
+"Shipping State/Province",お届け先の県/地方
+"Shipping To",お届け先
 "Shipping address is not set",商品送付先住所が設定されていません
 "Shipping address not set.",送付アドレスがセットされていません
 "Shipping and Handling",配送料
@@ -7162,8 +7162,8 @@ Sub-items,サブアイテム
 Subject,件名
 Submit,送信
 "Submit Comment",コメント送信
-"Submit Invoice",請求書作成
-"Submit Invoice and Shipment",請求書と配送伝票を作成
+"Submit Invoice",領収書作成
+"Submit Invoice and Shipment",領収書と配送伝票を作成
 "Submit Order",注文送信
 "Submit Returns",返品を提出
 "Submit Review",レビューを送信
@@ -7334,7 +7334,7 @@ Text,テキスト
 "The '%1' is a parent of '%2' recursively, therefore '%3' cannot be set as child to it.","'%1'は再帰的に'%2'の親要素です, そのため '%3'は子要素としてそれ自体を設定できません。"
 "The '%1' is not a child of '%2'.",'%1'は'%2'の子要素ではありません。
 "The 'mode' value is unexpected.",'mode'値は予期しない値です。
-"The Billing Agreement status is not set.",支払合意が設定されていません。
+"The Billing Agreement status is not set.",支払契約が設定されていません。
 "The BuyRequest instance in options group is incorrect.",オプショングループのBuyRequestインスタンスは正しくありません。
 "The CSS file must be less than %1M.",CSSファイルは%1M以下でなければなりません
 "The Customer Segment data has been refreshed.",顧客セグメントデータが更新されました。
@@ -7412,7 +7412,7 @@ Text,テキスト
 "The current module pathname is undefined.",現在のモジュールパスネームは未定義です
 "The customer ID is not set.",顧客IDが設定されていません。
 "The customer address is not valid.",顧客の住所は無効です。
-"The customer does not have default billing address.",この顧客は標準の請求先を登録していません。
+"The customer does not have default billing address.",この顧客は標準の購入者を登録していません。
 "The customer earned %1 for this order.","この注文に対して、顧客は %1 を獲得しました。"
 "The customer group no longer exists.",この顧客グループは存在しません
 "The customer is now assigned to Customer Group %s.","顧客は現在顧客グループ %sにアサインされています。"
@@ -7490,14 +7490,14 @@ Text,テキスト
 "The invitation has been saved.",招待メールを保存しました。
 "The invitation to %1 converted into a customer.","%1 への招待状が顧客に変換されました。"
 "The invitation to %1 converted into an order.",%1への招待状が注文に変換されました。
-"The invoice and the shipment  have been created. The shipping label cannot be created now.","請求書と送付書は作成されました。 配送ラベルは現在作成できません。"
-"The invoice contains one or more items that are not part of the original order.",請求書には元の注文の一部ではない1つ以上の品目が含まれています。
-"The invoice email was sent.",請求書Eメールが送られました。
-"The invoice email wasn't sent.",請求書Eメールは送られていません。
-"The invoice has been captured.",請求書を売り上げ計上しました。
-"The invoice has been created.",請求書を作成しました。
-"The invoice has been voided.",請求書を無効にしました。
-"The invoice will be created offline without the payment gateway.",請求書は決済ゲートウェイなしでオフラインで作成されます
+"The invoice and the shipment  have been created. The shipping label cannot be created now.","領収書と送付書は作成されました。 配送ラベルは現在作成できません。"
+"The invoice contains one or more items that are not part of the original order.",領収書には元の注文の一部ではない1つ以上の品目が含まれています。
+"The invoice email was sent.",領収書Eメールが送られました。
+"The invoice email wasn't sent.",領収書Eメールは送られていません。
+"The invoice has been captured.",領収書を売り上げ計上しました。
+"The invoice has been created.",領収書を作成しました。
+"The invoice has been voided.",領収書を無効にしました。
+"The invoice will be created offline without the payment gateway.",領収書は決済ゲートウェイなしでオフラインで作成されます
 "The item was added to shopping cart %1, store view %2.","アイテムがショッピングカート %1 に、ストアビュー %2 に追加されました。"
 "The item was added to wish list %1, store view %2.","アイテムは、ほしい物リスト %1、ストアビュー %2 に追加されました。"
 "The item was deleted",アイテムが削除されました
@@ -7568,7 +7568,7 @@ Text,テキスト
 "The qty value is required to update quote item.",数量はアップデートクオート商品に必須です
 "The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","カートに追加された ""%1"" 製品の数量が、ギフト・レジストリの所有者が希望する数量を超えています。 追加量は残りの量 %2 に合わせて調整されています。"
 "The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU ""%1"".","クレジットメモへの数量は、製品SKU ""%1"" の払い戻されていない数量を超えてはいけません。"
-"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","請求書の数量は、製品SKU ""%1"" の無認可数量を超えてはいけません。"
+"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","領収書の数量は、製品SKU ""%1"" の無認可数量を超えてはいけません。"
 "The quantity to refund must not be greater than the unrefunded quantity.",払い戻す数量は、払い戻しされない数量を超えてはいけません。
 "The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","出荷する数量は、製品SKU ""%1"" の未出荷数量を超えてはいけません。"
 "The reference ID is not set.",リファレンスIDがセットされていません。
@@ -7680,7 +7680,7 @@ Themes,テーマ
 "There are %remaining_days day(s) remaining to use %points_expiring of your reward points.","ポイントの %points_expiring を使用するために残っている %remaining_days があります。"
 "There are more than one shipping addresses.",1つ以上の配送住所があります。
 "There are no applicable items for return in this order.",この順番で返品の対象となる商品はありません。
-"There are no billing agreements yet.",まだ支払合意がありません。
+"There are no billing agreements yet.",まだ支払契約がありません。
 "There are no customers for this alert.",このアラートに顧客は登録されていません。
 "There are no grouped products.",グループ商品はありません
 "There are no items in customer's shopping cart.",顧客のショッピングカートに商品はありません。
@@ -7813,8 +7813,8 @@ Themes,テーマ
 "This is the wrong RMA order ID.",これは間違ったRMA注文IDです。
 "This is the wrong quote item id to update configuration.",これは設定をアップデートするには誤ったクオート商品idです
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.",これは内部用です。スペースまたは%1文字以上を使わないようにしてください。
-"This is your default billing address.",これがデフォルトの請求先住所です。
-"This is your default shipping address.",これがデフォルトの配送先住所です。
+"This is your default billing address.",これがデフォルトの購入者住所です。
+"This is your default shipping address.",これがデフォルトのお届け先住所です。
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","これが新しい暗号化キーです： %1。 書き留めて、取り扱いに十分に配慮してください！"
 "This item has no weight",重量なし
 "This item has weight",重量あり
@@ -7866,7 +7866,7 @@ Themes,テーマ
 "This website cannot be deleted.",ウェブサイトを削除する事はできません。
 "This will be displayed just before the body closing tag.",これはボディの終了タグの直前に表示されます。
 "This will be included before head closing tag in page HTML.",ページのHTMLのheadタグ終了前に追記されます。
-"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","これはオフライン返金になります。オンライン返金にするには, 請求書を開きクレジットメモを作成してください。続けますか？"
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","これはオフライン返金になります。オンライン返金にするには, 領収書を開きクレジットメモを作成してください。続けますか？"
 "This wish list can be shared %1 more times.","このほしい物リストは %1 回以上共有できます。"
 "This won't take long . . .","これに時間はかかりません . . ."
 "Thread Active",スレッドアクティブ
@@ -8103,7 +8103,7 @@ USPS,USPS
 "Unable to remove rule %1","ルール %1 を削除できません"
 "Unable to retrieve shipping label",出荷ラベルの取り出しができません
 "Unable to retrieve tracking",荷物追跡情報を読み込みできません
-"Unable to save Billing Agreement:",支払合意が保存できませんでした:
+"Unable to save Billing Agreement:",支払契約が保存できませんでした:
 "Unable to save Cron expression",Cron式を保存できません
 "Unable to save Future Update.",将来の更新を保存できません。
 "Unable to save Stock",在庫を保存できません
@@ -8191,7 +8191,7 @@ Unsubscribed,購読解除
 "Unsupported bookmark action.",サポートされていないブックマークアクション
 "Unsupported format of schema location: '%1'","スキーマロケーションの非サポートフォーマットです: '%1'"
 "Unsupported product type ""%1"".","サポートされていない商品タイプ ""%1""。"
-"Unverifiable address. The billing or shipping address cannot be verified","確認できないアドレス。 請求先住所または配送先住所を確認できません"
+"Unverifiable address. The billing or shipping address cannot be verified","確認できないアドレス。 購入者住所またはお届け先住所を確認できません"
 "Up To Date",最新
 "Up-Sell Products",アップセル商品
 Up-sells,アップセル商品
@@ -8224,7 +8224,7 @@ Update,更新
 "Update product's %1 %2: %3","商品の %1 %2: %3 更新"
 "Update the Product",商品を更新
 "Update to your %store_name credit memo","%store_name クレジットメモへの更新"
-"Update to your %store_name invoice","%store_name 請求書への更新"
+"Update to your %store_name invoice","%store_name 領収書への更新"
 "Update to your %store_name order","%store_name 注文を更新"
 "Update to your %store_name shipment","%store_name 出荷データへの更新"
 "Update with id ""%1"" does not exist.","ID ""%1"" の更新は存在しません。"
@@ -8293,7 +8293,7 @@ Url,Url
 "Use Web Server Rewrites",ウェブサーバーリライトを使用する
 "Use Website",ウェブサイトの設定を使用する
 "Use as my default billing address",標準ご連絡先住所として使用する
-"Use as my default shipping address",標準配送先住所として使用する
+"Use as my default shipping address",標準お届け先住所として使用する
 "Use colon to specify port. For example: ""test.example.com:5224"".","コロンを使用してポートを指定してください。例: ""test.example.com:5224""."
 "Use config",設定を使用する
 "Use default",標準を使用
@@ -8314,7 +8314,7 @@ Url,Url
 "Use parent",親を使用する
 "Use reward points",ポイントを使用する
 "Use system value",システム設定値を使用
-"Use the gift registry shipping address",ギフトレジストリの配送先住所を使用する
+"Use the gift registry shipping address",ギフトレジストリのお届け先住所を使用する
 "Use the parent node hierarchy.",親ノード階層を使用します。
 "Use your reward points; %1 are available.","ポイントを使用する; %1 が利用可能です。"
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders","{{name}}と{{description}}を商品名と商品詳細プレースホルダーとして使う"
@@ -8516,7 +8516,7 @@ Warning,警告
 "We can't create a return transaction for order #%1.","注文 #%1 の返品取引を作成することはできません。"
 "We can't create a shipping label right now.",今は出荷ラベルを作成できません。
 "We can't create credit memo for the order.",この注文へのクレジットメモを作成できません。
-"We can't create creditmemo for the invoice.",請求書のクレジットメモを作成することはできません。
+"We can't create creditmemo for the invoice.",領収書のクレジットメモを作成することはできません。
 "We can't create directory ""%1""","ディレクトリ ""%1"" を作成することはできません"
 "We can't create the Wish List right now.",現在ほしい物リストを作成できません。
 "We can't create the backup right now.",現在バックアップを作成できません。
@@ -8635,7 +8635,7 @@ Warning,警告
 "We can't save the file history file.",ファイル履歴ファイルは保存できません。
 "We can't save the form type right now.",フォームタイプは今すぐ保存できません。
 "We can't save the gift wrapping right now.",今すぐギフトラッピングを保存することはできません。
-"We can't save the invoice right now.",現在請求書を保存できません。
+"We can't save the invoice right now.",現在領収書を保存できません。
 "We can't save the product rule right now.",今はプロダクトルールを保存できません。
 "We can't save the scheduled operation right now.",今すぐスケジュールされた操作を保存することはできません。
 "We can't save the segment right now.",今すぐセグメントを保存することはできません。
@@ -8648,7 +8648,7 @@ Warning,警告
 "We can't save this tax class right now.",現在この税クラスを保存することができません
 "We can't save this tax rule right now.",この税ルールを現在保存できません
 "We can't send the email order right now.",現在Eメール注文が送れません。
-"We can't send the invoice email right now.",現在請求書Eメールを送れません。
+"We can't send the invoice email right now.",現在領収書Eメールを送れません。
 "We can't send the shipment right now.",現在配送できません。
 "We can't set up a URL rewrite because the product you chose is not associated with a website.",選ばれた商品はウェブサイトと関連していないのでURLリライトを設定できません。
 "We can't share customer accounts globally when the accounts share identical email addresses on more than one website.",アカウント達が同一のEメールアドレスを1つ以上のウェブサイトでシェアする時には顧客アカウントをグローバルにシェアすることはできません。
@@ -9005,7 +9005,7 @@ Yes/No,Yes/No
 "You can't add virtual products, digital products or gift cards to gift registries.",ギフトレジストリに仮想製品、デジタル製品、ギフトカードを追加することはできません。
 "You can't create a creditmemo without products.",プロダクトなしでクレジットメモを作成することはできません。
 "You can't create a shipment without products.",商品を持たない出荷データは作成できません。
-"You can't create an invoice without products.",商品なしに請求書を作成できません。
+"You can't create an invoice without products.",商品なしに領収書を作成できません。
 "You can't delete group ""%1"".","グループ""%1""は削除できません。"
 "You can't delete the default wish list.",デフォルトのほしい物リストは削除できません。
 "You can't delete the design change.",デザイン変更を削除できません。
@@ -9122,7 +9122,7 @@ Yes/No,Yes/No
 "You have item changes",商品変更があります
 "You have logged out.",ログアウトしました。
 "You have no default billing address in your address book.",標準のご連絡先住所がアドレス帳にありません。
-"You have no default shipping address in your address book.",標準の配送先住所がアドレス帳にありません。
+"You have no default shipping address in your address book.",標準のお届け先住所がアドレス帳にありません。
 "You have no items in your shopping cart.",カートの中には何もありません。
 "You have no items in your wish list.",ほしい物リストは空です。
 "You have no items to compare.",比較する商品はありません
@@ -9133,8 +9133,8 @@ Yes/No,Yes/No
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","商品SKUを入力していません。 SKUの製品を追加するには、<a href=""%1"">ここをクリック</a>してください。"
 "You have not purchased any downloadable products yet.",まだダウンロード商品をご購入いただいていません。
 "You have not put the order on hold.",注文を一時停止にしませんでした
-"You have not set a default billing address.",標準のご請求先が指定されていません。
-"You have not set a default shipping address.",標準の配送先を指定してください。
+"You have not set a default billing address.",標準のご購入者住所が指定されていません。
+"You have not set a default shipping address.",標準のお届け先を指定してください。
 "You have not uploaded the image.",画像をアップロードしていません。
 "You have placed no orders.",注文はありません
 "You have placed no returns.",返品をしていません。
@@ -9182,7 +9182,7 @@ Yes/No,Yes/No
 "You need to set at least one condition for this rule to work.",このルールを機能させるには、少なくとも1つの条件を設定する必要があります。
 "You need to specify a customer ID group.",顧客IDグループを指定する必要があります。
 "You notified customer about creditmemo #%1.","クレジットメモについて顧客に連絡しました #%1."
-"You notified customer about invoice #%1.","請求書について顧客に連絡しました #%1."
+"You notified customer about invoice #%1.","領収書について顧客に連絡しました #%1."
 "You put the order on hold.",注文を一時停止にしました
 "You refreshed lifetime statistics.",統計をリフレッシュしました。
 "You released the order from holding status.",注文を保留状態からリリースしました
@@ -9296,7 +9296,7 @@ Yes/No,Yes/No
 "Your Credit Memo #%creditmemo_id for Order #%order_id",注文#%order_idのあなたのクレジットメモ#%creditmemo_id
 "Your Customization",あなたのカスタマイズ
 "Your Gift Registry Message",あなたのギフトレジストリメッセージ
-"Your Invoice #%invoice_id for Order #%order_id",注文#%order_idのあなたの請求書#%invoice_id
+"Your Invoice #%invoice_id for Order #%order_id",注文#%order_idのあなたの領収書#%invoice_id
 "Your Language",あなたの言語
 "Your Language:",あなたの言語:
 "Your Order <span class=""no-link"">#%increment_id</span>","あなたの注文 <span class=""no-link"">#%increment_id</span>"
@@ -9313,7 +9313,7 @@ Yes/No,Yes/No
 "Your account is temporarily disabled.",あなたのアカウントは一時的に無効になっています。
 "Your balance is %1.","残高は %1 です。"
 "Your balance is:",残高は:
-"Your billing agreement # is: ","あなたの支払合意番号は: "
+"Your billing agreement # is: ","あなたの支払契約番号は: "
 "Your coupon was successfully applied.",あなたのクーポンは正常に適用されました。
 "Your coupon was successfully removed.",あなたのクーポンは削除されました。
 "Your credit card will be charged for",クレジットカードでお支払いただく金額
@@ -9411,7 +9411,7 @@ edit,編集
 email,Eメール
 "email us at ",メールしてください
 ending,エンディング
-"enter your billing address for proper VAT calculation",正しいVAT計算のために請求住所を入力してください
+"enter your billing address for proper VAT calculation",正しいVAT計算のために購入者住所を入力してください
 "enter your shipping address for proper VAT calculation",正しいVAT計算のために送付住所を入力してください
 entity_label_1,entity_label_1
 entity_label_2,entity_label_2
@@ -9606,7 +9606,7 @@ yes,はい
 "255 by default","標準は255文字です。"
 "Improves dashboard performance but provides non-realtime data.","ダッシュボードの表示速度が向上しますが、データはリアルタイムではなくなります。"
 "<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">警告!</strong> MAPを有効にすると、すべての価格ルール適用後の価格がフロントエンドで表示されなくなります。"
-"Display Billing Address On","請求先住所の表示場所"
+"Display Billing Address On","購入者住所の表示場所"
 "Payment Page","決済画面"
 "Please enter the same value again.","同じ値を入力してください。"
 "Are you sure you want to delete this category?","このカテゴリを削除してもよろしいですか?"
@@ -9629,3 +9629,4 @@ yes,はい
 "Delete %1","%1 を削除"
 "Are you sure you wan\'t to delete a %1 record?","%1 を削除しても良いですか?"
 "First-Class Package Service - Retail","ファーストクラスパッケージサービス - リテール"
+"You aren't subscribed to our newsletter.","ニュースレターをご購読いただいておりません。"
