@@ -144,7 +144,7 @@
 "
                         <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
                     ","
-                        <strong style=""color:red"">警告！</strong>ストアコードをURLに使う場合にサードパーティサービス（PayPal等）にてストアコードのないURLが指定された場合、システムが正常に作動しないことがあります。
+                        <strong style=""color:red"">警告！</strong>ストアコードをURLに使う場合にサードパーティサービス（PayPal等）にてストアコードのないURLが指定された場合、システムが正常に作動しないことがあります。"
 "Auto-redirect to Base URL","Base URLに自動リダイレクトする"
 "
                         Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
@@ -362,7 +362,7 @@ Message,メッセージ
 "%1 Reward points (%2)","%1 ポイント (%2)"
 "%1 [%2]","%1 [%2]"
 "%1 already exist.","%1は既に存在します。"
-"%1 already exists.",%1は既に存在します。"
+"%1 already exists.","%1は既に存在します。"
 "%1 and above","%1 と以上"
 "%1 and greater","%1 とそれ以上"
 "%1 cache type(s) disabled.","%1 件のキャッシュを無効にしました。"
@@ -386,7 +386,7 @@ Message,メッセージ
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 は \Magento\Framework\Model\AbstractModel を継承していません"
 "%1 doesn't extends \Magento\Framework\Search\Dynamic\Algorithm\AlgorithmInterface","%1 は \Magento\Framework\Search\Dynamic\Algorithm\AlgorithmInterface は拡張できません"
 "%1 doesn't implement SortInterface","%1 は SortInterface　を実装していません"
-"%1 doesn't implement ThemeInterface","%1 は ThemeInterface　を実装していません”
+"%1 doesn't implement ThemeInterface","%1 は ThemeInterface　を実装していません"
 "%1 email(s) were sent.","%1 通Eメールが送られました。"
 "%1 doesn't implement \Magento\Framework\DB\MapperInterface","%1 は \Magento\Framework\DB\MapperInterface を実装しません"
 "%1 doesn't implement \Magento\Framework\DB\QueryInterface","%1 は implement \Magento\Framework\DB\QueryInterface を実装しません"
@@ -634,7 +634,7 @@ ASCII,ASCII
 "Accept Payment",支払受付
 "Accept Rate",受け入れ率
 "Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","あなたのMagentoストアでクレジットカード/デビットカードとPayPalがご利用いただけます。<br/>初期費用や月額料金はなく、別画面に移動することなく支払手続きが行なえます。"
-"Accept or Deny Payment",支払いを受諾または拒否"
+"Accept or Deny Payment","支払いを受諾または拒否"
 "Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","あなたのサイトに顧客を保つPCI準拠のチェックアウトで支払いを受け入れます。 （<u>エクスプレスチェックアウトを含む</u>）"
 "Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","あなたのサイトに顧客を保つPCI準拠のチェックアウトで支払いを受け入れます。 （<u>エクスプレスチェックアウトを含む</u>）"
 "Accept payments with a completely customizable checkout page.",完全にカスタマイズできるチェックアウトページの支払を受付
@@ -988,7 +988,6 @@ Allow,許可
 "Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!","許可されているファイルの種類：ico、png、gif、jpg、jpeg、apng、svg。これらのフォーマットはすべてのブラウザでサポートされているわけではありません。"
 "Allowed file types: jpeg, gif, png.","許可されるファイル形式:PNG, GIF, JPG"
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","許可されるファイルの種類：jpg、jpeg、gif、png。高解像度ディスプレイ用のロゴを最適化するには、通常の3倍の画像をアップロードし、次に下記の幅/高さのフィールドに1xの寸法を指定します。"
-Allowed file types: png"," gif"," jpg"," jpeg"," svg.""","許可されるファイルの種類：png、gif、jpg、jpeg、svg。"
 "Allowed file types: png, gif, jpg, jpeg, svg.","許可されるファイルの種類: png, gif, jpg, jpeg, svg."
 "Allows customers to stay logged in when switching between different stores.",異なる店舗に移動してもログイン状態を継続することを許可する
 "Allows use fallback logic for replacing swatch image with product swatch or base image",スワッチ画像を商品画像に置き換えるためにフォールバック機構の使用を許可
@@ -1045,7 +1044,7 @@ Amounts,売上高
 "An error occurred while the system report was being created. Please review the log and try again.","システムレポートの作成中にエラーが発生しました。ログを確認してもう一度お試しください。"
 "An error occurred. The email template can not be opened for preview.","エラーが発生しました。 メールテンプレートはプレビューのために開くことができません"
 "An error was encountered while performing delete operation.",削除操作の実行中にエラーが発生しました。
-"An inactive store view cannot be saved as default store view",非アクティブなストアビューをデフォルトのストアビューとして保存することはできません"
+"An inactive store view cannot be saved as default store view","非アクティブなストアビューをデフォルトのストアビューとして保存することはできません"
 "An invoice cannot be created when an order has a status of %1","オーダーのステータスが %1 の場合、領収書を作成することはできません"
 "An item object is not specified.",商品オブジェクトが指定されていません
 "An item option with code %1 already exists.","商品オプションのコード %1 はすでに存在します。"
@@ -5733,7 +5732,7 @@ Priority,優先度
 "Priority Mail Regional Rate Box B Hold For Pickup",ピックアップ用にホールドの優先メール地域レートボックスB
 "Priority Mail Regional Rate Box C",優先メール地域レートボックスC
 "Priority Mail Regional Rate Box C Hold For Pickup",ピックアップ用にホールドの優先メール地域レートボックスC
-"Priority Mail Small Flat Rate Box","優先メール小型定額ボックス
+"Priority Mail Small Flat Rate Box","優先メール小型定額ボックス"
 "Priority Mail Small Flat Rate Box Hold For Pickup","ピックアップ用にホールドの優先メール小型定額ボックス"
 "Priority Mail Small Flat Rate Box Hold For Pickup","ピックアップ用にホールドの優先メール小型定額ボックス"
 "Priority Mail Small Flat Rate Envelope",優先メール小型定額封筒
@@ -5864,7 +5863,7 @@ Products,商品
 "Products to Match",一致する商品
 "Products will still be shown by direct product URLs.",商品は商品のURLで表示され続けます。
 "Products with the following SKUs do not exist: %s","以下のSKUを持つ製品は存在しません: %s"
-"Profile ID","プロフィールID
+"Profile ID","プロフィールID"
 "Promo Section","プロモーションセクション"
 Profit,利益
 Promo,プロモーション
@@ -9598,7 +9597,7 @@ yes,はい
 "May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","{{secure_base_url}} または {{unsecure_base_url}} で始まる文字列を指定してください。"
 "Enter https protocol to use Secure URLs on Storefront.","ストアフロントでセキュアURLを使用する"
 "Enter https protocol to use Secure URLs in Admin.","管理画面でセキュアURLを使用する"
-"<strong style=""color:red"">Warning</strong>:  Do not set to """No"". User security could be compromised.","<strong style=""color:red"">注意</strong>: "No" にしないでください。セキュリティ性が低下します。"
+"<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">注意</strong>: ""No"" にしないでください。セキュリティ性が低下します。"
 "Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","基本通貨はすべての決済トランザクションで使用されます。 基本通貨の適用範囲は、カタログ価格スコープで定義されています (""カタログ"" > ""価格"" > ""カタログ価格スコープ"")。"
 "Changing can take some time due to processing whole catalog.","変更がすべての商品に適用されるまでしばらく時間がかかります。"
 "Account will be unlocked after provided time.","アカウントは指定した時間の経過後にロック解除されます。"
