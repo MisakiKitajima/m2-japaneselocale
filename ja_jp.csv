@@ -78,31 +78,31 @@ Back,戻る
 "Add selections to my cart",カートに選択した商品を追加する
 Cancel,キャンセル
 "Shopping Cart for %1 in %2","%2　の %1 のショッピングカート"
-"Select products you want to buy",購入する製品を選択してください
+"Select products you want to buy",購入する商品を選択してください
 Product,商品
 Price,価格
 Quantity,個数
-"Products in the Comparison List (%1)","比較リストの製品 (%1)"
+"Products in the Comparison List (%1)","比較リストの商品 (%1)"
 "Last ordered items (%1)",最後に注文した商品(%1)
 Products,商品
 ID,ID
 SKU,商品番号
-"Recently Compared Products (%1)","最近比較された製品 (%1)"
-"Recently Viewed Products (%1)","最近見た製品 (%1)"
+"Recently Compared Products (%1)","最近比較された商品 (%1)"
+"Recently Viewed Products (%1)","最近見た商品 (%1)"
 "Add to Shopping Cart by SKU",SKUによりショッピングカートに追加
 "Add to Shopping Cart",ショッピングカートに追加
-"Wish List (%1)",ほしい物リスト（%1）
+"Wish List (%1)",欲しいものリスト（%1）
 Apply,適用
 Configure,構成
 "Add to Order by SKU",SKUによる注文の追加
 "Add to Order",注文に追加
 "Add Products to Order",注文する商品を追加する
-"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span id = ""sku-attention-num"">%1</span>製品に注意が必要です。</span>"
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span id = ""sku-attention-num"">%1</span>商品に注意が必要です。</span>"
 "Remove All",すべて削除
 "Only %1%2%3 left in stock","%1%2%3 在庫が残っています"
 "You can buy up to %1 of these per purchase.","1回の購入につき最大で %1 を購入することができます。"
 "You must buy at least %1 of these per purchase.","購入ごとに少なくとも %1 を購入する必要があります。"
-"Specify the product's options.",製品のオプションを指定します。
+"Specify the product's options.",商品のオプションを指定します。
 "Alert me when this item is available.",この商品が入荷したら通知してください。
 "This customer couldn't be found. Verify the customer and try again.",この顧客は見つかりませんでした。顧客を確認し、再度お試し下さい。
 "Shopping cart management is disabled for this customer.",この顧客のショッピングカート管理は無効です。
@@ -118,11 +118,11 @@ Customers,顧客
 "The wish list item ID needs to be received. Set the ID and try again.",欲しいものリストのアイテムIDを受け取る必要があります。IDを設定して再度お試し下さい。
 "The wish list item needs to be loaded. Load the item and try again.",欲しいものリストのアイテムIDを読み込む必要があります。商品を読み込んで再度お試し下さい。
 "An error has occurred. See error log for details.",エラーが発生しました。ログを確認してください。
-"You cannot configure a product.",Y製品を構成することはできません。
+"You cannot configure a product.",商品のオプションを変更することはできません。
 "You removed the items.",アイテムを削除しました。
 "You removed the item.",アイテムを削除しました。
 "You added %1 to your shopping cart.","%1 をカートに追加しました"
-"You cannot add a product.",製品を追加することはできません。
+"You cannot add a product.",商品を追加することはできません。
 "Order by SKU",商品番号順
 "The SKU was not found in the catalog.",SKUはカタログに見つかりませんでした。
 "Availability: Out of stock.",在庫状況：在庫切れです。
@@ -132,18 +132,18 @@ Customers,顧客
 "We can't add the item to your cart.",ショッピングカートにアイテムを追加できません。
 "Please enter an actual number in the ""Qty"" field.","実際の数を ""Qty"" フィールドに入力してください。"
 "This product is assigned to another website.",この商品は他のウェブサイトに割り当てられています。
-"You can add only enabled products.",有効な製品のみを追加できます。
+"You can add only enabled products.",有効な商品のみを追加できます。
 "You cannot upload this file.",このファイルはアップロードできません。
 "The file is empty.",ファイルは空です。
-"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","商品SKUを入力していません。 SKUの製品を追加するには、<a href=""%1"">ここをクリック</a>してください。"
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","商品SKUを入力していません。 SKUから商品をカートに追加するには、<a href=""%1"">ここをクリック</a>してください。"
 "You have not entered a product SKU.",商品SKUを入力していません。
 "We can't add a product to cart by id ""%1"".","id ""%1"" でカートに商品を追加できません。"
 "Something went wrong while reordering this product.",この商品の再注文中に何か問題が発生しました。
 "We can't find this wish list.",このお気に入りリストが見つかりません。
 "You added %1 product to your shopping cart.","あなたのショッピングカートに %1 の商品を追加しました。"
 "You added %1 products to your shopping cart.","ショッピングカートに %1 の商品を追加しました。"
-"%1 product requires your attention.",%1製品に注意が必要です。
-"%1 products require your attention.",%1製品に注意が必要です。
+"%1 product requires your attention.",%1商品に注意が必要です。
+"%1 products require your attention.",%1商品に注意が必要です。
 "Yes, for Specified Customer Groups","Yes, for Specified Customer Groups"
 "Yes, for Everyone",はい、誰にでも
 No,No
@@ -181,14 +181,14 @@ Item,商品
 "Edit item parameters",商品パラメータを編集
 Edit,編集
 "Remove item",商品を削除
-"Products Requiring Attention",注意が必要な製品
+"Products Requiring Attention",注意が必要な商品
 "Add to Cart",カートに入れる
 Sku,商品番号
 File,ファイル
 "File extensions allowed: .csv","許可されるファイル拡張子: .csv"
 "Add Row",行を追加
 "Remove Row",行を削除
-"Add Products By SKU",SKUによる製品の追加
+"Add Products By SKU",SKUによる商品の追加
 "Shopping Cart Management",ショッピングカート管理
 "View Shopping Cart",ショッピングカートを表示
 "View and modify Shopping Cart",ショッピングカートを閲覧・変更
@@ -263,7 +263,7 @@ TestMessage,テストメッセージ
 "Athletic/Sporting Goods",運動/スポーツ用品
 "Art and Design",アートとデザイン
 "Advanced Reporting",詳細なレポート
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",お客様の顧客データに合わせた動的な商品、注文、顧客レポートを使用して、新しい洞察を得て、ビジネスパフォーマンスの指揮を執ることができます。
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",お客様の顧客データに合わせた動的な商品、注文、顧客レポートを本にした分析データを使用し、さらなるビジネスの成果を得ることができます。
 "Go to Advanced Reporting",詳細なレポートに進む
 Analytics,アナリティクス
 API,API
@@ -288,10 +288,10 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BIEssentials と BI Pro</a> tiersをご覧下さい。"
 "Auto Parts",自動パーツ
 "Baby/Children’s Apparel, Gear and Toys",ベビー・子供服、周辺機器、おもちゃ
-"Beauty and Cosmetics",美容製品と化粧品
+"Beauty and Cosmetics",美容と化粧品
 "Books, Music and Magazines",本、音楽と雑誌
 "Crafts and Stationery",工芸品と文房具
-"Consumer Electronics",家庭用電化製品
+"Consumer Electronics",家電
 "Deal Site",ディールサイト
 "Fashion Apparel and Accessories",ファッションアパレルとアクセサリー
 "Food, Beverage and Grocery",食品、飲料、食料品
@@ -572,8 +572,8 @@ Submit,送信
 "The image cache was cleaned.",画像キャッシュをクリアしました。
 "An error occurred while clearing the image cache.",画像cacheの消去中に問題が発生しました
 "The JavaScript/CSS cache has been cleaned.",JavaScript/CSSキャッシュをクリアしました。
-"An error occurred while clearing the JavaScript/CSS cache.","JavaScript/CSS cacheの消去中に問題が発生しました。"
-"The static files cache has been cleaned.",静的ファイルcacheが消去されました。
+"An error occurred while clearing the JavaScript/CSS cache.","JavaScript/CSS キャッシュの消去中に問題が発生しました。"
+"The static files cache has been cleaned.",静的ファイルキャッシュが消去されました。
 "You flushed the cache storage.",cacheストーレジをフラッシュしました。
 "The Magento cache storage has been flushed.",Magentoのキャッシュストレージを更新しました。
 "Cache Management",キャッシュ管理
@@ -613,7 +613,7 @@ System,システム
 "Unable to delete the store. Please try again later.",ストアを削除する事ができません。後で再度お試し下さい。
 "This store view cannot be deleted.",ストアビューを削除する事はできません。
 "Store View",ストアビュー
-"You deleted the store view.",ストアヴューを削除しました。
+"You deleted the store view.",ストアビューを削除しました。
 "Unable to delete the store view. Please try again later.",ストアビューを削除する事ができません。後で再度お試し下さい。
 "This website cannot be deleted.",ウェブサイトを削除する事はできません。
 "You deleted the website.",ウェブサイトが削除されました。
@@ -622,12 +622,12 @@ System,システム
 "Before modifying the website code please make sure it is not used in index.php.",ウェブサイトコードを変更する前に、index.php内で使われてないことを確認してください。
 "The store does not exist",店舗がありません。
 "Store view doesn't exist",ストアビューが存在しません
-"Before modifying the store view code please make sure it is not used in index.php.",ストアヴューを変更する前に、inde.php内で使われてないことを確認してください。
+"Before modifying the store view code please make sure it is not used in index.php.",ストアビューを変更する前に、inde.php内で使われてないことを確認してください。
 New,新規
 "All Stores",すべてのストア
 "You saved the website.",ウェブサイトを保存しました。
 "The default store cannot be disabled",デフォルトのストアを無効にすることはできません
-"You saved the store view.",ストアヴューを保存しました。
+"You saved the store view.",ストアビューを保存しました。
 "An inactive store view cannot be saved as default store view",非アクティブなストアビューをデフォルトのストアビューとして保存することはできません
 "You saved the store.",ストアを保存しました。
 "Something went wrong while saving. Please review the error log.",保存中に問題が発生しました。エラーログを参照してください。
@@ -701,8 +701,8 @@ Minute,分
 "Pregenerated product images files",事前に準備された商品画像ファイル
 "Flush JavaScript/CSS Cache",JavaScript/CSSキャッシュ更新
 "Themes JavaScript and CSS files combined to one file",テーマのJavaScriptとCSSファイルを1つのファイルに集約したものです
-"Flush Static Files Cache",静的ファイルcache削除
-"Preprocessed view files and static files",プリプロセスヴューファイルと静的ファイル
+"Flush Static Files Cache",静的ファイルキャッシュ削除
+"Preprocessed view files and static files",処理済みビューファイルと静的ファイル
 Catalog,カタログ
 JavaScript/CSS,JavaScript/CSS
 "JavaScript/CSS Cache",JavaScript/CSSキャッシュ
@@ -1357,7 +1357,7 @@ Delete,削除
 "The product link needs an ID field entered. Enter and try again.",商品リンクは入力されたIDフィールドが必要です。入力して再度お試し下さい。
 "The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.","IDフィールド ""%1"" の商品リンクが見つかりませんでした。IDを確認して再度お試し下さい。"
 "Could not save child: ""%1""","childを保存できませんでした: ""%1"""
-"Product with specified sku: ""%1"" does not contain option: ""%2""","SKUで指定された商品: ""%1"" : すでに製品: ""%2"" にすでにアサインされています。"
+"Product with specified sku: ""%1"" does not contain option: ""%2""","SKUで指定された商品: ""%1"" : すでに商品: ""%2"" にすでにアサインされています。"
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","SKUで指定されたChild: ""%1"" すでに商品: ""%2""　にアサインされています。"
 "The bundle product doesn't exist. Review your request and try again.",バンドル商品は存在しません。リクエストを確認して、再度お試し下さい。
 "The option that was requested doesn't exist. Verify the entity and try again.",要求されたオプションが存在しません。エンティティを確認して再度お試し下さい。
@@ -1399,7 +1399,7 @@ Quantity:,数量:
 "Choose a selection...",選択してください...
 "Ship Bundle Items",セット商品の配送方法
 Position,おすすめ
-"There are no products in this option.",このオプションでの製品はありません。
+"There are no products in this option.",このオプションでの商品はありません。
 Default,標準
 Ordered,注文済
 Invoiced,請求済
@@ -1513,7 +1513,7 @@ Cancel,キャンセル
 "Enter Name for New Attribute Set",新しい属性セットのために名前入力
 "Save and Continue Edit",保存して編集を続ける
 "Delete Attribute",属性を削除
-"Edit Product Attribute ""%1""","製品属性 ""%1"" を編集"
+"Edit Product Attribute ""%1""","商品属性 ""%1"" を編集"
 "New Product Attribute",新規商品属性
 "Advanced Attribute Properties",拡張属性プロパティ
 "Attribute Code",属性コード
@@ -1524,9 +1524,9 @@ Cancel,キャンセル
 "Not shared with other products.",他の属性と共有しない。
 "Input Validation for Store Owner",管理画面で値チェックを行う
 "Add to Column Options",カラムオプションに追加
-"Select ""Yes"" to add this attribute to the list of column options in the product grid.","""はい"" を選択してこの属性を製品グリッド内のカラムオプションのリストに追加。"
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","""はい"" を選択してこの属性を商品グリッド内のカラムオプションのリストに追加。"
 "Use in Filter Options",フィルターオプション内で使用
-"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","""はい"" を選択してこの属性を製品グリッド内のフィルターオプションのリストに追加。"
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","""はい"" を選択してこの属性を商品グリッド内のフィルターオプションのリストに追加。"
 "Store View",ストアビュー
 Website,ウェブサイト
 Global,グローバル
@@ -1777,7 +1777,7 @@ Center,中央
 "File validation failed.",ファイルの認証失敗
 "File can not be saved to the destination folder.",ファイルを保存先フォルダに保存することはできません。
 "Unknown EAV indexer type ""%1"".","不明な EAV インデクサータイプ ""%1""。"
-"We can't rebuild the index for an undefined product.",未定義製品のためのインデックスを再構築できません。
+"We can't rebuild the index for an undefined product.",未定義商品のためのインデックスを再構築できません。
 "Bad value was supplied.",不正な値です。
 "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","フラットカタログモジュールは限界値%2$dのフィルター可能と/またはソート可能属性を持っています。 現在は %1$d あります。このモジュールを使うためにフィルター可能と/またはソート可能属性の数を減らして下さい。"
 "Unsupported product type ""%1"".","サポートされていない商品タイプ ""%1""。"
@@ -1805,7 +1805,7 @@ Category,カテゴリ
 "We found a duplicate website, tier price, customer group and quantity.",複製ウェブサイト、Tierプライス;カスタムグループと量が見つかりました。
 "Percentage value must be a number between 0 and 100.","Percentage value must be a number between 0 and 100."
 "Invalid option id %1","不正なオプション id %1"
-"The attribute set couldn't be created because it's based on a non-product attribute set.",製品でない属性セットに基づいているため、属性セットを作成できませんでした。
+"The attribute set couldn't be created because it's based on a non-product attribute set.",商品でない属性セットに基づいているため、属性セットを作成できませんでした。
 "The attribute set couldn't be created because it's based on a non-existing attribute set.",存在しない属性セットに基づいているため、属性セットを作成できませんでした。
 "Provided Attribute set non product Attribute set.",与えられた商品属性セットは正しくありません。
 "Use config",設定を使用する
@@ -1825,11 +1825,11 @@ Disabled,無効
 "Can't get information about the picture: %1",その画像についての情報を取得できません：%1
 "The option type to get group instance is incorrect.",グループインスタンスを入手するオプションタイプが間違っています。
 "Select type options required values rows.",価格の列を要求されたタイプオプションを選択
-"The ProductSku is empty. Set the ProductSku and try again.",製品SKUが空です。製品SKUを設定して再度お試し下さい。
+"The ProductSku is empty. Set the ProductSku and try again.",商品SKUが空です。商品SKUを設定して再度お試し下さい。
 "The custom option couldn't be removed.",カスタムオプションを削除できませんでした。
 "Please specify date required option(s).",日付の必須オプションを指定してください。
 "Please specify time required option(s).",時間の必須項目を指定してください。
-"The product's required option(s) weren't entered. Make sure the options are entered and try again.","製品の必須オプションが入力されていません。 オプションが入力されていることを確認して、再度お試し下さい。"
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","商品の必須オプションが入力されていません。 オプションが入力されていることを確認して、再度お試し下さい。"
 "The option instance type in options group is incorrect.",オプショングループのオプションインスタンスタイプが正しくありません。
 "The product instance type in options group is incorrect.",オプショングループの商品インスタンスタイプが正しくありません。
 "The configuration item option instance in options group is incorrect.",オプショングループのコンフィグレーションアイテムオプションインスタンスは正しくありません。
@@ -1885,7 +1885,7 @@ px.,ピクセル
 "Not Visible Individually",非表示
 Search,検索
 "Catalog, Search","カタログ, 検索"
-"Something went wrong while removing products from the websites.",製品をウェブサイトから削除中に問題が発生しました。
+"Something went wrong while removing products from the websites.",商品をウェブサイトから削除中に問題が発生しました。
 "Something went wrong while adding products to websites.",商品をウェブサイトに追加中に問題が発生しました。
 "The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","ID ""%1"" のグループが存在しません。IDを確認して再度お試し下さい。"
 "The attribute group can't be deleted because it contains system attributes.",属性グループがシステム属性を含むため、削除できません。
@@ -1893,8 +1893,8 @@ Search,検索
 "The ""%1"" link type is unknown. Verify the type and try again.","""%1"" リンクタイプが不明です。タイプを確認して再度お試し下さい。"
 "The ""%1"" link type wasn't found. Verify the type and try again.","""%1"" リンクタイプが見つかりません。タイプを確認して再度お試し下さい。"
 "The linked products data is invalid. Verify the data and try again.",リンクされた商品データが無効です。データを確認して再度お試し下さい。
-"Product with SKU '%1' is not linked to product with SKU '%2'","SKU '%1' の製品はSKU '%2' の製品にリンクされていません"
-"Product %1 doesn't have linked %2 as %3","製品 %1 は %3 として　%2　に紐づいていません。"
+"Product with SKU '%1' is not linked to product with SKU '%2'","SKU '%1' の商品はSKU '%2' の商品にリンクされていません"
+"Product %1 doesn't have linked %2 as %3","商品 %1 は %3 として　%2　に紐づいていません。"
 "The product that was requested doesn't exist. Verify the product and try again.",要求された商品が存在しません。商品を確認して再度お試し下さい。
 "The Product with the ""%1"" SKU doesn't exist.","SKU ""%1"" の商品は存在しません。"
 "Invalid product data: %1","不明な商品データ: %1"
@@ -1902,9 +1902,9 @@ Search,検索
 "Database deadlock found when trying to get lock","Database deadlock found when trying to get lock"
 "Database lock wait timeout exceeded","Database lock wait timeout exceeded"
 "The ""%1"" product couldn't be removed.","""%1""商品を削除できませんでした。"
-"There are not websites for assign to product",製品に割り当てるウェブサイトがありません
-"Could not assign product ""%1"" to websites ""%2""","ウェブサイト%2にて製品 ""%1""をアサインできませんでした"
-"Could not save product ""%1"" with websites %2","ウェブサイト%2にて製品 ""%1""を保存できませんでした"
+"There are not websites for assign to product",商品に割り当てるウェブサイトがありません
+"Could not assign product ""%1"" to websites ""%2""","ウェブサイト%2にて商品 ""%1""をアサインできませんでした"
+"Could not save product ""%1"" with websites %2","ウェブサイト%2にて商品 ""%1""を保存できませんでした"
 "We cannot determine the field name.",フィールドネームを決めることはできません
 "Attribute '%1' is locked. %2","属性 '%1' はロックされています。 %2"
 "Do not change the scope. %1","スコープを変えないでください。 %1"
@@ -2052,7 +2052,7 @@ Role,権限
 "Image Resolution",画像解像度
 "{width}^{height} px","{width}^{height} px"
 "Hide from Product Page",商品ページから隠す
-"Allow Multiple Boxes for Shipping",配送に複数のボックスを許可する
+"Allow Multiple Boxes for Shipping",複数梱包での配送を許可する
 "start typing to search attribute",属性を検索してください
 "Basic Settings",基本設定
 "Advanced Settings",拡張設定
@@ -2135,9 +2135,9 @@ Main,メイン
 "Mask for Meta Description",メタ詳細のマスク
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders",{{name}}と{{description}}を商品名と商品詳細プレースホルダーとして使う
 "Recently Viewed/Compared Products",最近見られた/比較された商品
-"Lifetime of products in Recently Viewed Widget",最近見たウィジェットにある製品の有効期間
-"Lifetime of products in Recently Compared Widget",最近比較したウィジェットにある製品の有効期間
-"Synchronize widget products with backend storage",ウィジェット製品をバックエンドストレージと同期する
+"Lifetime of products in Recently Viewed Widget",最近見たウィジェットにある商品の有効期間
+"Lifetime of products in Recently Compared Widget",最近比較したウィジェットにある商品の有効期間
+"Synchronize widget products with backend storage",ウィジェット商品をバックエンドストレージと同期する
 Storefront,ストア
 "List Mode",リストモード
 "Products per Page on Grid Allowed Values",商品グリッド表示で使用できる候補
@@ -2223,7 +2223,7 @@ Template,テンプレート
 "If empty, we'll use the category name here.",空であれば、ここでカテゴリ名を使います。
 "Category Link Block Template",カテゴリリンクブロックテンプレート
 "Category Link Inline Template",カテゴリリンクインラインテンプレート
-"Recently Viewed Products",最近見た製品
+"Recently Viewed Products",最近見た商品
 "List of Products Recently Viewed by Visitor",訪問者に最近閲覧された商品のリスト
 "UI Component","UI コンポーネント"
 "Number of Products to display",商品表示件数
@@ -2278,8 +2278,8 @@ Base,ベース
 "Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.",テキストエディタの入力タイプでは、ストア>設定>コンテンツ管理でWYSIWYGを有効にする必要があります。
 "Catalog Input Type for Store Owner",店舗管理者のカタログ入力形式
 Values,値
-"Add this attribute to the list of column options in the product grid.",この属性を製品グリッドの列オプションのリストに追加します。
-"Add this attribute to the list of filter options in the product grid.",この属性を製品グリッドのフィルターオプションのリストに追加します。
+"Add this attribute to the list of column options in the product grid.",この属性を商品グリッドの列オプションのリストに追加します。
+"Add this attribute to the list of filter options in the product grid.",この属性を商品グリッドのフィルターオプションのリストに追加します。
 System,システム
 "All Store Views",全てのストアビュー
 "Delete selected items?",選択したアイテムを削除しますか?
@@ -2333,8 +2333,8 @@ Catalog,カタログ
 "Please make sure the end date follows the start date.",終了日が開始日の後にあることを確認してください。
 "Event for selected category",選択したカテゴリのイベント
 "Lister Block",リストブロック
-"This product is no longer on sale.",この製品は販売されていません。
-"Some of these products can no longer be sold.",これらの製品の一部はもはや販売できません。
+"This product is no longer on sale.",この商品は販売されていません。
+"Some of these products can no longer be sold.",これらの商品の一部はもはや販売できません。
 "Select Category",カテゴリを選択
 "Use Default Value",標準の値を使用
 Days,日
@@ -2394,7 +2394,7 @@ Edit,編集
 "Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","'custom_options'の属性の'value price'副属性の値は誤った値を含んでいます。"
 "This name is already being used for custom option. Please enter a different name.",この名前はカスタムオプションに既に使われています。別の名前を入力してください。
 "Custom options have different types.",カスタムオプションには異なるタイプがあります。
-"Every option entity must have a parent product entity.",全てのオプションエンティティは親製品エンティティを持っていなければなりません。
+"Every option entity must have a parent product entity.",全てのオプションエンティティは親商品エンティティを持っていなければなりません。
 "Please correct the parameters.",パラメーターを修正してください。
 "File '%1' was not found or has read restriction.","ファイル '%1' は見つからないか、読み込み制限されています。"
 "Invalid Stock data for insert",無効な挿入用在庫データ
@@ -2402,13 +2402,13 @@ Edit,編集
 "Customer Group",顧客グループ
 "Minimum Qty",最小個数
 "Add Minimum Qty",最小個数を追加
-"We can't rebuild the index for an undefined product.",未定義製品のためのインデックスを再構築できません。
-"Could not rebuild index for empty products array",空の製品配列があるため、インデックスを再構築できませんでした
+"We can't rebuild the index for an undefined product.",未定義商品のためのインデックスを再構築できません。
+"Could not rebuild index for empty products array",空の商品配列があるため、インデックスを再構築できませんでした
 "The Product stock item is invalid. Verify the stock item and try again.",商品の在庫アイテムが不正です。在庫アイテムを確認してから再度お試し下さい。
 "This product is out of stock.",商品は在庫切れです。
 "Some of the products are out of stock.",幾つかの商品は在庫切れです。
 "The stock item for Product in option is not valid.",オプション商品の在庫数が不正です。
-"Undefined product type",未定義の製品タイプ
+"Undefined product type",未定義の商品タイプ
 "%1 is not a correct comparison method.",%1は正しい比較手段ではありません。
 "No Backorders",バックオーダーなし
 "Allow Qty Below 0",在庫数0個以下を許可する
@@ -2421,7 +2421,7 @@ Edit,編集
 "The stock with the ""%1"" ID wasn't found. Verify the ID and try again.","ID ""%1"" の在庫が見つかりませんでした。IDを確認して再度お試し下さい。"
 "Unable to remove Stock with id ""%1""","ID ""%1"" のを取り在庫を除くことができません"
 "The stock status was unable to be saved. Please try again.",在庫状態を保存できませんでした。再度お試し下さい。
-"Unable to remove Stock Status for product %1","製品 %1 の在庫状況を削除できません"
+"Unable to remove Stock Status for product %1","商品 %1 の在庫状況を削除できません"
 "The ""%1"" value is invalid for stock ID. Enter stock with a default value of %2 to try again.","""%1"" の値は在庫IDには無効です。再度試すにはデフォルト値の""％2""の在庫を入力して下さい。"
 "The ""%1"" value is invalid for stock item ID. Enter either zero or a number than zero to try again.","""%1""の値は在庫アイテムIDには無効です。 0または0より大きい数字を入力して、再度お試し下さい。"
 "The ""%1"" value is invalid for stock item ID. Use the stock item ID's assigned ""%2"" value and try again.","""%1""の値は在庫アイテムIDには無効です。 在庫アイテムIDに割り当てられた""%2""の値を使用して、再度お試し下さい。"
@@ -2459,7 +2459,7 @@ Inventory,在庫
 "Manage Stock",在庫管理
 Backorders,バックオーダー
 "Maximum Qty Allowed in Shopping Cart",カートの中で許可する最大個数
-"Out-of-Stock Threshold",在庫切れ限界値
+"Out-of-Stock Threshold",在庫切れとするしきい値
 "Minimum Qty Allowed in Shopping Cart",カートの中で許可する最小個数
 "Notify for Quantity Below",これ以下の数量になれば通知
 "Automatically Return Credit Memo Item to Stock",返金時に在庫数を更新する
@@ -2479,12 +2479,12 @@ Stock,在庫数
 "Display Product Prices",商品価格を表示
 "Add to Cart",カートに入れる
 "Yes, for Everyone",はい、誰にでも
-"Yes, for Specified Customer Groups","Yes, for Specified Customer Groups"
+"Yes, for Specified Customer Groups","はい、顧客グループを指定します"
 No,No
 "No, Redirect to Landing Page",いいえ、ランディングページにリダイレクトします
 "Permission with the same scope",同じスコープの権限
 "You may need more permissions to access this category.",このカテゴリにアクセスするにはさらに多くの権限が必要な場合があります。
-"You may need more permissions to access this product.",この製品にアクセスするにはさらに多くの権限が必要な場合があります。
+"You may need more permissions to access this product.",この商品にアクセスするにはさらに多くの権限が必要な場合があります。
 "You cannot add ""%1"" to the cart.","""%1"" をカートに追加することはできません。"
 "Permissions do not depend on store views.",権限はストアビューに依存しません。
 Website,ウェブサイト
@@ -2506,8 +2506,8 @@ Enable,有効
 "Disallow Catalog Search By",商品検索を不許可
 "Catalog Category Permissions",カタログカテゴリ権限
 "Indexed permissions for categories",カテゴリのインデックス付きアクセス許可
-"Catalog Product Permissions",カタログ製品のアクセス許可
-"Indexed permissions for products",製品のインデックス付きのアクセス許可
+"Catalog Product Permissions",カタログ商品のアクセス許可
+"Indexed permissions for products",商品のインデックス付きのアクセス許可
 "Delete Rule",ルールの削除
 "Are you sure you want to do this?",実行してもよろしいですか？
 Reset,リセット
@@ -2541,8 +2541,8 @@ Promo,プロモーション
 "The ""%1"" rule was unable to be saved. Please try again.","""%1"" ルールを保存できませんでした。再度お試し下さい。"
 "The rule with the ""%1"" ID wasn't found. Verify the ID and try again.","ID ""%1"" のルールが見つかりませんでした。IDを確認して再度お試し下さい。"
 "The ""%1"" rule couldn't be removed.","""%1""ルールを削除できませんでした。"
-"Could not rebuild index for empty products array",空の製品のアレイのためのインデックスを再構築できませんでした
-"We can't rebuild the index for an undefined product.",未定義製品のためのインデックスを再構築できません。
+"Could not rebuild index for empty products array",空の商品の配列のためのインデックスを再構築できませんでした
+"We can't rebuild the index for an undefined product.",未定義商品のためのインデックスを再構築できません。
 "Catalog rule indexing failed. See details in exception log.",カタログルールのインデックシングに失敗しました。例外ログで詳細を参照してください。
 "Percentage discount should be between 0 and 100.",パーセンテージディスカウントは0から100の間でなければなりません。
 "Discount value should be 0 or greater.",ディスカウント値は0かそれ以上でなければなりません。
@@ -2679,7 +2679,7 @@ name,name
 "Number of top search results to cache",キャッシュする上位検索結果の数
 "Autocomplete Limit",オートコンプリートリミット
 "Rebuild Catalog product fulltext search index",商品全文検索インデックス
-"The ProductSku is empty. Set the ProductSku and try again.",製品SKUが空です。製品SKUを設定して再度お試し下さい。
+"The ProductSku is empty. Set the ProductSku and try again.",商品SKUが空です。商品SKUを設定して再度お試し下さい。
 "The ""%1"" attribute is required. Enter and try again.","""%1"" は必須です。入力して再度お試し下さい。"
 Enabled,有効
 Disabled,無効
@@ -2715,9 +2715,9 @@ Content,コンテンツ
 "Add CMS Block",CMSブロックを追加
 "Display Settings",表示設定
 Anchor,アンカーカテゴリ
-"Sort Products By",製品を並べ替える
+"Sort Products By",商品を並べ替える
 "Use All",すべてを使用
-"Default Product Sorting",デフォルトの製品分類
+"Default Product Sorting",デフォルトの商品分類
 "Use Config Settings",設定を使用
 "Layered Navigation Price Step",絞込検索での価格区切り
 "Search Engine Optimization",検索エンジン最適化
@@ -2774,7 +2774,7 @@ SKU,SKU
 "Add to Cart",カートに追加
 "In stock",在庫あり
 "Out of stock",在庫切れ
-"Add to Wish List",ほしい物リストに追加
+"Add to Wish List",欲しいものリストに追加
 "Add to Compare",比較リストに追加
 "Catalog Products List","Catalog Products List"
 "List of Products",商品一覧
@@ -2808,7 +2808,7 @@ State/Province,都道府県
 "We can't add this item to your shopping cart right now.",このアイテムを現在ショッピングカートに追加できません。
 "Out of stock",在庫切れ
 "The quote item isn't found. Verify the item and try again.",見積商品が見つかりません。商品を確認して再度お試し下さい。
-"We cannot configure the product.",製品を設定できません。
+"We cannot configure the product.",商品を設定できません。
 "You used coupon code ""%1"".","クーポンコード ""%1""を使用しました。"
 "The coupon code ""%1"" is not valid.","クーポンコード ""%1"" は有効ではありません。"
 "You canceled the coupon code.",クーポンコードをキャンセルしました
@@ -3865,7 +3865,7 @@ Dashboard,ダッシュボード
 "Web Section",ウェブセクション
 "Store Email Addresses Section",店舗電子メールアドレスセクション
 "Email to a Friend",友達にメールを送る
-"Product with assigned super attributes should not have specified ""%1"" value","割り当てられたスーパー属性を持つ製品は、""%1""の値を指定してはいけません。"
+"Product with assigned super attributes should not have specified ""%1"" value","割り当てられたスーパー属性を持つ商品は、""%1""の値を指定してはいけません。"
 "Add configurable attributes to the current Attribute Set (""%1"")","設定可能な属性を現在の属性セット (""%1"")に追加"
 "Add configurable attributes to the new Attribute Set based on current",設定可能な属性を現在のものをベースにした新しい属性に追加
 "New attribute set name",新しい属性セット名
@@ -3884,7 +3884,7 @@ Summary,レビュータイトル
 "Choose an Option...",オプションを選択してください...
 "This attribute is used in configurable products.",この属性はコンフィグ商品で使用されています。
 "The product is already attached.",商品は既にひも付けされています。
-"The parent product doesn't have configurable product options.",親製品に設定可能な製品オプションがありません。
+"The parent product doesn't have configurable product options.",親商品に設定可能な商品オプションがありません。
 "The child product doesn't have the ""%1"" attribute value. Verify the value and try again.","子プロダクトには属性値 %1 がありません。値を確認して再度お試し下さい。"
 "The product with the ""%1"" SKU isn't a configurable product.","SKU ""%1"" の商品はコンフィグ商品ではありません。"
 "The option that was requested doesn't exist. Verify the entity and try again.",要求されたオプションが存在しません。エンティティを確認して再度お試し下さい。
@@ -3899,7 +3899,7 @@ Summary,レビュータイトル
 "Option values are not specified.",オプション値は指定されていません。
 "Value index is not specified for an option.",オプションのための値インデックスが指定されていません。
 "Product with id ""%1"" does not contain required attribute ""%2"".","id ""%1"" の商品は必須の属性 ""%2""を含まれていません。"
-"Products ""%1"" and ""%2"" have the same set of attribute values.","製品 ""%1"" と ""%2"" は同じ属性値のセットを持っています。"
+"Products ""%1"" and ""%2"" have the same set of attribute values.","商品 ""%1"" と ""%2"" は同じ属性値のセットを持っています。"
 "You can't add the item to shopping cart.",ショッピングカートに商品を追加できませんでした。
 "You need to choose options for your item.",商品のためにオプションを選択しなければなりません。
 "Some product variations fields are not valid.",商品バリエーションのフィールドのいくつかは無効です。
@@ -3911,10 +3911,10 @@ Confirm,承認
 "New Attribute Set Name",新しい属性セット名
 "Select Associated Product",関連付ける商品を選択
 Done,完了
-"Choose a new product to delete and replace the current product configuration.",新しい製品を選択して、現在の製品構成を削除して交換します。
+"Choose a new product to delete and replace the current product configuration.",新しい商品を選択して、現在の商品構成を削除して交換します。
 "For better results, add attributes and attribute values to your products.",更なる効果のために、商品に属性と属性値を追加しましょう。
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).",コンフィグ製品により、顧客はオプション（例：シャツの色）を選択できます。各構成（例：各色の製品）ごとにシンプル製品を作成する必要があります。
-"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",ダウンロード可能なファイルを持つ標準製品の構成は作成できません。構成を作成するには、まずダウンロード可能なすべてのファイルを削除します。
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).",コンフィグ商品により、顧客はオプション（例：シャツの色）を選択できます。各構成（例：各色の商品）ごとにシンプル商品を作成する必要があります。
+"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",ダウンロード可能なファイルを持つ標準商品の構成は作成できません。構成を作成するには、まずダウンロード可能なすべてのファイルを削除します。
 "Add Products Manually",商品を手動で追加
 "Create Configurations",設定を作成
 "Current Variations",現在のバリエーション
@@ -3927,12 +3927,12 @@ Weight,重さ
 Status,状態
 Attributes,属性
 Actions,アクション
-"Custom options with price type ""percent"" is not available for configurable product.","コンフィグ製品では、価格タイプ ""パーセント""のカスタムオプションは使用できません。"
+"Custom options with price type ""percent"" is not available for configurable product.","コンフィグ商品では、価格タイプ ""パーセント""のカスタムオプションは使用できません。"
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.",このグループはコンフィグ商品で使われる属性が含まれます。これらの属性を別のグループに移動して再度お試し下さい。
 "This attribute is used in configurable products. You cannot remove it from the attribute set.",この属性はコンフィグ商品で使用されているため、属性セットから削除できません。
 "Associated Products",紐付け済み商品
 "Step 2: Attribute Values","ステップ 2: 属性値"
-"Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU."
+"Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.","この商品に含まれる各属性の値を選択してください。 属性値のユニークな組み合わせで商品のSKUを生成します。"
 "Sort Variations",並べ替えバリエーション
 Options,オプション
 "Select All",全て選択
@@ -3942,7 +3942,7 @@ Options,オプション
 "Remove Option",オプション削除
 "Create New Value",新しい値作成
 "Step 3: Bulk Images, Price and Quantity",ステップ3：バルクイメージ、価格および数量
-"Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.",あなたの選択に基づいて、%1の新製品が作成されます。このステップを使用して、新製品のイメージと価格をカスタマイズします。
+"Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.",あなたの選択に基づいて、%1の新商品が作成されます。このステップを使用して、新商品のイメージと価格をカスタマイズします。
 Images,画像
 "Apply single set of images to all SKUs",1つのセットの画像を全てのSKUに適用する
 "Apply unique images by attribute to each SKU",各SKUの属性によるユニーク画像を適用
@@ -3970,8 +3970,8 @@ Select,選択
 "Selected Attributes:",選択された属性:
 "Step 4: Summary","ステップ4: サマリー"
 "Configurable products allow customers to choose options (Ex: shirt color).
-You need to create a simple product for each configuration (Ex: a product for each color).","コンフィグ製品により、顧客はオプション（例：シャツの色）を選択できます。
-各構成（例：各色の製品）ごとにシンプル製品を作成する必要があります。"
+You need to create a simple product for each configuration (Ex: a product for each color).","コンフィグ商品により、顧客はオプション（例：シャツの色）を選択できます。
+各構成（例：各色の商品）ごとにシンプル商品を作成する必要があります。"
 "Edit Configurations",設定の編集
 "Upload Image",画像アップロード
 "Upload image",画像をアップロード
@@ -3982,12 +3982,12 @@ You need to create a simple product for each configuration (Ex: a product for ea
 Cancel,キャンセル
 "As low as",同じかそれ以下
 "Regular Price",通常価格
-"New Product Review",新製品レビュー
-"Here are the products you're about to create.",作成しようとしている製品は次のとおりです。
-"You created these products for this configuration.",この構成では、これらの製品を作成しました。
-"Disassociated Products",分離された製品
-"These products are not associated.",これらの製品は関連していません。
-"Disable Product",製品を無効にする
+"New Product Review",新商品レビュー
+"Here are the products you're about to create.",作成しようとしている商品は次のとおりです。
+"You created these products for this configuration.",この構成では、これらの商品を作成しました。
+"Disassociated Products",分離された商品
+"These products are not associated.",これらの商品は関連していません。
+"Disable Product",商品を無効にする
 "Enable Product",有効
 "Incl. Tax",税込
 "An attribute has been removed. This attribute will no longer appear in your configurations.",属性は削除されました。この属性が設定には今後現れません。
@@ -4002,7 +4002,7 @@ Cancel,キャンセル
 "We don't recognize or support this file extension type.",このファイル拡張子を認識できないかサポートしていません。
 "When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.","When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually."
 "Please select attribute(s).",属性を選択してください。
-"Generate Products",製品作成
+"Generate Products",商品作成
 "Something went wrong.",何か問題が発生しました。
 "Buy %1 for %2 each and","Buy %1 for %2 each and"
 save,save
@@ -4218,7 +4218,7 @@ Locked,ロックされた
 "Deleted Stores",ストアを削除
 "Add Locale",ロケール追加
 "Add Date",日付追加
-"Days in Wish List",ほしい物リスト内日付
+"Days in Wish List",欲しいものリスト内日付
 Unlock,ロック解除
 No,No
 Yes,Yes
@@ -4316,8 +4316,8 @@ Customers,顧客
 "Customer has been unlocked successfully.",顧客のロックが解除されました。
 "Online Customers",接続中の顧客
 "Customers Now Online",現在オンラインの顧客
-"Please define Wish List item ID.",ほしい物リストのアイテムIDを定義してください
-"Please load Wish List item.",ほしい物リストアイテムをロードしてください
+"Please define Wish List item ID.",欲しいものリストのアイテムIDを定義してください
+"Please load Wish List item.",欲しいものリストアイテムをロードしてください
 "Login successful.",ログインに成功しました
 "Invalid login or password.",ログイン名かパスワードが違います。
 "The ""%1"" section source isn't supported.","""%1"" セクションソースがサポートされていません。"
@@ -5000,18 +5000,18 @@ subscribed,購読済
 Any,すべて
 "Order Status %1 %2:","注文の状況 %1 %2:"
 "Product Attributes",商品属性
-"Product %1","製品 %1"
+"Product %1","商品 %1"
 "Date Ranges",日付の範囲
 viewed,見た
 ordered,注文済み
 was,あった
 "was not",なかった
-"If Product %1 %2 and matches %3 of these Conditions:","製品%1 %2およびこれらの条件の%3 と一致する場合:"
+"If Product %1 %2 and matches %3 of these Conditions:","商品%1 %2およびこれらの条件の%3 と一致する場合:"
 "Shopping Cart",カート
-"Wish List",ほしい物リスト
+"Wish List",欲しいものリスト
 found,見つけた
 "not found",見つかりません
-"If Product is %1 in the %2 with %3 of these Conditions match:","製品 %1 %2 でこれらの条件の %3 と一致する場合:"
+"If Product is %1 in the %2 with %3 of these Conditions match:","商品 %1 %2 でこれらの条件の %3 と一致する場合:"
 "Order Address",注文住所
 "Sales Amount",売上額
 "Number of Orders",注文点数
@@ -5035,7 +5035,7 @@ Tax,税
 "Number of Cart Line Items",カートの商品明細数
 "Number of Shopping Cart Line Items %1 %2:","ショッピングカートの広告申込情報の数 %1 %2:"
 "Products Quantity",商品点数
-"Shopping Cart Products Qty %1 %2:","ショッピングカート製品数量 %1 %2："
+"Shopping Cart Products Qty %1 %2:","ショッピングカート商品数量 %1 %2："
 "equals or greater than",等しいかそれより大きい
 "equals or less than",等しいかそれより小さい
 "greater than",より大きい
@@ -5355,7 +5355,7 @@ Samples,サンプル
 "Use Default Value",標準の値を使用
 sample,サンプル
 "Is this a downloadable Product?",これはダウンロード商品ですか？
-"Add links to your product files here.",ここの製品ファイルへのリンクを追加
+"Add links to your product files here.",ここの商品ファイルへのリンクを追加
 "[STORE VIEW]",[ストアビュー]
 [GLOBAL],[グローバル]
 "Sort Order",並び順
@@ -5363,7 +5363,7 @@ sample,サンプル
 "Sort Variations",並べ替えバリエーション
 "Browse Files...",ファイルを選択....
 Delete,削除
-"Add product preview files here.",ここに製品プレヴューファイルを追加
+"Add product preview files here.",ここに商品プレビューファイルを追加
 SKU,商品番号
 U,U
 "Select all",全選択
@@ -5549,7 +5549,7 @@ label,ラベル
 hello,こんにちは
 "Some internal exception message.",内部エクセプションメッセージ
 "The value of attribute not valid",属性の値は有効ではありません
-"These changes affect all related products.",これらの変更はすべての関連製品に影響します。
+"These changes affect all related products.",これらの変更はすべての関連商品に影響します。
 "Text Field",テキストフィールド
 "Text Area",テキストエリア
 "Text Editor",テキストエディター
@@ -6017,7 +6017,7 @@ CSV,CSV
 Code,コード
 End,終了
 "Gift messages can't be used for an empty cart. Add an item and try again.","空のカートにはギフトメッセージを使用できません。 商品を追加して再度お試し下さい。"
-"Gift messages can't be used for virtual products.",ギフトメッセージは仮想製品には使用できません。
+"Gift messages can't be used for virtual products.",ギフトメッセージは仮想商品には使用できません。
 "The gift message isn't available.",ギフトメッセージは使用できません。
 "The gift message couldn't be added to Cart.",ギフトメッセージをカートに追加できませんでした。
 "No item with the provided ID was found in the Cart. Verify the ID and try again.",提供されたIDの商品がカート内で見つかりませんでした。IDを確認して再度お試し下さい。
@@ -6161,7 +6161,7 @@ Customers,顧客
 "Page not found.",ページが見つかりません。
 "%1 item(s) have been added to the gift registry.",%1アイテムがギフトレジストリに追加されました。
 "We have nothing to add to this gift registry.",このギフトレジストリに追加するものは何もありません。
-"You can't add virtual products, digital products or gift cards to gift registries.",ギフトレジストリに仮想製品、デジタル製品、ギフトカードを追加することはできません。
+"You can't add virtual products, digital products or gift cards to gift registries.",ギフトレジストリに仮想商品、デジタル商品、ギフトカードを追加することはできません。
 "You deleted this gift registry.",このギフトレジストリを削除しました。
 "Something went wrong while deleting the gift registry.",ギフトレジストリを削除する際に何か問題が発生しました。
 "The type is incorrect. Verify and try again.",タイプが正しくありません。確認して再度お試し下さい。
@@ -6176,8 +6176,8 @@ Customers,顧客
 "Something went wrong while sharing the gift registry.",ギフトレジストリを共有している間に問題が発生しました。
 "You updated the gift registry items.",ギフトレジストリ項目を更新しました。
 "We couldn't update the gift registry.",ギフトレジストリを更新できませんでした。
-"The wish list item has been added to this gift registry.",ほしい物リストアイテムがこのギフトレジストリに追加されました。
-"We couldn’t add your wish list items to your gift registry.",ほしい物リストアイテムをギフトレジストリに追加できませんでした。
+"The wish list item has been added to this gift registry.",欲しいものリストアイテムがこのギフトレジストリに追加されました。
+"We couldn’t add your wish list items to your gift registry.",欲しいものリストアイテムをギフトレジストリに追加できませんでした。
 "Please enter correct search options.",正しい検索オプションを入力してください。
 "Please enter at least 2 letters of the first name.",名の最初の2文字を入力してください。
 "Please enter at least 2 letters of the last name.",姓の最初の2文字を入力してください。
@@ -6191,7 +6191,7 @@ Customers,顧客
 "Custom Types",カスタムタイプ
 "Static Types",静的種別
 label,ラベル
-"Product has required options.",製品にはオプションが必要です。
+"Product has required options.",商品にはオプションが必要です。
 "You need to enter sender data.",送信者データを入力する必要があります。
 "Please add invitees.",招待状を追加してください。
 "You cannot send emails to more than %1 recipients at once","一度に %1 以上の受信者にメールを送信することはできません"
@@ -6205,11 +6205,11 @@ Active,アクティブ
 "Please enter the title.",タイトルを入力してください。
 "Please enter the message.",メッセージを入力してください。
 "Please enter correct the Privacy setting.",プライバシー設定を正しく入力してください。
-"We cannot specify the product.",製品を指定することはできません。
+"We cannot specify the product.",商品を指定することはできません。
 "The gift registry item quantity is incorrect. Verify the item quantity and try again.",ギフトレジストリアイテムの数量が正しくありません。アイテムの数量を確認して再度お試し下さい。
 "The gift registry item ID is incorrect. Verify the gift registry item ID and try again.",ギフトレジストリアイテムIDが正しくありません。ギフトレジストリアイテムIDを確認して再度お試し下さい。
-"The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","カートに追加された ""%1"" 製品の数量が、ギフト・レジストリの所有者が希望する数量を超えています。 追加量は残りの量 %2 に合わせて調整されています。"
-"Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","カート内の既存の ""%1""製品の数量が、要求された量 %2 に置き換えられました。"
+"The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","カートに追加された ""%1"" 商品の数量が、ギフト・レジストリの所有者が希望する数量を超えています。 追加量は残りの量 %2 に合わせて調整されています。"
+"Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","カート内の既存の ""%1""商品の数量が、要求された量 %2 に置き換えられました。"
 "This product(s) is out of stock.",この商品は在庫切れです。
 "Please correct the product for adding the item to the quote.",商品を見積もりに追加するには、商品を修正してください。
 "Please correct the item option format.",アイテムのオプション形式を修正してください。
@@ -6315,8 +6315,8 @@ View,表示
 "You have successfully created the new gift registry ""%registry_name"".","新しいギフトレジストリ""%registry_name"" を作成しました。"
 "Your Gift Registry Message",あなたのギフトレジストリメッセージ
 "Now you can add products to your gift registry.",これで、ギフトレジストリに商品を追加できます。
-"Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","単に<a href=""%store_url"">%store_name </a>を参照して、あなたのショッピングカートまたは希望リストに必要な製品を追加してください。"
-"You can then add the products to your registry from your shopping cart or wish list page.",その後、ショッピングカートまたはほしい物リストページからレジストリーに製品を追加することができます。
+"Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","単に<a href=""%store_url"">%store_name </a>を参照して、あなたのショッピングカートまたは希望リストに必要な商品を追加してください。"
+"You can then add the products to your registry from your shopping cart or wish list page.",その後、ショッピングカートまたは欲しいものリストページからレジストリーに商品を追加することができます。
 "You can also share it with your friends and family by logging into your account and visiting the Gift Registry tab.","また、アカウントにログインしてGift Registry（ギフト・レジストリ）タブにアクセスして、友人や家族と共有することもできます。"
 "Or you can email the following link and gift registry ID to them:",または、次のリンクとギフトのレジストリIDをメールで送信できます:
 "Registry Location:",レジストリの場所:
@@ -6477,7 +6477,7 @@ Creative,クリエイティブ
 "List property for the catalog page","カタログ ページのリストプロパティ"
 "List property for the cross-sell block",クロスセルブロックのリストプロパティ
 "List property for the up-sell block",アップセルブロックのリストプロパティ
-"List property for the related products block",関連製品ブロックのリストプロパティ
+"List property for the related products block",関連商品ブロックのリストプロパティ
 "List property for the search results page",検索結果ページのリストプロパティ
 "’Internal Promotions’ for promotions field “Label”.","プロモーションフィールド ""ラベル"" の内部プロモーション。"
 "Request content type must be application/json",リクエストのコンテンツタイプは、application/jsonでなければなりません
@@ -6489,7 +6489,7 @@ Creative,クリエイティブ
 "Add Products to Group",商品をグループに追加
 Cancel,キャンセル
 "Add Selected Products",選択した商品を追加
-"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","グループ化された製品は、グループとして提示される複数のスタンドアロン製品で構成されています。 1つの製品のバリエーションを提供することも、シーズンやテーマ別にグループ化してコーディネートされたセットを作成することもできます。各製品は個別に、またはグループの一部として購入することができます。"
+"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","グループ化された商品は、グループとして提示される複数のスタンドアロン商品で構成されています。 1つの商品のバリエーションを提供することも、シーズンやテーマ別にグループ化してコーディネートされたセットを作成することもできます。各商品は個別に、またはグループの一部として購入することができます。"
 Remove,削除
 ID,ID
 Thumbnail,サムネイル
@@ -6511,7 +6511,7 @@ Qty,個数
 "Starting at",開始
 Availability,在庫あり
 "In stock",在庫あり
-"Grouped product items",グループ製品アイテム
+"Grouped product items",グループ商品アイテム
 "Grouped Product Image",グループ商品の画像
 Select...,選択...
 Type,種別
@@ -6566,6 +6566,7 @@ e.g. var/export, var/import, var/export/some/dir"
 "Download Sample File",ダウンロードサンプルファイル
 "Please correct the data sent value.",送られたデータの値を修正してください。
 Import/Export,インポート/エクスポート
+"Import/Export Tax Rates","税率のインポート/エクスポート"
 History,履歴
 "Import History",インポート履歴
 "Import history",履歴インポート
@@ -7038,7 +7039,7 @@ IP-Address,IPアドレス
 Logging,ロギング
 "Action Log",アクションログ
 Archive,アーカイブ
-"Action Logs","Action Logs"
+"Action Logs","アクションログ"
 "Bulk Actions",一括操作
 "Admin Actions Log Archiving",管理者アクションログアーカイブ
 "Log Entry Lifetime, Days",ログエントリ保存期間
@@ -7080,7 +7081,7 @@ Create,作成
 "Catalog Ratings",カタログ評価
 "Catalog Reviews",カタログレビュー
 "Catalog Attributes",カタログ属性
-"Catalog Product Templates",カタログ製品テンプレート
+"Catalog Product Templates",カタログ商品テンプレート
 "Admin Sign In",管理者ログイン
 "CMS Pages",CMSページ
 "CMS Blocks",静的ブロック
@@ -7134,7 +7135,7 @@ Details,詳細
 Partners,パートナーズ
 "Magento Marketplace",Magentoマーケットプレイス
 "Platinum Partners",プラチナパートナーズ
-"Representing Magento's highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.",Magentoの最高位パートナー関与として、Magentoプラチナパートナーは小売業やブランドの事業が成長するように鍵となる製品とサービスを設計する先駆者であり革新者として名を馳せてきました。MagentoはプラチナレベルをMagentoコマースプラットホームを改善し拡張するためにコマースフィーチャー、機能、ツールまたバックエンドのシステムとオペレーションを統合することにコミットすることに信頼あるパートナーのために確保しています。
+"Representing Magento's highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.",Magentoの最高位パートナー関与として、Magentoプラチナパートナーは小売業やブランドの事業が成長するように鍵となる商品とサービスを設計する先駆者であり革新者として名を馳せてきました。MagentoはプラチナレベルをMagentoコマースプラットホームを改善し拡張するためにコマースフィーチャー、機能、ツールまたバックエンドのシステムとオペレーションを統合することにコミットすることに信頼あるパートナーのために確保しています。
 "Featured Platinum Partners",フィーチャーされたプラチナパートナー
 "Partner search",パートナー検索
 "Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magentoは小売業やブランドがベストな顧客体験を得られるようにするために急成長エコシステムの技術パートナーを持っています。彼らはeコマース、検索、eメールマーケティング、支払い、詐欺行為、適正化、分析、履行その他のエキスパートとして認知されています。 Magentoパートナーディレクトリーにて我々の信頼あるパートナーの一覧を御覧ください。"
@@ -7223,63 +7224,63 @@ Status,ステータス
 Phone,電話
 Fax,Fax
 Wishlist,欲しいものリスト
-"Customer's Wish List Report",顧客のほしい物リストレポート
-"My Wish Lists",マイほしい物リスト
-"1 item in wish list",ほしい物リストの1アイテム
-"%1 items in wish list",ほしい物リストの%1アイテム
-"Wish List Search",ほしい物リストの検索
+"Customer's Wish List Report",顧客の欲しいものリストレポート
+"My Wish Lists",マイ欲しいものリスト
+"1 item in wish list",欲しいものリストの1アイテム
+"%1 items in wish list",欲しいものリストの%1アイテム
+"Wish List Search",欲しいものリストの検索
 "Select Search Type",検索種別を選択
 Reports,レポート
 Customers,顧客
-"Customer Wish List Report",顧客ほしい物リストレポート
-"Wish list ""%1"" was saved.","ほしい物リスト  ""%1"" が保存されました。"
-"We can't create the wish list right now.",今はほしい物リストを作成できません。
+"Customer Wish List Report",顧客欲しいものリストレポート
+"Wish list ""%1"" was saved.","欲しいものリスト  ""%1"" が保存されました。"
+"We can't create the wish list right now.",今は欲しいものリストを作成できません。
 "Page not found.",ページが見つかりません。
 """%1"" was copied to %2.","""%1""は%2にコピーされました。"
 "We can't find the item.",この商品がみつかりません。
 """%1"" is already present in %2.","""%1""は既に%2にあります。"
 "We can't copy ""%1"".","""%1"" をコピーできません。"
-"We can't copy the wish list item.",ほしい物リストアイテムはコピーできません。
+"We can't copy the wish list item.",欲しいものリストアイテムはコピーできません。
 "We can't find %1 items.","%1 アイテムは見つかりません。"
 "We can't copy %1 items.","%1 アイテムはコピーできません。"
 "%1 items are already present in %2: %3.",%1のアイテムはすでに%2：%3にあります。
 "%1 items were copied to %2: %3.",%1個のアイテムが%2：%3にコピーされました。
 "The default wish list can't be deleted.",デフォルトの欲しい物リストを削除できませんでした。
-"Wish List ""%1"" has been deleted.","ほしい物リスト ""%1"" が削除されました。"
-"We can't delete the wish list right now.",今すぐほしい物リストを削除することはできません。
-"Could not create a wish list.",ウィッシュリストを作成できませんでした。
+"Wish List ""%1"" has been deleted.","欲しいものリスト ""%1"" が削除されました。"
+"We can't delete the wish list right now.",今すぐ欲しいものリストを削除することはできません。
+"Could not create a wish list.",欲しいものリストを作成できませんでした。
 """%1"" was moved to %2.","""%1""を%2に移動しました。"
 "We can't find an item with this ID.",このIDの商品は見つかりません。
 "We cannot move ""%1"".","""%1"" を移動することはできません。"
-"We can't move the wish list item.",ほしい物リストアイテムは移動できません。
+"We can't move the wish list item.",欲しいものリストアイテムは移動できません。
 "%1 items cannot be moved: %2.","%1 アイテムは移動できません: %2."
 "We can't move %1 items.","%1 アイテムは移動できません。"
 "%1 items were moved to %2: %3.",%1個のアイテムが%2：%3に移動されました。
 "%1 for ""%2""","""%2""のための%1"
 "We can't add the item to shopping cart.",ショッピングカートに商品を追加することはできません。
 "We can't add the following product(s) to shopping cart: %1.","次の商品をショッピングカートに追加することはできません： %1。"
-"Product(s) %1 have required options. Each product can only be added individually.","製品 %1 にはオプションが必要です。 各製品は個別にのみ追加することができます。"
+"Product(s) %1 have required options. Each product can only be added individually.","商品 %1 にはオプションが必要です。 各商品は個別にのみ追加することができます。"
 "%1 product(s) have been added to shopping cart: %2.","%1 個のアイテムがショッピングカートに追加されました: %2."
 "Please reenter your search options.",検索オプションを再入力してください。
 "We could not perform the search.",検索を実行できませんでした。
 "All Forms",すべてのフォーム
 "Owner Name",オーナーの名前
 "Owner Email",オーナーのメール
-"%1's Wish List","%1 のほしい物リスト"
-"%1's Wish List (%2)",%1さんのほしい物リスト(%2)
+"%1's Wish List","%1 の欲しいものリスト"
+"%1's Wish List (%2)",%1さんの欲しいものリスト(%2)
 "Please enter a valid email address.",正しいメールアドレスを入力してください。
 "Please enter at least 2 letters of the first name.",名の最初の2文字を入力してください。
 "Please enter at least 2 letters of the last name.",姓の最初の2文字を入力してください。
-"Sign in to edit wish lists.",ほしい物リストを編集するにはログインしてください。
-"The wish list is not assigned to your account and can't be edited.",ほしい物リストはあなたのアカウントに割り当てられておらず、編集できません。
-"Provide the wish list name.",ほしい物リスト名を指定します。
-"Wish list ""%1"" already exists.","ほしい物リスト ""%1"" は既に存在します。"
-"Only %1 wish list(s) can be created.","%1 のほしい物リストのみ作成できます。"
+"Sign in to edit wish lists.",欲しいものリストを編集するにはログインしてください。
+"The wish list is not assigned to your account and can't be edited.",欲しいものリストはあなたのアカウントに割り当てられておらず、編集できません。
+"Provide the wish list name.",欲しいものリスト名を指定します。
+"Wish list ""%1"" already exists.","欲しいものリスト ""%1"" は既に存在します。"
+"Only %1 wish list(s) can be created.","%1 の欲しいものリストのみ作成できます。"
 "Test Phrase",テストフェーズ
 "Unknown Magento error",不明なMagentoエラー
 InvalidArgumentException,InvalidArgumentException
 Refresh,更新
-"All Wish Lists",すべてのほしい物リスト
+"All Wish Lists",すべての欲しいものリスト
 Item,商品
 Qty,個数
 Price,価格
@@ -7287,56 +7288,56 @@ Remove,削除
 "Add To Order",ご注文にくわえる
 "Configure and Add to Order",オプションを選択して追加する
 "No items",商品なし
-"Delete Wish List",ほしい物リストを削除
+"Delete Wish List",欲しいものリストを削除
 Owner,所有者
 Name,名前
 Updated,更新
-"Wish List Items",ほしい物リストアイテム
+"Wish List Items",欲しいものリストアイテム
 "You must select items to add to the cart.",カートに追加するアイテムを選択する必要があります。
 "Add to Cart",カートに入れる
 Back,戻る
 "Add to:",追加:
-"Create New Wish List",新しいほしい物リストを作成する
+"Create New Wish List",新しい欲しいものリストを作成する
 "Move to Wish List",お気に入りに移動
-"Copy to Wish List",ほしい物リストにコピー
+"Copy to Wish List",欲しいものリストにコピー
 "Search Options",検索オプション
 "Required Fields",必須フィールド
 "First Name",名
 "Last Name",姓
 Search,検索
 "Search Results",検索結果
-"Wish List Name",ほしい物リスト名
+"Wish List Name",欲しいものリスト名
 Actions,アクション
 View,表示
 "Your search returned no results.",検索しましたが何もヒットしませんでした。
-"Wish List",ほしい物リスト
-"Create Wish List",ほしい物リストを作成
-"Edit Wish List",ほしい物リストを編集
+"Wish List",欲しいものリスト
+"Create Wish List",欲しいものリストを作成
+"Edit Wish List",欲しいものリストを編集
 Edit,編集
-"Public Wish List",公開ほしい物リスト
-"Private Wish List",プライベートほしい物リスト
+"Public Wish List",公開欲しいものリスト
+"Private Wish List",プライベート欲しいものリスト
 "Select all",全選択
-"Move Selected to Wish List",ほしい物リストに移動
-"Copy Selected to Wish List",ほしい物リストに選択コピー
+"Move Selected to Wish List",欲しいものリストに移動
+"Copy Selected to Wish List",欲しいものリストに選択コピー
 "Search By",検索条件
 "Please enter at least two letters.",少なくとも2文字を入力してください。
 Close,閉じる
 Save,保存
 Cancel,キャンセル
-"We can't create the Wish List right now.",現在ウィッシュリストを作成できません。
+"We can't create the Wish List right now.",現在欲しいものリストを作成できません。
 "Please select items to move.",移動するアイテムを選択してください。
 "Please select items to copy.",コピーするアイテムを選択してください。
-"Are you sure you want to delete your wish list? This action can't be undone.",ほしい物リストを削除してもよろしいですか？この操作は元に戻すことはできません。
-"Wish Lists",ほしい物リスト
-"Enable Multiple Wish Lists",複数のほしい物リストを有効にする
-"Number of Multiple Wish Lists",複数のほしい物リストの数
+"Are you sure you want to delete your wish list? This action can't be undone.",欲しいものリストを削除してもよろしいですか？この操作は元に戻すことはできません。
+"Wish Lists",欲しいものリスト
+"Enable Multiple Wish Lists",複数の欲しいものリストを有効にする
+"Number of Multiple Wish Lists",複数の欲しいものリストの数
 "The number of multiple wish lists should be equal to or more than 2.",複数希望リストの数は2以上でなければなりません。
-"My Wish Lists Link",マイほしい物リストリンク
-"Display Wish Lists Summary",ほしい物リストの要約を表示する
-"Wish List Search Description",ほしい物リスト検索の説明
+"My Wish Lists Link",マイ欲しいものリストリンク
+"Display Wish Lists Summary",欲しいものリストの要約を表示する
+"Wish List Search Description",欲しいものリスト検索の説明
 "Quick Search Form Types",簡易検索フォーム種別
 Template,テンプレート
-"Wish List Search Template",ほしい物リスト検索テンプレート
+"Wish List Search Template",欲しいものリスト検索テンプレート
 CSV,CSVファイル
 "Excel XML",Excel形式XML
 Added,追加済み
@@ -7347,11 +7348,11 @@ Private,プライベート
 Product,商品
 SKU,商品番号
 Comment,コメント
-"Wish List Quantity",ほしい物リスト数量
+"Wish List Quantity",欲しいものリスト数量
 "Store Quantity",店舗数
 "Surplus / Deficit",余剰/赤字
 "All Websites",すべてのウェブサイト
-"Product Info",製品情報
+"Product Info",商品情報
 "Unit Price",単価
 "Add to Wish List",欲しいものリストに追加
 "Change Billing Address",ご連絡先住所変更
@@ -8233,7 +8234,7 @@ No,No
 "Payment Methods Section",支払方法セクション
 "Payment Services",Paymentサービス
 "Payment Methods",支払方法
-"Billing Agreements",支払い同意
+"Billing Agreements",支払同意
 ID,ID
 Email,Eメール
 "First Name",名
@@ -8305,7 +8306,7 @@ Sales,セールス
 "Unable to cancel Express Checkout",エクスプレスチェックアウトはキャンセルできません。
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",注文は行われませんでした。まず、利用規約に同意してから、もう一度注文して下さい。
 "We can't process Express Checkout approval.",エクスプレスチェックアウト商品は処理できません。
-"We can't initialize Express Checkout review.",エクスプレスチェックアウトリヴューは初期化できません。
+"We can't initialize Express Checkout review.",エクスプレスチェックアウトレビューは初期化できません。
 "We can't update shipping method.",発送方法をアップデートできません。
 "We can't start Express Checkout.",エクスプレスチェックアウトをスタートできません。
 "To check out, please sign in with your email address.",チェックアウトするのは、Eメールアドレスでサインインしてください。
@@ -8515,7 +8516,7 @@ Funding,ファンディング
 "General Funding of PayPal Account",PayPalアカウントの全般ファンディング
 "General Redemption",全般償還
 "General Withdrawal from PayPal Account",PayPalアカウントから全般引き落とし
-"General. Product no longer supported","全般。 製品はもはやサポートされていません。"
+"General. Product no longer supported","全般。 商品はもはやサポートされていません。"
 "General: Use of PayPal account for purchasing as well as receiving payments","全般: PayPalのアカウントを使用による購入だけでなく支払の受け取り"
 "General: Withdrawal from PayPal Account","全般: PayPalアカウントから引き落とし"
 "General: Withdrawal to Non-Bank Entity","全般: 銀行以外に引き落とし"
@@ -8777,7 +8778,7 @@ Schedule,スケジュール
 "PayPal retains reports for 45 days.",PayPalは45日レポートを保持します。
 "Time of Day",日の時間
 "Frontend Experience Settings",フロントエンド体験設定
-"PayPal Product Logo",PayPal製品ロゴ
+"PayPal Product Logo",PayPal商品ロゴ
 "Displays on catalog pages and homepage.",カタログページとホームページに表示
 "PayPal Merchant Pages Style",PayPalマーチャントページスタイル
 "Page Style",ページスタイル
@@ -8915,11 +8916,11 @@ Price:,価格:
 "Unsubscribe from all price alerts",すべての価格通知を購読解除する
 "In stock alert! We wanted you to know that these products are now available:","在庫アラート！ これらの商品が購入可能であることをお知らせします:"
 "Unsubscribe from all stock alerts",在庫通知を購読解除する
-"Product alerts Cron error",製品はCronのエラーを警告しています
-"Product alerts cron warnings",製品アラートcron警報
-"Products price changed alert",製品価格変更アラート
+"Product alerts Cron error",商品はCronのエラーを警告しています
+"Product alerts cron warnings",商品アラートcron警報
+"Products price changed alert",商品価格変更アラート
 "%name,","%name,"
-"Products back in stock alert",製品在庫のアラート
+"Products back in stock alert",商品在庫のアラート
 "Product Alerts",商品通知
 "Allow Alert When Product Price Changes",商品価格変更時の通知を許可する
 "Allow Alert When Product Comes Back in Stock",商品入荷時の通知を許可する
@@ -9061,7 +9062,7 @@ Subtotal,小計
 "Store Credit",ストアクレジット
 Discount,値引き
 Tax,税
-"The Cart includes virtual product(s) only, so a shipping address is not used.",カートは仮想製品のみを含まれているため、配送先住所は使用されません。
+"The Cart includes virtual product(s) only, so a shipping address is not used.",カートは仮想商品のみを含まれているため、配送先住所は使用されません。
 "The shipping method can't be set. %1",配送方法を指定できません。%1
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.",配送方法は空のカートに設定できません。商品をカートに追加し、再度お試し下さい。
 "Minimum Order Amount Exceeded.",最低注文量を超えました。
@@ -9191,20 +9192,20 @@ found,見つけた
 "Total shopping cart items quantity %1 %2:","合計ショッピングカート数量 %1 %2:"
 "Virtual Only",仮想のみ
 "Shopping cart %1 only virtual items","ショッピングカート %1 仮想商品のみ"
-"Wish List",ほしい物リスト
+"Wish List",欲しいものリスト
 "Shopping Cart",カート
-"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","ほしい物リストは空ではなく、 %1 %2 日間放棄され、これらの条件の %3 は一致します："
-"The root wish list condition should have a days value of 1 or greater.",ルートほしい物リスト条件は、1以上の日数の値を持つ必要があります。
+"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","欲しいものリストは空ではなく、 %1 %2 日間放棄され、これらの条件の %3 は一致します："
+"The root wish list condition should have a days value of 1 or greater.",ルート欲しいものリスト条件は、1以上の日数の値を持つ必要があります。
 "Product Attributes",商品属性
-"Product %1","製品 %1"
+"Product %1","商品 %1"
 "Number of Items",アイテム数
-"Number of wish list items %1 %2","ほしい物リストアイテムの数 %1 %2"
+"Number of wish list items %1 %2","欲しいものリストアイテムの数 %1 %2"
 Sharing,共有
-"Wish List %1 shared","ほしい物リスト %1 共有"
+"Wish List %1 shared","欲しいものリスト %1 共有"
 is,と等しい
 "is not",と等しくない
-"The item was added to wish list %1, store view %2.","アイテムは、ほしい物リスト %1、ストアビュー %2 に追加されました。"
-"If an item is %1 in the wish list and %2 of these conditions match:","アイテムがほしい物リストの %1 であり、これらの条件の %2 が一致する場合:"
+"The item was added to wish list %1, store view %2.","アイテムは、欲しいものリスト %1、ストアビュー %2 に追加されました。"
+"If an item is %1 in the wish list and %2 of these conditions match:","アイテムが欲しいものリストの %1 であり、これらの条件の %2 が一致する場合:"
 "Condition type is unexpected",条件タイプが予期しないものです
 "The valid number of minutes needs to be entered. Enter and try again.","有効な分の数値を入力する必要があります。 入力して再度お試し下さい。"
 "The Cron expression was unable to be saved.",Cron式を保存することができませんでした。
@@ -9337,9 +9338,9 @@ ID,ID
 "Products in carts",カート内の商品
 Carts,カート
 Name,名前
-"Wish Lists",ほしい物リスト
-"Wish List Purchase",ほしい物リスト購入
-"Wish List vs. Regular Order","ほしい物リスト vs. 通常注文"
+"Wish Lists",欲しいものリスト
+"Wish List Purchase",欲しいものリスト購入
+"Wish List vs. Regular Order","欲しいものリスト vs. 通常注文"
 "Times Deleted",削除された時間
 "Index type is not valid",インデックスタイプが有効ではありません
 Reports,レポート
@@ -9393,7 +9394,7 @@ Error,エラー
 "Select Date",日付を選択
 "Customers that have Wish List: %1","お気入りリストを持つ顧客: %1"
 "Number of Wish Lists: %1","お気に入りリストの数: %1"
-"Number of items bought from a Wish List: %1","ほしい物リストから買われた商品の数: %1"
+"Number of items bought from a Wish List: %1","欲しいものリストから買われた商品の数: %1"
 "Number of times Wish Lists have been shared (emailed): %1","お気に入りリストがシェアされた回数 (Eメール): %1"
 "Number of Wish List referrals: %1","お気に入りリストが参照された数: %1"
 "Number of Wish List conversions: %1","お気に入りリストコンバージョン数: %1"
@@ -9429,7 +9430,7 @@ Dashboard,ダッシュボード
 Average,平均
 "Stock Quantity",在庫数
 "Ordered Quantity",注文数
-"The report displays the top 5 most viewed products for each interval.",このレポートには、各インターバルで最もよく視聴されたトップ5の製品が表示されます。
+"The report displays the top 5 most viewed products for each interval.",このレポートには、各インターバルで最もよく視聴されたトップ5の商品が表示されます。
 "For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",正確なレポートには、いつでもタイムゾーンを変更するときに保存期間統計を更新することを必ず行うようにしてください。
 Guest,ゲスト様
 Action,アクション
@@ -9454,7 +9455,7 @@ undefined,未定義
 "We can't add the item to the Requisition List right now: %1.","現在このアイテムを請求リストに追加できません: %1。"
 "We can't specify a requisition list.",請求リストを指定できません。
 "You must choose options for your item.",商品のオプションを選択しなければなりません。
-"We can't specify a product.",製品を特定できません
+"We can't specify a product.",商品を特定できません
 "You added %1 item(s) to your shopping cart.","あなたのショッピングカートに %1 の商品を追加しました。"
 "Something went wrong.",問題が発生しました。
 "We can't configure the product right now.",現在この商品を設定できません。
@@ -9733,7 +9734,7 @@ Customers,顧客
 "You can't unsubscribed right now.",ただ今購読解除できません。
 "%1 Reward points (%2)","%1 ポイント (%2)"
 "%1 Reward points","%1 ポイント"
-"Updated by moderator",モデレーターによって更新されました
+"Updated by moderator",管理者によって更新されました
 "Refunded from order #%1","注文から払い戻された #%1"
 "Points voided at order #%1 refund.","注文番号 #%1 の払い戻しでポイントが無効になりました。"
 "The invitation to %1 converted into a customer.","%1 への招待状が顧客に変換されました。"
@@ -9743,7 +9744,7 @@ Customers,顧客
 "Earned points for order #%1",注文番号#%1の獲得ポイント
 "Reverted from incomplete order #%1","不完全な注文から復帰しました #%1"
 "Registered as customer",顧客登録
-"For submitting a product review",製品のレビューを提出する場合
+"For submitting a product review",商品のレビューを提出する場合
 "Earned promotion extra points from order #%1",注文番号#%1から追加ポイントを獲得しました
 "%1 store reward points available (%2)","%1店舗の特典ポイントが利用可能です (%2)"
 "%1 store reward points available",%1店舗の特典ポイントが利用可能です
@@ -9980,7 +9981,7 @@ Price,価格
 "There are no applicable items for return in this order.",この順番で返品の対象となる商品はありません。
 "We don't recognize or support the file extension in shipment %1.","%1 のファイル拡張子を認識またはサポートしていません。"
 "Something went wrong creating a shipping label.",配送ラベルを作成する際に何か問題が発生しました。
-"A quantity you're trying to add exceeds the number of products we shipped.",追加しようとしている数量が、出荷された製品の数を超えています。
+"A quantity you're trying to add exceeds the number of products we shipped.",追加しようとしている数量が、出荷された商品の数を超えています。
 "Products should be added to package(s)",商品は梱包に追加されなければなりません
 "Please enter a valid value.",有効な値を入力してください。
 "This is the wrong RMA ID.","これは間違ったRMA IDです。"
@@ -10150,7 +10151,7 @@ Height,高さ
 "Request Information",要求情報
 "Date Requested",依頼日付
 "Shipping Address",お届け先住所
-"This won't take long . . .","This won't take long . . ."
+"This won't take long . . .","しばらくお待ち下さい..."
 "Shipping and Tracking Information",配送と追跡情報
 "Track this shipment",この荷物を追跡する
 "Items Return Requested For",返品リクエスト
@@ -10315,7 +10316,7 @@ Quantity,個数
 "Recently Viewed Products",最近閲覧した商品
 "Last Ordered Items",最終注文商品
 "Recently Viewed",最近閲覧した商品
-"Wish List",ほしい物リスト
+"Wish List",欲しいものリスト
 "Please select a store",ストアを選択してください
 "Order Totals",注文合計
 "Shipping Incl. Tax (%1)","税込み送料 (%1)"
@@ -10585,7 +10586,7 @@ Canceled,キャンセル済
 "Maximum shipping amount allowed to refund is: %1","返金が許された最大の発送額は: %1"
 "Order Id is required for creditmemo document",クレジットメモ文書には注文IDが必要です
 "The creditmemo contains product SKU ""%1"" that is not part of the original order.","クレジットメモには元の注文の一部ではない商品SKU ""%1"" が含まれています。"
-"The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU ""%1"".","クレジットメモへの数量は、製品SKU ""%1"" の払い戻されていない数量を超えてはいけません。"
+"The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU ""%1"".","クレジットメモへの数量は、商品SKU ""%1"" の払い戻されていない数量を超えてはいけません。"
 "You can't create a creditmemo without products.",プロダクトなしでクレジットメモを作成することはできません。
 "The most money available to refund is %1.","最も返金可能な金額は %1."
 "The credit memo couldn't be deleted.",クレジットメモが削除できませんでした。
@@ -10599,7 +10600,7 @@ Paid,支払済
 "Could not save the invoice item.",請求商品を保存できませんでした。
 "We can't create creditmemo for the invoice.",請求書のクレジットメモを作成することはできません。
 "Order Id is required for invoice document",請求書文書には受注IDが必要です
-"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","請求書の数量は、製品SKU ""%1"" の無認可数量を超えてはいけません。"
+"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","請求書の数量は、商品SKU ""%1"" の無認可数量を超えてはいけません。"
 "The invoice contains one or more items that are not part of the original order.",請求書には元の注文の一部ではない1つ以上の品目が含まれています。
 "Unknown Status",不明なステータス
 Ordered,注文済
@@ -10681,8 +10682,8 @@ title,タイトル
 "Could not save the shipment tracking.",配送追跡を保存できませんでした。
 "Order Id is required for shipment document",出荷伝票に注文IDが必要です
 "You can't create a shipment without products.",商品を持たない出荷データは作成できません。
-"The shipment contains product SKU ""%1"" that is not part of the original order.","出荷には元の注文の一部ではない製品SKU ""％1""が含まれています。"
-"The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","出荷する数量は、製品SKU ""%1"" の未出荷数量を超えてはいけません。"
+"The shipment contains product SKU ""%1"" that is not part of the original order.","出荷には元の注文の一部ではない商品SKU ""％1""が含まれています。"
+"The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","出荷する数量は、商品SKU ""%1"" の未出荷数量を超えてはいけません。"
 "Please enter a tracking number.",トラッキング番号を入力してください
 "The shipment couldn't be deleted.",配送が削除できませんでした。
 "The shipment couldn't be saved.",配送を保存できませんでした。
@@ -10942,7 +10943,7 @@ Ok,Ok
 Operations,オペレーター
 Create,作成
 "Send Order Email",注文電子メールを送信する
-"Accept or Deny Payment","Accept or Deny Payment"
+"Accept or Deny Payment","支払受け入れまたは拒否"
 "Send Sales Emails",販売メールを送る
 "Sales Section",販売セクション
 "Sales Emails Section",販売メールセクション
@@ -11139,8 +11140,8 @@ Shipment,配送
 "Ship Date",発送日
 "Total Quantity",総数量
 "Go to Archive",アーカイブに移動
-"The ""%1"" product is not part of the current creditmemo.","""%1"" 製品は現在のクレジットメモの一部ではありません。"
-"The return to stock argument contains product item that is not part of the original order.",在庫引数への返品は元の注文の一部ではない製品の項目が含まれています。
+"The ""%1"" product is not part of the current creditmemo.","""%1"" 商品は現在のクレジットメモの一部ではありません。"
+"The return to stock argument contains product item that is not part of the original order.",在庫引数への返品は元の注文の一部ではない商品の項目が含まれています。
 "Cart Price Rules",クーポン
 "Add New Rule",新規ルールの追加
 Delete,削除
@@ -11274,7 +11275,7 @@ Promotion,プロモーション
 Priority,優先度
 "Cart Price Rule",カート価格ルール
 Back,戻る
-"Currently Active","Currently Active"
+"Currently Active","現在有効"
 "Rule Information",ルール情報
 "Rule Name",ルール名
 Description,概要
@@ -11298,7 +11299,7 @@ Apply,適用
 "Apply to Shipping Amount",配送料に適用する
 "Discard subsequent rules",このルールより優先度の低いルールの適用を行わない
 "Default Rule Label for All Store Views",全てのストアビューに対する標準クーポン名
-"An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2"
+"An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","処理中にエラーが発生しました。 クーポンID %1 の有効期限が更新されていません。 エラーメッセージ: %2"
 "Future Update already exists in this time range. Set a different range and try again.",この時間帯の次回の更新は既に存在します。違う時間帯を設定して再度お試し下さい。
 ID,ID
 Rule,ルール
@@ -11334,7 +11335,7 @@ Labels,ラベル
 "Save as a New Update",新しいアップデートとして保存
 "Move to Another Update",他のアップデートに移動
 "Delete the Update",更新を削除
-"The cart price rule will be removed from the update and all scheduled changes will be lost.","The cart price rule will be removed from the update and all scheduled changes will be lost."
+"The cart price rule will be removed from the update and all scheduled changes will be lost.","クーポン情報はこの更新で削除され、すべての予定は失われます。"
 200,200
 100,100
 50,50
@@ -11347,7 +11348,7 @@ Labels,ラベル
 "Not enough arguments",引数が足りません
 "File not found",ファイルが見つかりません
 "Fatal Error",致命的エラー
-"Advanced Inventory","Advanced Inventory"
+"Advanced Inventory","拡張在庫設定"
 "Manage Stock",在庫管理
 Yes,Yes
 No,No
@@ -11623,7 +11624,7 @@ None,なし
 "Please define the correct sender information.",正しい送信者情報を定義してください
 "IP Address",IPアドレス
 "Cookie (unsafe)","Cookie (安全ではない)"
-"No Product Exception.",製品例外なし。
+"No Product Exception.",商品例外なし。
 "No Category Exception.",カテゴリ例外なし。
 "Some error",何らかのエラー
 "Localized Exception.",ローカライズ例外
@@ -12025,16 +12026,16 @@ Unrequested,未リクエスト
 "The ""%1"" should not be empty.","""%1"" は空にできません。"
 "Case entity not found.",ケースが見つかりません。
 "Case Update: New score for the order is %1. Previous score was %2.","ケース更新: 注文に対する新しいスコアは %1 です。以前のスコアは %2 でした。"
-"Awaiting the Signifyd guarantee disposition.","Signifyd 保証譲渡まち。"
+"Awaiting the Signifyd guarantee disposition.","Signifyd 保証譲渡待ち。"
 "Only single entrance of ""%1"" node is required.","""%1"" ノードの単一のインスタンスだけが必要です。"
 "Not empty value for ""%1"" node is required.","""%1"" ノードの空ではない値が必要です。"
 "%1 must implement %2","%1 は、%2 を実装する必要があります"
-Error,Error
+Error,エラー
 "Cannot generate message.",メッセージを生成できません。
 "Message is generated.",メッセージが生成されます
 "Case with the same order id already exists.","同じ注文 IDのケースが存在しています"
 "Fraud Protection Information",詐欺行為防止情報
-"Signifyd Guarantee Decision","Signifyd 保証の決定"
+"Signifyd Guarantee Decision","Signifyd 審査結果"
 "Fraud Protection Section",詐欺行為防止セクション
 "Fraud Protection",詐欺行為防止
 "Protect your store from fraud with Guaranteed Fraud Protection by Signifyd.","Signifyd による不正利用防止保証で詐欺からあなたの店を保護しましょう。"
@@ -12136,7 +12137,7 @@ Action,アクション
 "Solr Server Path",Solrサーバパス
 "Without starting and trailing slashes.",末尾のスラッシュなしで開始する
 "Indexation Mode",インデックスモード
-"Partial commit mode affects time of indexation, but allows indexed products to be visible on Storefront before indexation is completed.",部分コミットモードはインデックス作成の時間に影響しますが、インデックス作成が完了する前にStorefrontでインデックス付きの製品を表示することができます。
+"Partial commit mode affects time of indexation, but allows indexed products to be visible on Storefront before indexation is completed.",部分コミットモードはインデックス作成の時間に影響しますが、インデックス作成が完了する前にStorefrontでインデックス付きの商品を表示することができます。
 "Test Connection",接続テスト
 Cancel,キャンセル
 Preview,プレビュー
@@ -12334,7 +12335,7 @@ Model,モデル
 "Main Table",メインテーブル
 "Additional Attribute Table",追加の属性テーブル
 "New Eav Attributes",新しいEav属性
-"Product Eav Attributes",製品Eav属性
+"Product Eav Attributes",商品Eav属性
 "Rma Item Eav Attributes",RmaアイテムEav属性
 "User Defined Eav Attributes",ユーザー定義のEav属性
 Name,名前
@@ -12397,7 +12398,7 @@ Store,店舗
 "Duplicate Orders By Increment Id",増分IDで重複した注文
 "Increment Id",増分ID
 "Customer Id","顧客 Id"
-"Duplicate Products By SKU",SKUによる製品の重複
+"Duplicate Products By SKU",SKUによる商品の重複
 SKU,商品番号
 "Duplicate Products By URL Key",URLキーによる商品の重複
 "URL Key",URLキー
@@ -12502,8 +12503,8 @@ Stores,店舗
 "Report Groups",レポートグループ
 "Unknown schema type supplied",不明なスキーマタイプが提供されました
 "Admin is a required field in the each row",管理者は各行は必須フィールドです
-"Update Product Preview Image",製品プレビュー画像を更新
-"Filtering by this attribute will update the product image on catalog page",この属性でのフィルタリングはカタログページの製品画像を更新します。
+"Update Product Preview Image",商品プレビュー画像を更新
+"Filtering by this attribute will update the product image on catalog page",この属性でのフィルタリングはカタログページの商品画像を更新します。
 "Use Product Image for Swatch if Possible",利用できる場合は商品画像をスワッチ画像として使う
 "Allows use fallback logic for replacing swatch image with product swatch or base image",スワッチ画像を商品画像に置き換えるためにフォールバック機構の使用を許可
 "Visual Swatch",ビジュアルスワッチ
@@ -12520,7 +12521,7 @@ Delete,削除
 "Upload a file",ファイルを選択
 Clear,クリア
 "Step 2: Attribute Values","ステップ 2: 属性値"
-"Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.","この製品の以下の属性値から選択してください。 独自の値の組み合わせにより、一意の製品SKUが作成されます。"
+"Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.","この商品の以下の属性値から選択してください。 独自の値の組み合わせにより、一意の商品SKUが作成されます。"
 "Sort Variations",並べ替えバリエーション
 Options,オプション
 "Select All",全て選択
@@ -12532,7 +12533,7 @@ Options,オプション
 "Sending swatch values as package.",パッケージとしてスワッチ値を送信。
 More,もっと見る
 Swatches,スワッチ
-"Swatches per Product",製品ごとの見本
+"Swatches per Product",商品ごとの見本
 "Show Swatches in Product List",商品一覧に見本を表示する
 "Swatch Image",商品見本画像
 Image,画像
@@ -12562,7 +12563,7 @@ Inactive,未アクティブ
 From,開始
 To,終了
 "Result Limit",結果リミット
-"Maximum number of products this rule can apply to (up to 20).",このルールを適用できる製品の最大数（最大20）。
+"Maximum number of products this rule can apply to (up to 20).",このルールを適用できる商品の最大数（最大20）。
 "Product Rule Information",商品ルール情報
 "The Catalog Product List Type needs to be defined. Verify the type and try again.",カタログプロダクトリストタイプを定義する必要があります。タイプを確認して再度お試し下さい。
 "You deleted the rule.",ルールを削除しました。
@@ -12577,11 +12578,11 @@ To,終了
 "Invalid rotation mode type",不正なローテーションモード
 "Conditions Combination",条件の組み合わせ
 Type,種別
-"Product %1%2%3%4%5%6%7","製品 %1%2%3%4%5%6%7"
+"Product %1%2%3%4%5%6%7","商品 %1%2%3%4%5%6%7"
 "Constant Value",定数
-"the Same as Matched Product Categories",一致した製品カテゴリと同じ
+"the Same as Matched Product Categories",一致した商品カテゴリと同じ
 "the Child of the Matched Product Categories",一致した商品カテゴリの子供
-"Matched Product %1","一致した製品 %1"
+"Matched Product %1","一致した商品 %1"
 "Target Product",対象商品
 "Price (percentage)","価格 (割合)"
 "Product Special",特別商品
@@ -12590,10 +12591,10 @@ more,もっと見る
 "equals or greater than",等しいかそれより大きい
 less,以下
 "equals or less than",等しいかそれより小さい
-"Product Price is %1 %2% of Matched Product(s) Price","製品価格は一致した製品価格の %1 %2% です"
-"Please define a product data object.",製品データオブジェクトを定義してください。
-"We can't rebuild the index for an undefined product.",未定義製品のためのインデックスを再構築できません。
-"Could not rebuild index for empty products array",空の製品配列があるため、インデックスを再構築できませんでした
+"Product Price is %1 %2% of Matched Product(s) Price","商品価格は一致した商品価格の %1 %2% です"
+"Please define a product data object.",商品データオブジェクトを定義してください。
+"We can't rebuild the index for an undefined product.",未定義商品のためのインデックスを再構築できません。
+"Could not rebuild index for empty products array",空の商品配列があるため、インデックスを再構築できませんでした
 "-- Please Select --","-- 選択してください --"
 "Related Products",関連商品
 Up-sells,アップセル商品
@@ -12629,9 +12630,9 @@ Close,閉じる
 "Rotation Mode for Products in Upsell Product List",アップセル商品リストのローテーションモード
 "Target Rule",ターゲットルール
 "Target Rule Index",ターゲットルールインデックス
-"Product/Target Rule",製品/ターゲットルール
+"Product/Target Rule",商品/ターゲットルール
 "Indexed product/rule association","インデックス化された 商品/ルール アソシエイション"
-"Target Rule/Product",ターゲットルール/製品
+"Target Rule/Product",ターゲットルール/商品
 "Indexed rule/product association","インデックス化された ルール/商品 アソシエイション"
 ID,ID
 Rule,ルール
@@ -12756,7 +12757,7 @@ None,なし
 "Updating classType is not allowed.",クラスタイプのアップデートは許可されていません
 "A class with the same name already exists for ClassType %1.","同じ名前のクラスがクラスタイプ %1　に存在します"
 "customer group",顧客グループ
-product,製品
+product,商品
 "Excl. tax:",税抜き:
 "Incl. Tax",税込
 "Entity already exists",エンティティはすでに存在します
@@ -12778,7 +12779,7 @@ Taxes,税金
 "Tax Section",税セクション
 "Tax Classes",税区分
 "Tax Class for Shipping",配送の税区分
-"Default Tax Class for Product",ディフォルトの製品のための税クラス
+"Default Tax Class for Product",ディフォルトの商品のための税クラス
 "Default Tax Class for Customer",ディフォルトの顧客のための税クラス
 "Calculation Settings",計算設定
 "Tax Calculation Method Based On",税計算方法の基準
@@ -13064,14 +13065,14 @@ Options,オプション
 "records found",件が見つかりました。
 selected,選択済み
 of,の
-Filters,Filters
-Add,Add
+Filters,フィルタ
+Add,追加
 "Something went wrong.",何か問題が発生しました。
 Apply,適用
 "was not uploaded",アップロードされていません
 Yes,Yes
 No,No
-Done,Done
+Done,完了
 options,オプション
 Select...,選択...
 Selected,選択済み
@@ -13171,7 +13172,7 @@ Keyword,キーワード
 "This link is not allowed.",このリンクは許可されていません。
 Attention,注意
 OK,OK
-Close,Close
+Close,閉じる
 Ok,Ok
 "Label Button 2","ラベルボタン 2"
 "Label Actions One","ラベルアクション 1"
@@ -13840,8 +13841,8 @@ Template,テンプレート
 "CMS Page Link Block Template",CMSページリンクブロックテンプレート
 "CMS Page Link Inline Template",CMSページリンクインラインテンプレート
 "All Store Views",全てのストアビュー
-"Search All Products",すべての製品を検索
-"Add Product by SKU",SKUによる製品の追加
+"Search All Products",すべての商品を検索
+"Add Product by SKU",SKUによる商品の追加
 Position,位置
 Action,アクション
 Unassign,未割り当て
@@ -13851,7 +13852,7 @@ Bottom,ボトム
 "Page not found.",ページが見つかりません。
 "No SKU entered",SKUは入力されていません
 "Undefined Action",未定義アクション
-"Products with the following SKUs do not exist: %s","以下のSKUを持つ製品は存在しません: %s"
+"Products with the following SKUs do not exist: %s","以下のSKUを持つ商品は存在しません: %s"
 "%s SKU(s) processed successfully","%s SKUが正常に処理されました"
 "On Top",上に
 "On Bottom",下に
@@ -13876,7 +13877,7 @@ Contains,含有
 "Move low stock to top",低在庫をトップに移動
 "Name: A - Z","名前: A - Z"
 "Name: Z - A","名前: Z - A"
-"Newest products first",最新の製品を最初に
+"Newest products first",最新の商品を最初に
 "Move out of stock to bottom",在庫切れを底に移動
 "Price: High to low",価格：高いから低い
 "Price: Low to high",価格：低いから高い
@@ -13900,7 +13901,7 @@ Draggable,ドラッグ可能
 Close,閉じる
 "Product image",商品画像
 "You can create a rule only to the existing categories.",既存のカテゴリにのみルールを作成できます。
-"Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.",ルールに一致する商品のみが保存後にカテゴリに表示されます。一致しない製品と手動によるソートはカテゴリから削除されます。
+"Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.",ルールに一致する商品のみが保存後にカテゴリに表示されます。一致しない商品と手動によるソートはカテゴリから削除されます。
 Attribute,属性
 Operator,オペレーター
 Value,値
@@ -13920,7 +13921,7 @@ Off,Off
 "Visible Attributes for Category Rules",カテゴリルールの表示属性
 "Additional attributes usable in category rules",カテゴリルールで使用可能な追加の属性
 "Minimum Stock Threshold",最小在庫しきい値
-"Determines which products are 'low stock'",どの製品が'低在庫'であるかを判断する
+"Determines which products are 'low stock'",どの商品が'低在庫'であるかを判断する
 "Color Attribute Code",色属性コード
 "Color Order",カラーオーダー
 "Each color being on a separate row.",各色は別々の行にあります。
@@ -14023,7 +14024,7 @@ Close,Close
 "Page Layouts",ページレイアウト
 "Please Select Container First",まずコンテナを選択してください
 "Storefront Properties","Storefront Properties"
-Type,Type
+Type,種別
 "Design Package/Theme",デザインパッケージ/テーマ
 "Widget Title",ウィジェットタイトル
 "Assign to Store Views",ストアビューにアサインする
@@ -14034,7 +14035,7 @@ Categories,カテゴリ
 "Anchor Categories",カテゴリのアンカー
 "Non-Anchor Categories",アンカーではないカテゴリ
 "All Product Types",全ての商品種別
-Products,Products
+Products,商品
 "Generic Pages",一般ページ
 "All Pages",全てのページ
 "Specified Page",特定のページ
@@ -14043,7 +14044,7 @@ Products,Products
 "Widget Options",ウィジェットオプション
 Settings,設定
 "Design Theme",デザインテーマ
-Continue,Continue
+Continue,続ける
 Widget,ウィジェット
 "Please specify a Widget Type.",ウィジェットタイプを指定してください。
 CMS,CMS
@@ -14062,7 +14063,7 @@ Template,テンプレート
 All,全て
 "Specific %1","特定の %1"
 "Open Chooser",選択を開く
-Apply,Apply
+Apply,適用
 Page,ページ
 "Orders and Returns",注文と返品
 "Orders and Returns Search Form",注文と返品検索フォーム
@@ -14074,60 +14075,60 @@ Page,ページ
 "Link Text",リンクテキスト
 "The text of the link to the My Account &gt; Order by SKU page",マイアカウントへのリンクのテキスト&gt;SKUページの順
 "Load a list of SKUs",SKUのリストを読み込む
-Product,Product
+Product,商品
 "Select Product...",商品を選択...
 Conditions,条件
 "Widget ID",ウィジェットID
-"Wish List",ほしい物リスト
-"Wish List Sharing",ほしい物リストの共有
-"My Wish List",ほしい物リスト
-"%1's Wish List","%1 のほしい物リスト"
+"Wish List",欲しいものリスト
+"Wish List Sharing",欲しいものリストの共有
+"My Wish List",欲しいものリスト
+"%1's Wish List","%1 の欲しいものリスト"
 "Page not found.",ページが見つかりません。
-"We can't specify a product.",製品を特定できません
-"We can't add the item to Wish List right now: %1.","このアイテムをほしい物リストに現在追加できません: %1."
-"We can't add the item to Wish List right now.",このアイテムをほしい物リストに現在追加できません。
+"We can't specify a product.",商品を特定できません
+"We can't add the item to Wish List right now: %1.","このアイテムを欲しいものリストに現在追加できません: %1."
+"We can't add the item to Wish List right now.",このアイテムを欲しいものリストに現在追加できません。
 "You added %1 to your shopping cart.","%1 をカートに追加しました"
 "This product(s) is out of stock.",この商品は在庫切れです。
 "We can't add the item to the cart right now.",このアイテムをカートに追加することは現在できません。
 "The Wish List item can't load at this time. Please try again later.","欲しいものリストの商品を読み込むことはできません。 後で再度お試しください。"
-"We can't configure the product right now.",この製品の設定を現在することができません。
+"We can't configure the product right now.",この商品の設定を現在することができません。
 "The cart item doesn't exist.",カート商品が存在しません。
 "%1 has been moved to your wish list.","%1 はあなたのお気に入りリストに移動されました。"
 "We can't move the item to the wish list.",商品をお気に入りリストに移動することができません。
 "You must login or register to add items to your wishlist.",欲しいものリストにアイテムを追加するには、ログインもしくは登録する必要があります。
-"We can't delete the item from Wish List right now because of an error: %1.","エラー: %1　のために現在ウィッシュリストからこのアイテムを削除できません。"
-"We can't delete the item from the Wish List right now.",このアイテムをウィッシュリストから現在削除できません。
+"We can't delete the item from Wish List right now because of an error: %1.","エラー: %1　のために現在欲しいものリストからこのアイテムを削除できません。"
+"We can't delete the item from the Wish List right now.",このアイテムを欲しいものリストから現在削除できません。
 "Message length must not exceed %1 symbols","メッセージの長さは %1 文字以上でなければなりません。"
 "Please enter an email address.",eメールアドレスを入力してください
-"This wish list can be shared %1 more times.","このほしい物リストは %1 回以上共有できます。"
+"This wish list can be shared %1 more times.","この欲しいものリストは %1 回以上共有できます。"
 "Please enter a valid email address.",正しいメールアドレスを入力してください。
-"Your wish list has been shared.",あなたのほしい物リストは共有されました。
-"We can't delete item from Wish List right now.",アイテムをウィッシュリストから現在削除できません。
+"Your wish list has been shared.",あなたの欲しいものリストは共有されました。
+"We can't delete item from Wish List right now.",アイテムを欲しいものリストから現在削除できません。
 "Can't save description %1","詳細を保存できません %1"
-"Can't update wish list",ウィッシュリストをアップデートできません
-"%1 has been updated in your Wish List.","%1 はあなたのほしい物リストでアップデートされました。"
-"We can't update your Wish List right now.",現在あなたのウィッシュリストはアップデートできません。
-"The requested Wish List doesn't exist.",要求されたウィッシュリストは存在しません。
-"We can't create the Wish List right now.",現在ウィッシュリストを作成できません。
+"Can't update wish list",欲しいものリストをアップデートできません
+"%1 has been updated in your Wish List.","%1 はあなたの欲しいものリストでアップデートされました。"
+"We can't update your Wish List right now.",現在あなたの欲しいものリストはアップデートできません。
+"The requested Wish List doesn't exist.",要求された欲しいものリストは存在しません。
+"We can't create the Wish List right now.",現在欲しいものリストを作成できません。
 "%1 items","%1 商品"
 "1 item","1 商品"
 Comment,コメント
-"Display number of items in wish list",ほしい物リストのアイテム数を表示
+"Display number of items in wish list",欲しいものリストのアイテム数を表示
 "Display item quantities",商品の見積もりを表示
 "An item option with code %1 already exists.",コード%1の商品オプションは既に存在します
-"We can't specify a wish list.",ウィッシュリストを指定できません。
+"We can't specify a wish list.",欲しいものリストを指定できません。
 "Cannot specify product.",商品を特定できません。
-"Product is not salable.",製品は販売されていません。
+"Product is not salable.",商品は販売されていません。
 "Invalid item option format.",不正な商品オプションフォーマットです。
 "%1 for ""%2"".","""%2"" のための %1"
 "We can't add this item to your shopping cart right now.",このアイテムを現在ショッピングカートに追加できません。
 "We couldn't add the following product(s) to the shopping cart: %1.","以下の商品をショッピングカートに追加できませんでした: %1."
-"We can't update the Wish List right now.",現在ウィッシュリストを更新できません。
+"We can't update the Wish List right now.",現在欲しいものリストを更新できません。
 "%1 product(s) have been added to shopping cart: %2.","%1 個のアイテムがショッピングカートに追加されました: %2."
 Comment:,コメント:
-"We cannot retrieve the Wish List.",ほしい物リストは読み込みできませんでした。
-"%1's Wishlist","%1 のウィッシュリスト"
-"We can't specify a wish list item.",ウィッシュリストのアイテムを特定できません。
+"We cannot retrieve the Wish List.",欲しいものリストは読み込みできませんでした。
+"%1's Wishlist","%1 の欲しいものリスト"
+"We can't specify a wish list item.",欲しいものリストのアイテムを特定できません。
 "The product does not exist.",商品が見つかりません。
 "Test Phrase",テストフェーズ
 message,メッセージ
@@ -14141,7 +14142,7 @@ LocalizedException,LocalizedException
 "Regular Price",通常価格
 "Share Wish List",欲しい物リストを共有
 "Add All to Cart",すべてをカートに入れる
-"Update Wish List",ほしい物リストを更新
+"Update Wish List",欲しいものリストを更新
 "Move to Wishlist",欲しいものリストに移動
 "Add to Wish List",欲しいものリストに追加
 "View Product",商品を表示
@@ -14154,29 +14155,29 @@ Edit,編集
 "Remove Item",商品を削除
 "Remove item",商品を削除
 "Add to Compare",比較リストに入れる
-"This Wish List has no Items",このほしい物リストにはアイテムはありません。
-"%1 has been added to your Wish List.","%1 があなたのほしい物リストに追加されました。"
+"This Wish List has no Items",この欲しいものリストにはアイテムはありません。
+"%1 has been added to your Wish List.","%1 があなたの欲しいものリストに追加されました。"
 "Click <a href=""%1"">here</a> to continue shopping.","<a href=""%1"">ここ</a>をクリックしてお買い物を続けて下さい"
 "See Details",詳細をご覧ください
 "Options Details",オプションの概要
-"RSS link to %1's wishlist","%1 のほしい物リストへのRSSリンク"
+"RSS link to %1's wishlist","%1 の欲しいものリストへのRSSリンク"
 "RSS Feed",RSSフィード
 Product,商品
 Back,戻る
-"Wish List is empty now.",ほしい物リストは現在空です。
+"Wish List is empty now.",欲しいものリストは現在空です。
 "* Required Fields","* 必須項目"
 "Sharing Information",共有している情報
 "Email addresses, separated by commas","メールアドレスは「,」で区切る必要があります"
-"Check here to link an RSS feed to your Wish List.",RSSフィードとあなたのほしい物リストをリンクするにはここをチェックしてください。
+"Check here to link an RSS feed to your Wish List.",RSSフィードとあなたの欲しいものリストをリンクするにはここをチェックしてください。
 "Last Added Items",最後に追加した商品
 "Remove This Item",この商品を削除する
-"Go to Wish List",ほしい物リストに行く
-"You have no items in your wish list.",ほしい物リストは空です。
-"Take a look at %customer_name's Wish List","%customer_name さんのほしい物リストを見てみましょう"
+"Go to Wish List",欲しいものリストに行く
+"You have no items in your wish list.",欲しいものリストは空です。
+"Take a look at %customer_name's Wish List","%customer_name さんの欲しいものリストを見てみましょう"
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name は %store_name からのお気に入りリストをあなたとシェアしたがっています:"
 "Message from %customer_name:",%customer_nameからのメッセージ:
 "View all Wish List items",すべてのお気に入り商品を見る
-"Wish List Section",ほしい物リストセクション
+"Wish List Section",欲しいものリストセクション
 "Share Options",共有オプション
 "Email Sender",メール送信者
 "Email Template",メールテンプレート
@@ -14185,8 +14186,8 @@ Back,戻る
 "Email Text Length Limit",Wメールのテキストの長さの最大数
 "General Options",全般オプション
 Enabled,有効
-"My Wish List Link",自分のほしい物リストのリンク
-"Display Wish List Summary",ほしい物リストのサマリーの表示
+"My Wish List Link",自分の欲しいものリストのリンク
+"Display Wish List Summary",欲しいものリストのサマリーの表示
 "Enable RSS",RSSを有効にする
 "No Items Found",商品が見つかりませんでした
 "Product Name",商品名
@@ -14194,7 +14195,7 @@ Enabled,有効
 Quantity,個数
 "Add Locale",ロケール追加
 "Add Date",日付追加
-"Days in Wish List",ほしい物リスト内日付
+"Days in Wish List",欲しいものリスト内日付
 Action,アクション
 Configure,構成
 Delete,削除
@@ -14214,7 +14215,7 @@ Matched,一致
 "No such order id.",そのような注文IDはありません。
 "Transaction has been canceled",トランザクションはキャンセルされました
 "Transaction has been declined",トランザクションは却下されました
-"Your purchase process has been cancelled.","Your purchase process has been cancelled."
+"Your purchase process has been cancelled.","ご注文の処理がキャンセルされました。"
 "Something went wrong while processing your order. Please try again later.",注文をプロセス中に問題が発生しました。後で再度お試し下さい
 "Gateway response is not valid.",ゲートウェイの応答は無効です。
 "The response type is incorrect. Verify the type and try again.",レスポンスの種類が正しくありません。種類を確認して再度お試し下さい。
@@ -14224,12 +14225,12 @@ Matched,一致
 "Gateway processing error.",ゲートウェイ処理エラー。
 "Transaction was not placed.",取引は行われませんでした。
 None,なし
-Authorize,権限
-"Authorize and Capture",認証と取込
-Refused,拒否された
-Authorised,認可された
+Authorize,オーソリ
+"Authorize and Capture",与信売上同時
+Refused,拒否
+Authorised,与信取得済
 Error,エラー
-Captured,捕獲された
+Captured,確定済み
 "Please click",クリックしてください
 here,ここ
 "if you are not redirected automatically.",自動的にリダイレクトされない場合。
@@ -14253,11 +14254,11 @@ Debug,デバッグ
 "Set Order Status to Suspected Fraud for CVV",CVVの注文疑惑を疑わしい詐欺に設定する
 "Set Order Status to Suspected Fraud for Postcode AVS",郵便番号AVSの疑わしい詐欺に注文ステータスを設定する
 "Sort Order",表示順
-"Payment was canceled.","Payment was canceled."
-"Your payment has been successfully processed by our shop system.",お支払いはショップシステムで正常に処理されました。
+"Payment was canceled.","お支払いはキャンセルされました。"
+"Your payment has been successfully processed by our shop system.",お支払は正常に処理されました。
 Summary,サマリ
-"Account Information","Account Information"
-"Address Book","Address Book"
+"Account Information","アカウント情報"
+"Address Book","アドレス帳"
 Menu,メニュー
 Account,アカウント
 Settings,設定
@@ -14318,3 +14319,25 @@ Footer,フッター
 "My Account",マイアカウント
 "Address Book",アドレス帳
 "Account Information",アカウント情報
+"Salable Quantity","販売可能数量"
+"Product Salable Quantity","商品販売可能数量"
+"Sources","倉庫"
+"Stocks","在庫"
+"Manage Sources","倉庫管理"
+"Add New Source","新規作成"
+"Is Enabled","有効"
+"Contact Info","連絡先"
+"Address Data","住所情報"
+"Postcode","郵便番号"
+"Latitude","緯度"
+"Longitude","経度"
+"The Default Source must be enabled. A default source is required for single source merchants and product migration.","デフォルト倉庫は有効でなければなりません。デフォルト倉庫は単一拠点在庫管理と商品データ移行に必要です。"
+"Sales Channels","販売チャネル"
+"Assigned Sources","割り当て済み倉庫"
+"Assigned sources","割り当て済み倉庫"
+"Add New Stock","新規作成"
+"Assign Sources","倉庫割当"
+"Use Ctrl+Click for check several values or uncheck value. All unassigned sales channels will be assigned to the Default Stock.","CTRLキーを推しながらクリックして、値を選択・非選択にできます。全ての未割り当て販売チャネルはデフォルト倉庫に関連付けられます。"
+"Admin bulk operations","管理者による一括操作"
+"Run asynchronously","非同期実行"
+"An asynchronous queue manager must be configured","非同期キュー管理の設定が必要です。"
