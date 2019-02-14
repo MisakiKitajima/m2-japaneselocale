@@ -14341,3 +14341,4 @@ Footer,フッター
 "Admin bulk operations","管理者による一括操作"
 "Run asynchronously","非同期実行"
 "An asynchronous queue manager must be configured","非同期キュー管理の設定が必要です。"
+"You added %1 to your <a href=""%2"">shopping cart</a>.","ショッピングカートに %1 を追加しました。"
